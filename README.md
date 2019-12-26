@@ -2,23 +2,30 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 0 | 21 декабря 2019
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 0 | 26 декабря 2019
 
-## Мотивация
+## // TODO: Мотивация
 
-// TODO:
+## // TODO: Категории
 
-## Категории
+Примерный список категорий
+* Swift
+* Obj c
+* UI / Интерфейсы
+* Архитектура
+* Тесты
+* Базы данных
+* CI/CD
+* AR
+* Найм / Собеседования
+* Процессы
+* Круглые столы
+* Истории о разработке
 
-// TODO:
+## // TODO: Спикеры
 
-## Спикеры
 
-// TODO:
-
-## Источники и площадки
-
-// TODO:
+## // TODO: Источники и площадки
 
 Примерный список площадок, откуда в первую очередь брать существующие доклады
 
