@@ -48,6 +48,7 @@
 | Yandex | ?
 | Avito | ?
 | Mail.Ru Group | ?
+| VK Tech | ?
 | e-Legion | ?
 | Kaspersky | ?
 | AlfaMeetUp | ?
