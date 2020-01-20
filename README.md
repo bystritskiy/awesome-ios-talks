@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 2 | 19 января 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 3 | 20 января 2020
 
 ## // TODO: Мотивация
 
@@ -23,6 +23,9 @@
 Примерный список категорий
 ## Swift
 ## Obj c
+| Тема | Автор | Площадка |
+| :-: | :-: | :-: |
+| [ObjC и никакого мошенничества](https://www.youtube.com/watch?v=TniyEULwDjg) | Глеб Лукьянец | VK Tech |
 ## UI / Интерфейсы
 ## Архитектура
 ## Тесты
