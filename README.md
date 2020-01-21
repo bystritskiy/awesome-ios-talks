@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 3 | 20 января 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 4 | 21 января 2020
 
 ## // TODO: Мотивация
 
@@ -32,7 +32,7 @@
 | Тема | Автор | Площадка | Год |
 | :-: | :-: | :-: | :-: |
 | [Зачем тестировать iOS вёрстку](https://www.youtube.com/watch?v=TvlfVHyUb3k) | Екатерина Батеева | Yandex | 2019 |
-| [Зачем тестировать iOS вёрстку](https://www.youtube.com/watch?v=TvlfVHyUb3k) | Екатерина Батеева | Yandex | 2019 |
+| [UI тесты в Авито](https://youtu.be/xqRfyt1SEZQ) | Артем Разинов | Avito | 2019 |
 ## Базы данных
 ## CI/CD
 ## AR
@@ -41,7 +41,6 @@
 | Тема | Автор | Площадка | Дата
 | :-: | :-: | :-: | :-: |
 | [Как обойтись без менеджера в своем проекте](https://www.youtube.com/watch?v=rc0jG-rKcek) | Алина Михайлова | Yandex | 2016 |
-| [UI тесты в Авито](https://youtu.be/xqRfyt1SEZQ) | Артем Разинов | Yandex | 2019 |
 ## Круглые столы
 ## Истории о разработке
 
