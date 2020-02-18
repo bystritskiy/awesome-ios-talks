@@ -28,6 +28,7 @@
 | [ObjC и никакого мошенничества](https://www.youtube.com/watch?v=TniyEULwDjg) | Глеб Лукьянец | VK Tech |
 ## UI / Интерфейсы
 ## Архитектура
+## Настройки проекта
 ## Тесты
 | Тема | Автор | Площадка | Год |
 | :-: | :-: | :-: | :-: |
@@ -51,9 +52,9 @@
 
 | Название | Кол-во видео | 
 | :-: | :-: |
-| [CocoaHeads](https://www.youtube.com/channel/UCPZtkJkHv_3pPC0veurLQ6Q) | ~151
-| [Mobile Channel (AppsConf)](https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g) | ~107
-| [Mobius](https://www.youtube.com/channel/UCG70q1HRspLdd93HW94WS-A) | ~140
+| [CocoaHeads](https://www.youtube.com/channel/UCPZtkJkHv_3pPC0veurLQ6Q) | 150+
+| [Mobile Channel (AppsConf)](https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g) | 100+
+| [Mobius](https://www.youtube.com/channel/UCG70q1HRspLdd93HW94WS-A) | 150+
 | Yandex | ?
 | Avito | ?
 | Mail.Ru Group | ?
