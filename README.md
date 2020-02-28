@@ -45,7 +45,7 @@
 ## Круглые столы / DevTalks
 | Тема | Автор | Площадка | Дата
 | :-: | :-: | :-: | :-: |
-| [iOS DevTalks](https://www.youtube.com/watch?v=vgktxe3uXN4) | FunCorp | 2020 |
+| [iOS DevTalks](https://www.youtube.com/watch?v=vgktxe3uXN4) | Александр Чёрный, Алексей Кудрявцев, Андрей Володин, Илья Меркулов, Руслан Кавецкий | FunCorp | 2020 |
 ## Истории о разработке
 
 
