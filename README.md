@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 4 | 21 января 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 5 | 28 февраля 2020
 
 ## // TODO: Мотивация
 
@@ -42,7 +42,10 @@
 | Тема | Автор | Площадка | Дата
 | :-: | :-: | :-: | :-: |
 | [Как обойтись без менеджера в своем проекте](https://www.youtube.com/watch?v=rc0jG-rKcek) | Алина Михайлова | Yandex | 2016 |
-## Круглые столы
+## Круглые столы / DevTalks
+| Тема | Автор | Площадка | Дата
+| :-: | :-: | :-: | :-: |
+| [iOS DevTalks](https://www.youtube.com/watch?v=vgktxe3uXN4) | FunCorp | 2020 |
 ## Истории о разработке
 
 
