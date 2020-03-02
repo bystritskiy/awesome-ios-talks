@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 5 | 28 февраля 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 6 | 2 марта 2020
 
 ## Мотивация
 
@@ -37,6 +37,10 @@
 ## Базы данных
 ## CI/CD
 ## AR
+## Сервисы
+| Тема | Автор | Площадка | Дата
+| :-: | :-: | :-: | :-: |
+| [Сервисы без сервера. Используем Firebase на 100%](https://www.youtube.com/watch?v=gm8DTskY_2k) | Андрей Мухаметов | FunCorp | 2020 |
 ## Найм / Собеседования
 | Тема | Автор | Площадка | Дата
 | :-: | :-: | :-: | :-: |
