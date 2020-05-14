@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 6 | 2 марта 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 7 | 14 мая 2020
 
 ## Мотивация
 
@@ -39,10 +39,13 @@
 ## AR
 ## SwiftUI
 ## Catalyst
-## Сервисы
 | Тема | Автор | Площадка | Дата
 | :-: | :-: | :-: | :-: |
 | [Сервисы без сервера. Используем Firebase на 100%](https://www.youtube.com/watch?v=gm8DTskY_2k) | Андрей Мухаметов | FunCorp | 2020 |
+## Сервисы
+| Тема | Автор | Площадка | Дата
+| :-: | :-: | :-: | :-: |
+| [Путешествие с Catalyst](https://www.youtube.com/watch?v=beOxk71CB4c) | Наталия Волкова | Сбербанк | 2020 |
 ## Найм / Собеседования
 | Тема | Автор | Площадка | Дата
 | :-: | :-: | :-: | :-: |
