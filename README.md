@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 7 | 14 мая 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 8 | 15 мая 2020
 
 ## Мотивация
 
@@ -58,6 +58,10 @@
 | :-: | :-: | :-: | :-: |
 | [iOS DevTalks](https://www.youtube.com/watch?v=vgktxe3uXN4) | Александр Чёрный, Алексей Кудрявцев, Андрей Володин, Илья Меркулов, Руслан Кавецкий | FunCorp | 2020 |
 ## Истории о разработке
+## Саморазвитие разработчика
+| Тема | Автор | Площадка | Дата
+| :-: | :-: | :-: | :-: |
+| [Не переставайте развиваться](https://www.youtube.com/watch?v=VYTDvmxbwRk) | Александр Зимин | Agora | 2020 |
 
 
 ## Площадки
