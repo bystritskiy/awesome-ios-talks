@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 8 | 15 мая 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 9 | 16 мая 2020
 
 ## Мотивация
 
@@ -42,6 +42,10 @@
 | Тема | Автор | Площадка | Дата
 | :-: | :-: | :-: | :-: |
 | [Путешествие с Catalyst](https://www.youtube.com/watch?v=beOxk71CB4c) | Наталия Волкова | Sberbank | 2020 |
+## CarPlay
+| Тема | Автор | Площадка | Дата
+| :-: | :-: | :-: | :-: |
+| [Как мы запустили 2ГИС под CarPlay и до сих пор расхлебываем](https://www.youtube.com/watch?v=qHo2gaMseWc) | Иван Шевелев | 2GIS | 2019 |
 ## Сервисы
 | Тема | Автор | Площадка | Дата
 | :-: | :-: | :-: | :-: |
