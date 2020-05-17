@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 9 | 16 мая 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 10 | 17 мая 2020
 
 ## Мотивация
 
@@ -27,6 +27,9 @@
 | :-: | :-: | :-: | :-: |
 | [ObjC и никакого мошенничества](https://www.youtube.com/watch?v=TniyEULwDjg) | Глеб Лукьянец | VK Tech | 2019 |
 ## UI / Интерфейсы
+| Тема | Автор | Площадка | Дата |
+| :-: | :-: | :-: | :-: |
+| [Backend-Driven UI](https://www.youtube.com/watch?v=NguVmJ3HyrA) | Алексей Новиков | Ozon | 2019 |
 ## Архитектура
 ## Структура проекта
 ## Тесты
