@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 10 | 17 мая 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 11 | 18 мая 2020
 
 ## Мотивация
 
@@ -22,10 +22,13 @@
 ## Категории
 
 ## Swift
+| Тема | Автор | Площадка | Дата |
+| :-: | :-: | :-: | :-: |
+| [Swift Memory Layout](https://www.youtube.com/watch?v=y4qM_6fCeTY) | Сергей Турсунов | VK | 2019 |
 ## Obj c
 | Тема | Автор | Площадка | Дата |
 | :-: | :-: | :-: | :-: |
-| [ObjC и никакого мошенничества](https://www.youtube.com/watch?v=TniyEULwDjg) | Глеб Лукьянец | VK Tech | 2019 |
+| [ObjC и никакого мошенничества](https://www.youtube.com/watch?v=TniyEULwDjg) | Глеб Лукьянец | VK | 2019 |
 ## UI / Интерфейсы
 | Тема | Автор | Площадка | Дата |
 | :-: | :-: | :-: | :-: |
@@ -83,7 +86,7 @@
 | Yandex | ?
 | Avito | ?
 | Mail.Ru Group | ?
-| VK Tech | ?
+| [VK Tech](https://www.youtube.com/channel/UCcDIhc6mz8EtmxRSvgYYrzg) | ?
 | e-Legion | ?
 | Kaspersky | ?
 | AlfaMeetUp | ?
