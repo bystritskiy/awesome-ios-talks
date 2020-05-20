@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 12 | 19 мая 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 13 | 20 мая 2020
 
 ## Мотивация
 
@@ -36,6 +36,7 @@
 ## Архитектура
 | Тема | Автор | Площадка | Дата |
 | :-: | :-: | :-: | :-: |
+| [Чистая архитектура с VIPER](https://www.youtube.com/watch?v=xJG1MhrXeuM) | Сергей Крапивенский | Rambler&Co | 2018 |
 | [Реактивный MVVM](https://www.youtube.com/watch?v=NguVmJ3HyrA) | Евгений Ртищев | Sberbank | 2016 |
 ## Структура проекта
 ## Тесты
