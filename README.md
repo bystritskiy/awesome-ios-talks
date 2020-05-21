@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 13 | 20 мая 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 14 | 21 мая 2020
 
 ## Мотивация
 
@@ -46,6 +46,10 @@
 | [UI тесты в Авито](https://youtu.be/xqRfyt1SEZQ) | Артем Разинов | Avito | 2019 |
 ## Базы данных
 ## CI/CD
+## Apple Watch
+| Тема | Автор | Площадка | Дата
+| :-: | :-: | :-: | :-: |
+| [Apple Watch SDK Demo](https://www.youtube.com/watch?v=beOxk71CB4c) | Александр Зимин | - | 2015 |
 ## AR
 ## SwiftUI
 ## Catalyst
