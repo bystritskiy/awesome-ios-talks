@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 14 | 21 мая 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 15 | 22 мая 2020
 
 ## Мотивация
 
@@ -66,6 +66,7 @@
 ## Найм / Собеседования
 | Тема | Автор | Год
 | :-: | :-: | :-: |
+| [О технических интервью](https://www.youtube.com/watch?v=szyVzYcoNLo) | Олег Овечкин | 2015 |
 ## Процессы
 | Тема | Автор | Год
 | :-: | :-: | :-: |
