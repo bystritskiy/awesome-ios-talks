@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 15 | 22 мая 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 16 | 23 мая 2020
 
 ## Мотивация
 
@@ -71,6 +71,10 @@
 | Тема | Автор | Год
 | :-: | :-: | :-: |
 | [Как обойтись без менеджера в своем проекте](https://www.youtube.com/watch?v=rc0jG-rKcek) | Алина Михайлова | 2016 |
+## Дизайн
+| Тема | Автор | Год
+| :-: | :-: | :-: |
+| [О взаимотношениях дизайнеров и разработчиков](https://www.youtube.com/watch?v=xJCpBSbolMY) | Евгения Малкова | 2015 |
 ## Круглые столы / DevTalks
 | Тема | Автор | Год
 | :-: | :-: | :-: |
