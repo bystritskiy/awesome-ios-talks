@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 17 | 1 июня 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 18 | 2 июня 2020
 
 ## Мотивация
 
@@ -47,6 +47,10 @@
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
 | [Advanced Core Data](https://www.youtube.com/watch?v=sJsiIoj1uiI) | Сергей Пронин | 2015 |
+## Xcode
+| Тема | Автор | Год |
+| :-: | :-: | :-: |
+| [Пишем свой плагин для Xcode](https://www.youtube.com/watch?v=AWsVMtKz2Tg) | Руслан Джафаров | 2016 |
 ## CI/CD
 ## Apple Watch
 | Тема | Автор | Год
