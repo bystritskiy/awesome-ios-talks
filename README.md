@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 18 | 2 июня 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 19 | 3 июня 2020
 
 ## Мотивация
 
@@ -43,6 +43,7 @@
 | :-: | :-: | :-: |
 | [Зачем тестировать iOS вёрстку](https://www.youtube.com/watch?v=TvlfVHyUb3k) | Екатерина Батеева | 2019 |
 | [UI тесты в Авито](https://youtu.be/xqRfyt1SEZQ) | Артем Разинов | 2019 |
+| [Tестирование UI в Xcode](https://www.youtube.com/watch?v=XmJl_0b1xbY) | Вадим Дробинин | 2015 |
 ## Базы данных
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
