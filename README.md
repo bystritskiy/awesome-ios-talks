@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 19 | 3 июня 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 20 | 4 июня 2020
 
 ## Мотивация
 
@@ -75,7 +75,7 @@
 | Тема | Автор | Год
 | :-: | :-: | :-: |
 | [О технических интервью](https://www.youtube.com/watch?v=szyVzYcoNLo) | Олег Овечкин | 2015 |
-## Процессы
+## Командные процессы
 | Тема | Автор | Год
 | :-: | :-: | :-: |
 | [Как обойтись без менеджера в своем проекте](https://www.youtube.com/watch?v=rc0jG-rKcek) | Алина Михайлова | 2016 |
@@ -88,12 +88,11 @@
 | :-: | :-: | :-: |
 | [iOS DevTalks](https://www.youtube.com/watch?v=vgktxe3uXN4) | Александр Чёрный, Алексей Кудрявцев, Андрей Володин, Илья Меркулов, Руслан Кавецкий | 2020 |
 ## Истории о разработке
-## Саморазвитие разработчика
+## Саморазвитие / личная эффективность разработчика
 | Тема | Автор | Год
 | :-: | :-: | :-: |
 | [Не переставайте развиваться](https://www.youtube.com/watch?v=VYTDvmxbwRk) | Александр Зимин | 2020 |
-
-
+| [Личная эффективность при разработке iOS приложений](https://www.youtube.com/watch?v=RQJJqqxGoIg) | Олег Овечкин | 2014 |
 ## Площадки
 
 Примерный список площадок, откуда в первую очередь брать существующие доклады
