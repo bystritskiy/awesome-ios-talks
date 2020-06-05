@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 20 | 4 июня 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 21 | 5 июня 2020
 
 ## Мотивация
 
@@ -48,6 +48,7 @@
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
 | [Advanced Core Data](https://www.youtube.com/watch?v=sJsiIoj1uiI) | Сергей Пронин | 2015 |
+| [Запросы в CoreData с агрегатными функциями](https://www.youtube.com/watch?v=kqHVzZEaTVY) | Азиз Латыпов | 2015 |
 ## Xcode
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
