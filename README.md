@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 21 | 5 июня 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 22 | 6 июня 2020
 
 ## Мотивация
 
@@ -24,6 +24,7 @@
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
 | [Swift Memory Layout](https://www.youtube.com/watch?v=y4qM_6fCeTY) | Сергей Турсунов | 2019 |
+| [Protocol-Oriented Programming](https://www.youtube.com/watch?v=71AS4rMrAVk) | Александр Зимин | 2015 |
 ## Obj c
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
