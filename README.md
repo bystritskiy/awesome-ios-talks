@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 22 | 6 июня 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 23 | 7 июня 2020
 
 ## Мотивация
 
@@ -77,10 +77,11 @@
 | Тема | Автор | Год
 | :-: | :-: | :-: |
 | [О технических интервью](https://www.youtube.com/watch?v=szyVzYcoNLo) | Олег Овечкин | 2015 |
-## Командные процессы
+## Командные процессы / продукт
 | Тема | Автор | Год
 | :-: | :-: | :-: |
 | [Как обойтись без менеджера в своем проекте](https://www.youtube.com/watch?v=rc0jG-rKcek) | Алина Михайлова | 2016 |
+| [Управление мобильным продуктом: что, как и как не стОит?](https://www.youtube.com/watch?v=cKtgvNFy5JQ) | Байрам Аннаков | 2015 |
 ## Дизайн
 | Тема | Автор | Год
 | :-: | :-: | :-: |
