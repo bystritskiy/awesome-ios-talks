@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 23 | 7 июня 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 24 | 10 июня 2020
 
 ## Мотивация
 
@@ -16,7 +16,6 @@
 - Разбивка по датам
 - Open Source концепция, где каждый сможет добавлять новые доклады и принимать участие в структуре репозитория
 - Статистика русскоязыного iOS сообщества в целом
-
 
 ## Категории
 
@@ -55,6 +54,9 @@
 | :-: | :-: | :-: |
 | [Пишем свой плагин для Xcode](https://www.youtube.com/watch?v=AWsVMtKz2Tg) | Руслан Джафаров | 2016 |
 ## CI/CD
+| Тема | Автор | Год |
+| :-: | :-: | :-: |
+| [CI: автоматизация и технологизация процессов разработки и тестирования](https://www.youtube.com/watch?v=2tZAz3SxIQ4) | Денис Кудинов | 2016 |
 ## Apple Watch
 | Тема | Автор | Год
 | :-: | :-: | :-: |
@@ -96,6 +98,7 @@
 | :-: | :-: | :-: |
 | [Не переставайте развиваться](https://www.youtube.com/watch?v=VYTDvmxbwRk) | Александр Зимин | 2020 |
 | [Личная эффективность при разработке iOS приложений](https://www.youtube.com/watch?v=RQJJqqxGoIg) | Олег Овечкин | 2014 |
+
 ## Площадки
 
 Примерный список площадок, откуда в первую очередь брать существующие доклады
