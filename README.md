@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 25 | 10 марта 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 26 | 11 марта 2020
 
 ## Мотивация
 
@@ -28,7 +28,7 @@
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
 | [ObjC и никакого мошенничества](https://www.youtube.com/watch?v=TniyEULwDjg) | Глеб Лукьянец | 2019 |
-## UI / Интерфейсы
+## UI
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
 | [Backend-Driven UI](https://www.youtube.com/watch?v=NguVmJ3HyrA) | Алексей Новиков | 2019 |
@@ -85,9 +85,10 @@
 | [Культура Code review](https://www.youtube.com/watch?v=ruoBqkZAOI8) | Илья Кузнецов | 2021 |
 | [Как обойтись без менеджера в своем проекте](https://www.youtube.com/watch?v=rc0jG-rKcek) | Алина Михайлова | 2016 |
 | [Управление мобильным продуктом: что, как и как не стОит?](https://www.youtube.com/watch?v=cKtgvNFy5JQ) | Байрам Аннаков | 2015 |
-## Дизайн
+## Дизайн / Интерфейсы / UX
 | Тема | Автор | Год
 | :-: | :-: | :-: |
+| [Дизайн система в Авито](https://www.youtube.com/watch?v=zmkP8lI_uWQ) | Александр Андрюхин | 2020 |
 | [О взаимотношениях дизайнеров и разработчиков](https://www.youtube.com/watch?v=xJCpBSbolMY) | Евгения Малкова | 2015 |
 ## Круглые столы / DevTalks
 | Тема | Автор | Год
