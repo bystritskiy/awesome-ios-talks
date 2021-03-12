@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 26 | 11 марта 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 27 | 12 марта 2020
 
 ## Мотивация
 
@@ -67,6 +67,10 @@
 | Тема | Автор | Год
 | :-: | :-: | :-: |
 | [Путешествие с Catalyst](https://www.youtube.com/watch?v=beOxk71CB4c) | Наталия Волкова | 2020 |
+## Siri
+| Тема | Автор | Год
+| :-: | :-: | :-: |
+| [Привет, Siri, добро пожаловать в Яндекс.Музыку!](https://www.youtube.com/watch?v=7O-IUpKsSYM) | Иван Шевелев | 2020 |
 ## CarPlay
 | Тема | Автор | Год
 | :-: | :-: | :-: |
