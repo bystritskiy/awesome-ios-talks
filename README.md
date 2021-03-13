@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 27 | 12 марта 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 28 | 13 марта 2020
 
 ## Мотивация
 
@@ -98,6 +98,8 @@
 | Тема | Автор | Год
 | :-: | :-: | :-: |
 | [iOS DevTalks](https://www.youtube.com/watch?v=vgktxe3uXN4) | Александр Чёрный, Алексей Кудрявцев, Андрей Володин, Илья Меркулов, Руслан Кавецкий | 2020 |
+| [Мобильная разработка: iOS vs Android](https://www.youtube.com/watch?v=RA6PCiDaSO4) | Ольга Фролова, Веда Воронина | 2019 |
+
 ## Истории о разработке
 ## Саморазвитие / личная эффективность разработчика
 | Тема | Автор | Год
