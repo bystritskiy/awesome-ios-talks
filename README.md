@@ -121,6 +121,7 @@
 | Mail.Ru Group | ?
 | [VK Tech](https://www.youtube.com/channel/UCcDIhc6mz8EtmxRSvgYYrzg) | ?
 | e-Legion | ?
+| MobiFest | ?
 | Kaspersky | ?
 | AlfaMeetUp | ?
 | Rambler Group | ?
