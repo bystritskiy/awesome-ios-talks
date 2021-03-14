@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 28 | 13 марта 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 29 | 14 марта 2020
 
 ## Мотивация
 
@@ -94,6 +94,10 @@
 | :-: | :-: | :-: |
 | [Дизайн система в Авито](https://www.youtube.com/watch?v=zmkP8lI_uWQ) | Александр Андрюхин | 2020 |
 | [О взаимотношениях дизайнеров и разработчиков](https://www.youtube.com/watch?v=xJCpBSbolMY) | Евгения Малкова | 2015 |
+## Кроссплатформа
+| Тема | Автор | Год
+| :-: | :-: | :-: |
+| [Разработка кроссплатформенных приложений](https://www.youtube.com/watch?v=JXArXHprdzg) | Владислав Дугнист | 2015 |
 ## Круглые столы / DevTalks
 | Тема | Автор | Год
 | :-: | :-: | :-: |
