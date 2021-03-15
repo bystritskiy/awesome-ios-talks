@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 29 | 14 марта 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 30 | 15 марта 2020
 
 ## Мотивация
 
@@ -103,13 +103,17 @@
 | :-: | :-: | :-: |
 | [iOS DevTalks](https://www.youtube.com/watch?v=vgktxe3uXN4) | Александр Чёрный, Алексей Кудрявцев, Андрей Володин, Илья Меркулов, Руслан Кавецкий | 2020 |
 | [Мобильная разработка: iOS vs Android](https://www.youtube.com/watch?v=RA6PCiDaSO4) | Ольга Фролова, Веда Воронина | 2019 |
-
 ## Истории о разработке
 ## Саморазвитие / личная эффективность разработчика
 | Тема | Автор | Год
 | :-: | :-: | :-: |
 | [Не переставайте развиваться](https://www.youtube.com/watch?v=VYTDvmxbwRk) | Александр Зимин | 2020 |
 | [Личная эффективность при разработке iOS приложений](https://www.youtube.com/watch?v=RQJJqqxGoIg) | Олег Овечкин | 2014 |
+## Uncategorized
+| Тема | Автор | Год
+| :-: | :-: | :-: |
+| [Mobile Talks 10.2017](https://www.youtube.com/watch?v=VYTDvmxbwRk) | Георгий Зиняков, Лев Брук, Дима Кузьмин, Илья Кузнецов | 2017 |
+
 
 ## Площадки
 
