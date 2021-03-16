@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 30 | 15 марта 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 31 | 16 марта 2020
 
 ## Мотивация
 
@@ -37,6 +37,10 @@
 | :-: | :-: | :-: |
 | [Чистая архитектура с VIPER](https://www.youtube.com/watch?v=xJG1MhrXeuM) | Сергей Крапивенский | 2018 |
 | [Реактивный MVVM](https://www.youtube.com/watch?v=NguVmJ3HyrA) | Евгений Ртищев | 2016 |
+## Reactive
+| Тема | Автор | Год |
+| :-: | :-: | :-: |
+| [Reactive Cocoa](https://www.youtube.com/watch?v=xJG1MhrXeuM) | Дмитрий Обухов | 2014 |
 ## Структура проекта
 ## Тесты
 | Тема | Автор | Год |
