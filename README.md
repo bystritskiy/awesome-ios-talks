@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 32 | 17 марта 2021
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 33 | 18 марта 2021
 
 ## Мотивация
 
@@ -117,6 +117,7 @@
 | Тема | Автор | Год
 | :-: | :-: | :-: |
 | [Mobile Talks 10.2017](https://www.youtube.com/watch?v=VYTDvmxbwRk) | Георгий Зиняков, Лев Брук, Дима Кузьмин, Илья Кузнецов | 2017 |
+| [CocoaHeads Moscow 05.11.14](https://www.youtube.com/watch?v=nJiPM9OeCAU) | Александр Чёрный, Александр Зимин  | 2014 |
 | [CocoaHeads Moscow 31.10.14](https://www.youtube.com/watch?v=2GUm8DnZccQ) | Егор Тафланиди, Константин Забелин, Александр Зимин | 2014 |
 
 
