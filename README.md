@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 36 | 21 марта 2021
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 37 | 22 марта 2021
 
 ## Мотивация
 
@@ -28,6 +28,7 @@
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
 | [ObjC и никакого мошенничества](https://www.youtube.com/watch?v=TniyEULwDjg) | Глеб Лукьянец | 2019 |
+| [NSRunLoop](https://www.youtube.com/watch?v=GfpZ1fBHvxg) | Руслан Прокофьев | 2015 |
 ## UI
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
