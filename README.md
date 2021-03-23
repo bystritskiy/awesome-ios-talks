@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 37 | 22 марта 2021
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 38 | 23 марта 2021
 
 ## Мотивация
 
@@ -63,6 +63,10 @@
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
 | [CI: автоматизация и технологизация процессов разработки и тестирования](https://www.youtube.com/watch?v=2tZAz3SxIQ4) | Денис Кудинов | 2016 |
+## Audio
+| Тема | Автор | Год
+| :-: | :-: | :-: |
+| [История создания музыкального плеера](https://www.youtube.com/watch?v=Q9NGqKp9JTk&t=1s) | Владислав Дугнист | 2015 |
 ## Apple Watch
 | Тема | Автор | Год
 | :-: | :-: | :-: |
