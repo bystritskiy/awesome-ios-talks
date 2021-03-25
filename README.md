@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 39 | 24 марта 2021
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 40 | 25 марта 2021
 
 ## Мотивация
 
@@ -55,10 +55,11 @@
 | :-: | :-: | :-: |
 | [Advanced Core Data](https://www.youtube.com/watch?v=sJsiIoj1uiI) | Сергей Пронин | 2015 |
 | [Запросы в CoreData с агрегатными функциями](https://www.youtube.com/watch?v=kqHVzZEaTVY) | Азиз Латыпов | 2015 |
-## Xcode / Instruments 
+## Xcode / Instruments / Low level
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
 | [Пишем свой плагин для Xcode](https://www.youtube.com/watch?v=AWsVMtKz2Tg) | Руслан Джафаров | 2016 |
+| [ARM64](https://www.youtube.com/watch?v=HlAb-mD0FUE) | Олег Овечкин | 2015 |
 | [AppCode Demo](https://www.youtube.com/watch?v=YJTUbaPdHGM) | Анастасия Казакова | 2015 |
 ## CI/CD
 | Тема | Автор | Год |
