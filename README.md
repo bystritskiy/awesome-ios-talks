@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 40 | 25 марта 2021
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 41 | 26 марта 2021
 
 ## Мотивация
 
@@ -34,6 +34,7 @@
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
 | [Backend-Driven UI](https://www.youtube.com/watch?v=NguVmJ3HyrA) | Алексей Новиков | 2019 |
+| [Работа с текстом в iOS](https://www.youtube.com/watch?v=vWxsu7pHHJA) | Ирина Дягилева | 2015 |
 ## Архитектура
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
