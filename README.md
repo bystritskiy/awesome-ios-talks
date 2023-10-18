@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Последнее обновление |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 41 | 26 марта 2021
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 44 | октябрь 2023
 
 ## Мотивация
 
@@ -25,6 +25,10 @@
 | [Swift Memory Layout](https://www.youtube.com/watch?v=y4qM_6fCeTY) | Сергей Турсунов | 2019 |
 | [Protocol-Oriented Programming](https://www.youtube.com/watch?v=71AS4rMrAVk) | Александр Зимин | 2015 |
 | [WWDC — Swift 2.0, StackView](https://www.youtube.com/watch?v=V1hlJAk72lw) | Александр Зимин | 2015 |
+## SwiftUI
+| Тема | Автор | Год |
+| :-: | :-: | :-: |
+| [SwiftUI — уже пора?](https://www.youtube.com/watch?v=DGHc_AoWJ6Q) | Тимур Долотказин | 2023 |
 ## Obj c
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
@@ -35,16 +39,24 @@
 | :-: | :-: | :-: |
 | [Backend-Driven UI](https://www.youtube.com/watch?v=NguVmJ3HyrA) | Алексей Новиков | 2019 |
 | [Работа с текстом в iOS](https://www.youtube.com/watch?v=vWxsu7pHHJA) | Ирина Дягилева | 2015 |
+## Многопоточность
+| Тема | Автор | Год |
+| :-: | :-: | :-: |
+| [Async / Await. Лучшие практики, советы и особенности](https://www.youtube.com/watch?v=DGHc_AoWJ6Q&t=607s) | Максим Сурков | 2023 |
 ## Архитектура
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
 | [Чистая архитектура с VIPER](https://www.youtube.com/watch?v=xJG1MhrXeuM) | Сергей Крапивенский | 2018 |
 | [Реактивный MVVM](https://www.youtube.com/watch?v=NguVmJ3HyrA) | Евгений Ртищев | 2016 |
-## Reactive
+## Combine, Rx, Reactive
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
 | [Reactive Cocoa](https://www.youtube.com/watch?v=xJG1MhrXeuM) | Дмитрий Обухов | 2014 |
 ## Структура проекта
+ — 
+| Тема | Автор | Год |
+| :-: | :-: | :-: |
+| [Гармония статики и динамики: погружаемся в mergeable libraries](https://www.youtube.com/watch?v=DGHc_AoWJ6Q&) | Александр Сычев | 2023 |
 ## Тесты
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
@@ -141,6 +153,7 @@
 | [CocoaHeads](https://www.youtube.com/channel/UCPZtkJkHv_3pPC0veurLQ6Q) | 150+
 | [Mobile Channel (AppsConf)](https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g) | 100+
 | [Mobius](https://www.youtube.com/channel/UCG70q1HRspLdd93HW94WS-A) | 150+
+| Podlodka iOS Crew | ?
 | Yandex | ?
 | Avito | ?
 | Mail.Ru Group | ?
@@ -157,11 +170,3 @@
 - [awesome-ios](https://github.com/vsouza/awesome-ios)
 - [awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books)
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift)
-
-## Contributing
-
-- [See the guide](https://github.com/bystritskiy/awesome-ios-talks/blob/master/CONTRIBUTING.md)
-
-## Лицензия
-
-- Distributed under the MIT license. See LICENSE for more information.
