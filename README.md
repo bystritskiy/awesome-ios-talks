@@ -42,7 +42,7 @@
 ## Многопоточность
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
-| [Async / Await. Лучшие практики, советы и особенности](https://www.youtube.com/watch?v=DGHc_AoWJ6Q&t=607s) | Максим Сурков | 2023 |
+| [Async / Await. Лучшие практики, советы и особенности](https://www.youtube.com/watch?v=DGHc_AoWJ6Q) | Максим Сурков | 2023 |
 ## Архитектура
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
@@ -53,10 +53,9 @@
 | :-: | :-: | :-: |
 | [Reactive Cocoa](https://www.youtube.com/watch?v=xJG1MhrXeuM) | Дмитрий Обухов | 2014 |
 ## Структура проекта
- — 
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
-| [Гармония статики и динамики: погружаемся в mergeable libraries](https://www.youtube.com/watch?v=DGHc_AoWJ6Q&) | Александр Сычев | 2023 |
+| [Гармония статики и динамики: погружаемся в mergeable libraries](https://www.youtube.com/watch?v=DGHc_AoWJ6Q) | Александр Сычев | 2023 |
 ## Тесты
 | Тема | Автор | Год |
 | :-: | :-: | :-: |
@@ -87,7 +86,6 @@
 | :-: | :-: | :-: |
 | [Apple Watch SDK Demo](https://www.youtube.com/watch?v=beOxk71CB4c) | Александр Зимин | 2015 |
 ## AR
-## SwiftUI
 ## Catalyst
 | Тема | Автор | Год
 | :-: | :-: | :-: |
