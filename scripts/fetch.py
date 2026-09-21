@@ -89,7 +89,7 @@ def main():
             prev = pool.get(r["video_id"])
             if prev:
                 # обновляем волатильные поля, сохраняя решения триажа
-                prev.update({k: r[k] for k in ("title", "duration", "view_count") if r.get(k)})
+                prev.update({k: r[k] for k in ("title", "duration") if r.get(k)})
             else:
                 r["status"] = "new"
                 pool[r["video_id"]] = r

@@ -11,18 +11,19 @@ permissions:
 
 jobs:
   refresh:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
-          python-version: "3.12"
+          python-version: "3.14"
 
       - name: Установить yt-dlp
         run: pipx install yt-dlp
 
       - name: Обойти каналы и пересчитать триаж
+        id: triage
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
@@ -33,12 +34,19 @@ jobs:
           python3 scripts/review.py
           python3 scripts/build_readme.py
           python3 scripts/stats.py | tee /tmp/stats.txt
+          pending=$(python3 -c "import sys; sys.path.insert(0, 'scripts'); import lib; print(sum(r.get('status') == 'candidate' for r in lib.load_candidates()))")
+          echo "pending=$pending" >> "$GITHUB_OUTPUT"
+          echo "Ждут ревью: $pending"
 
+      # PR открывается, только если появились кандидаты на ревью:
+      # отсеянные эвристикой видео при следующем обходе отсеются так же, хранить их незачем
       - name: Открыть PR с новыми кандидатами
-        uses: peter-evans/create-pull-request@v6
+        if: steps.triage.outputs.pending != '0'
+        uses: peter-evans/create-pull-request@v8
         with:
           branch: bot/refresh
-          title: "Новые кандидаты в подборку"
+          delete-branch: true
+          title: "Новые кандидаты в подборку (${{ steps.triage.outputs.pending }})"
           commit-message: "data: еженедельный обход каналов"
           body-path: /tmp/stats.txt
           add-paths: |

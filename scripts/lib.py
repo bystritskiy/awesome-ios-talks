@@ -14,6 +14,8 @@ STORED_DESC_LIMIT = 600
 # тяжёлые поля нужны только для триажа; у решённых кандидатов их не храним
 HEAVY_FIELDS = ("description", "tags", "chapters")
 SETTLED = ("approved", "ignored", "rejected")
+# меняются при каждом обходе и не нужны триажу — в репозиторий не пишем, иначе еженедельный дифф
+VOLATILE_FIELDS = ("view_count", "like_count", "timestamp")
 README = os.path.join(ROOT, "README.md")
 TEMPLATE = os.path.join(ROOT, "templates", "README.md.tmpl")
 
@@ -140,7 +142,7 @@ def load_candidates():
 def save_candidates(rows):
     by_chan = {}
     for r in rows:
-        r = {k: v for k, v in r.items() if v not in (None, [], "")}
+        r = {k: v for k, v in r.items() if v not in (None, [], "") and k not in VOLATILE_FIELDS}
         if r.get("status") in SETTLED:
             if any(k in r for k in HEAVY_FIELDS):
                 r = {k: v for k, v in r.items() if k not in HEAVY_FIELDS}
