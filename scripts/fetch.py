@@ -26,7 +26,8 @@ TABS = ("videos", "streams")
 
 def ytdlp_flat(url, limit=None):
     cmd = ["yt-dlp", "--flat-playlist", "-J", "--no-warnings", "--ignore-errors",
-           "--extractor-args", "youtubetab:approximate_date"]
+           "--extractor-args", "youtubetab:approximate_date",
+           "--extractor-args", "youtube:lang=ru"]  # иначе названия приходят в автопереводе под локаль раннера
     if limit:
         cmd += ["--playlist-items", f"1-{limit}"]
     cmd.append(url)
@@ -88,8 +89,11 @@ def main():
         for r in rows:
             prev = pool.get(r["video_id"])
             if prev:
-                # обновляем волатильные поля, сохраняя решения триажа
-                prev.update({k: r[k] for k in ("title", "duration") if r.get(k)})
+                # уже известные видео не перезаписываем: YouTube отдаёт название в переводе
+                # под локаль запроса, а длительность в плоском списке и в API округлена
+                # по-разному — любая перезапись даёт дифф на каждом обходе
+                if r.get("duration") and not prev.get("duration"):
+                    prev["duration"] = r["duration"]
             else:
                 r["status"] = "new"
                 pool[r["video_id"]] = r
