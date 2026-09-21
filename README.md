@@ -1076,7 +1076,7 @@
 | [Young&&Yandex: мобильная разработка](https://www.youtube.com/channel/UC-355nTVRMSYdPI8HpoRUrA) | 56 | 19 |
 | [Podlodka](https://www.youtube.com/channel/UCOei1E1Vqq10S913OEqTWGw) | 587 | 10 |
 | [Podlodka Deep Dive](https://www.youtube.com/channel/UCA0ZvfuUY3i_YTVjxibEcyg) | 4 | — |
-| [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) | 850 | 19 |
+| [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) | 851 | 19 |
 | [Команда ВКонтакте](https://www.youtube.com/channel/UCcDIhc6mz8EtmxRSvgYYrzg) | 256 | 7 |
 | [Redmadrobot](https://www.youtube.com/channel/UCNsKb10vKvLCx3C0Yijmp0w) | 6 | 2 |
 | [Dodo Engineering](https://www.youtube.com/channel/UCVRaec6UUYJWU2l3tGGifGA) | 3 | — |
