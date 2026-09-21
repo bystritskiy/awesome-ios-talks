@@ -20,7 +20,7 @@
   {
     "video_id": "-Mq-JjpWqdk",
     "url": "https://www.youtube.com/watch?v=-Mq-JjpWqdk",
-    "title": "Заботимся о памяти при работе со значимыми типами",
+    "title": "Позаботимся о памяти при использовании value-типов",
     "speakers": [
       "Алексей Таран"
     ],
@@ -56,7 +56,7 @@
   {
     "video_id": "1J6vDfL3u6o",
     "url": "https://www.youtube.com/watch?v=1J6vDfL3u6o",
-    "title": "Суперапп с нуля",
+    "title": "Суперапп с чистого листа",
     "speakers": [
       "Сергей Балалаев"
     ],
@@ -73,7 +73,7 @@
   {
     "video_id": "2faff6a13qI",
     "url": "https://www.youtube.com/watch?v=2faff6a13qI",
-    "title": "Как обеспечить стабильную работу SDK на миллионах устройств",
+    "title": "Как обеспечить стабильную работу SDK для миллионов устройств",
     "speakers": [
       "Никита Алексеев"
     ],
@@ -163,7 +163,7 @@
   {
     "video_id": "7lBozfcVW3I",
     "url": "https://www.youtube.com/watch?v=7lBozfcVW3I",
-    "title": "Реверс-инжиниринг и патчинг на устройствах без джейлбрейка",
+    "title": "Боевой Reverse Engineering и патчинг под Non-Jailbroken iOS-девайсы",
     "speakers": [
       "Андрей Пробочкин"
     ],
@@ -215,7 +215,7 @@
   {
     "video_id": "BAs-jdNfZ60",
     "url": "https://www.youtube.com/watch?v=BAs-jdNfZ60",
-    "title": "Методы оптимизации размера Flutter-приложения",
+    "title": "Борьба с лишним весом, или Методы оптимизации размеров Flutter-приложений",
     "speakers": [
       "Константин Довнар"
     ],
@@ -249,7 +249,7 @@
   {
     "video_id": "GdLfSeWTGeM",
     "url": "https://www.youtube.com/watch?v=GdLfSeWTGeM",
-    "title": "Заменит ли AI разработчиков?",
+    "title": "Заменит ли AI разработчика",
     "speakers": [
       "Лев Бондаренко",
       "Максим Абакумов"
@@ -406,7 +406,7 @@
   {
     "video_id": "MBQxYB1jC-I",
     "url": "https://www.youtube.com/watch?v=MBQxYB1jC-I",
-    "title": "Как устроена секция Code Mobile",
+    "title": "Как проходит секция Code Mobile",
     "year": 2025,
     "categories": [
       "interviews-public"
@@ -420,7 +420,7 @@
   {
     "video_id": "MeiNKlcTsyE",
     "url": "https://www.youtube.com/watch?v=MeiNKlcTsyE",
-    "title": "Нервный смузи из Swift Package Registry",
+    "title": "Нервное смузи из Swift Package Registry",
     "speakers": [
       "Евгений Рыжов"
     ],
@@ -490,7 +490,7 @@
   {
     "video_id": "UXhDbDOUIkY",
     "url": "https://www.youtube.com/watch?v=UXhDbDOUIkY",
-    "title": "Похудело ли ваше приложение к лету?",
+    "title": "А ваше приложение похудело к лету?",
     "speakers": [
       "Никита Краснов"
     ],
@@ -542,7 +542,7 @@
   {
     "video_id": "YxGfGGfgH6U",
     "url": "https://www.youtube.com/watch?v=YxGfGGfgH6U",
-    "title": "Инструменты мониторинга производительности iOS-приложений",
+    "title": "Инструменты для мониторинга производительности iOS-приложений",
     "speakers": [
       "Виталий Камашев"
     ],
@@ -593,7 +593,7 @@
   {
     "video_id": "_Ryf4uhINbg",
     "url": "https://www.youtube.com/watch?v=_Ryf4uhINbg",
-    "title": "Код, который не тормозит: секреты производительности iOS",
+    "title": "Код, который не тормозит: секреты производительности на iOS",
     "speakers": [
       "Кристиан Бенуа"
     ],
@@ -627,7 +627,7 @@
   {
     "video_id": "acoG_HbxUfI",
     "url": "https://www.youtube.com/watch?v=acoG_HbxUfI",
-    "title": "Разработка CLI-инструментов на Swift",
+    "title": "Разрабатываем CLI-инструменты на Swift",
     "speakers": [
       "Игорь Шамрин"
     ],
@@ -788,7 +788,7 @@
   {
     "video_id": "n6YQNTcBr78",
     "url": "https://www.youtube.com/watch?v=n6YQNTcBr78",
-    "title": "Pkl — язык программирования для конфигураций Apple",
+    "title": "Pkl — язык программирования для конфигураций от Apple",
     "speakers": [
       "Андрей Зонов"
     ],
@@ -890,7 +890,7 @@
   {
     "video_id": "tz5VPUvCO9U",
     "url": "https://www.youtube.com/watch?v=tz5VPUvCO9U",
-    "title": "Как выглядит интервью в мобильную платформу iOS",
+    "title": "Как проходит интервью Mobile Platform iOS",
     "year": 2025,
     "categories": [
       "interviews-public"
@@ -973,7 +973,7 @@
   {
     "video_id": "zGq2uZl4_qA",
     "url": "https://www.youtube.com/watch?v=zGq2uZl4_qA",
-    "title": "Как iOS-разработка выживает в новой реальности",
+    "title": "Лента Мобиуса: когда App Store не работает — как живёт iOS-разработка в новых реалиях",
     "year": 2025,
     "categories": [
       "roundtable"

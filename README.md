@@ -2,7 +2,7 @@
 
 | Awesome | Докладов | Спикеров | Последнее обновление |
 | :-: | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 775 | 496 | сентябрь 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 780 | 497 | сентябрь 2026 |
 
 ## Мотивация
 
@@ -22,15 +22,15 @@
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
-| [SwiftSyntax: пишем свой DI-фреймворк](https://www.youtube.com/watch?v=L9A4RdACzxc) | Никита Никонов | 2026 |
-| [Когда структуры в Swift тебе не бро](https://www.youtube.com/watch?v=jRiV_tOx3iQ) | Сергей Черепанов | 2026 |
+| [SwiftSyntax: пишем свой DI framework](https://www.youtube.com/watch?v=L9A4RdACzxc) | Никита Никонов | 2026 |
+| [Когда структуры в Swift — не твои бро](https://www.youtube.com/watch?v=jRiV_tOx3iQ) | Сергей Черепанов | 2026 |
 | [Влияние Swift Runtime на производительность приложения](https://www.youtube.com/watch?v=d_3OpAKVZjc) | Кристиан Бенуа | 2025 |
-| [Заботимся о памяти при работе со значимыми типами](https://www.youtube.com/watch?v=-Mq-JjpWqdk) | Алексей Таран | 2025 |
 | [Как мы адаптировали проект к Strict Concurrency Checking в Swift 6](https://www.youtube.com/watch?v=035WscXr7Xo) | Никита Землин | 2025 |
 | [Переезд на Swift 6: строим графы для успешной миграции](https://www.youtube.com/watch?v=6zOL4641dCc) | Алексей Минин | 2025 |
-| [Разработка CLI-инструментов на Swift](https://www.youtube.com/watch?v=acoG_HbxUfI) | Игорь Шамрин | 2025 |
+| [Позаботимся о памяти при использовании value-типов](https://www.youtube.com/watch?v=-Mq-JjpWqdk) | Алексей Таран | 2025 |
+| [Разрабатываем CLI-инструменты на Swift](https://www.youtube.com/watch?v=acoG_HbxUfI) | Игорь Шамрин | 2025 |
 | [Swift 5.9: разбираем интероп и «женим» с C++](https://www.youtube.com/watch?v=bi5HQ6aS_sc) | Андрей Филипенков | 2024 |
-| [Swift Macros: проще, чище, быстрее](https://www.youtube.com/watch?v=d6WJlJY-I-o) | Анна Жаркова | 2024 |
+| [Макросы Swift: проще, чище, быстрее](https://www.youtube.com/watch?v=d6WJlJY-I-o) | Анна Жаркова | 2024 |
 | [Макросы спустя полгода: не всё так гладко](https://www.youtube.com/watch?v=LRnswjepuPg) | Дмитрий Головин | 2024 |
 | [Advanced Swift programming](https://www.youtube.com/watch?v=x_B6aiglbc8) | — | 2023 |
 | [Новые подходы к работе с регулярными выражениями в Swift](https://www.youtube.com/watch?v=9YiWeaLQE74) | Илья Мирусин | 2023 |
@@ -60,7 +60,7 @@
 | [WWDC — Swift 2.0, StackView](https://www.youtube.com/watch?v=V1hlJAk72lw) | Александр Зимин | 2015 |
 | [Перегрузка операторов в Swift, Today Extension](https://www.youtube.com/watch?v=dYSaVWqDmZE) | Александр Зимин | 2014 |
 
-### SwiftUI (36)
+### SwiftUI (38)
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
@@ -68,9 +68,9 @@
 | [_VariadicView: подчёркивая скрытые возможности контейнеров](https://www.youtube.com/watch?v=Hy6JXGDdXzg) | Эдуард Еленский | 2025 |
 | [Перерисовки в SwiftUI](https://www.youtube.com/watch?v=a_FQ93Laqvs) | Антон Бушманов | 2025 |
 | [Compose и SwiftUI: найди 10 отличий](https://www.youtube.com/watch?v=R-4R13tDMG8) | Алексей Панов | 2024 |
-| [SwiftUI Navigation](https://www.youtube.com/watch?v=yucxRTX4BZ4) | Дмитрий Куркин | 2024 |
 | [SwiftUI-навигация: просто, нативно и декларативно](https://www.youtube.com/watch?v=suqghgwucrs) | Сергей Балалаев | 2024 |
 | [Выжмем из SwiftUI Preview ещё больше](https://www.youtube.com/watch?v=SxaTHT0jNG8) | Дмитрий Куркин | 2024 |
+| [Навигация в SwiftUI](https://www.youtube.com/watch?v=yucxRTX4BZ4) | Дмитрий Куркин | 2024 |
 | [Ускоряем SwiftUI с Observable](https://www.youtube.com/watch?v=raVi0YTVw7s) | Дмитрий Чернов | 2024 |
 | [Эволюция презентационных паттернов SwiftUI](https://www.youtube.com/watch?v=eK4vwOEpjGs) | Николай Пучко | 2024 |
 | [Keyboard avoiding в SwiftUI](https://www.youtube.com/watch?v=MB6FmXtLgw0) | Валерий Скворцов | 2023 |
@@ -81,6 +81,7 @@
 | [Декларативная навигация в iOS-приложении](https://www.youtube.com/watch?v=zwSX9hZMx2E) | Андрей Зонов | 2023 |
 | [Жизненный цикл объектов SwiftUI](https://www.youtube.com/watch?v=8ERHfKhnDus) | Дмитрий Куркин | 2023 |
 | [Как я научился не волноваться и полюбил SwiftUI](https://www.youtube.com/watch?v=JaUqlmApIJ8) | Александр Ходько | 2023 |
+| [Лента Мобиуса: SwiftUI, виджеты и IoT](https://www.youtube.com/watch?v=glPTyoygi3o) | Евгений Антропов | 2023 |
 | [Пишем свой рендеринг графики на SwiftUI и запускаем на нём Doom](https://www.youtube.com/watch?v=S__kZUnx4j0) | Денис Кудинов | 2023 |
 | [Страх и ненависть в SwiftUI](https://www.youtube.com/watch?v=c1Xa1SfmzT4) | Антон Макеев | 2023 |
 | [Performance в SwiftUI](https://www.youtube.com/watch?v=lh03fF3cG7Q) | Илья Чикмарёв | 2022 |
@@ -96,6 +97,7 @@
 | [Используем State Machine в SwiftUI: быстро, просто и удобно](https://www.youtube.com/watch?v=6gL6RE_0xE0) | Слава Слуцкер | 2021 |
 | [Лайвкодинг: advanced-списки на SwiftUI](https://www.youtube.com/watch?v=kqqGL1pmZzM) | Дмитрий Шлюгаев | 2021 |
 | [SwiftUI в production](https://www.youtube.com/watch?v=UMnUxkPRy_o) | Бекзат Турапбеков | 2020 |
+| [SwiftUI и навигация. Как не заблудиться в приложении](https://www.youtube.com/watch?v=kJyg4CIspAE) | Анна Жаркова | 2020 |
 | [Встреча CocoaHeads WWDC Club 20: SwiftUI](https://www.youtube.com/watch?v=8r_1l6IOi3o) | — | 2020 |
 | [Лайвкодинг: реализуем макет на SwiftUI](https://www.youtube.com/watch?v=_fO-vx6rm1M) | Вадим Булавин | 2020 |
 | [Независимые приложения для Apple Watch на SwiftUI и Flux](https://www.youtube.com/watch?v=o3gmPcFE7sY) | Леонид Лядвейкин | 2020 |
@@ -119,7 +121,7 @@
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
-| [N приёмов, которые улучшат производительность видеоленты](https://www.youtube.com/watch?v=csuJfbYrG4s) | Рамиль Габдрахманов | 2026 |
+| [N техник, которые улучшат работу видеоленты](https://www.youtube.com/watch?v=csuJfbYrG4s) | Рамиль Габдрахманов | 2026 |
 | [Живая картинка: анимации и эффекты в кроссплатформенном BDUI-движке](https://www.youtube.com/watch?v=-VbPAn9b4rA) | Алексей Телышев | 2026 |
 | [50 оттенков BDUI](https://www.youtube.com/watch?v=iW1AyCxeMKg) | Денис Тормазов | 2024 |
 | [BDUI как стратегия мобильного приложения](https://www.youtube.com/watch?v=JhyrL5dQ3gQ) | Денис Александров | 2024 |
@@ -142,9 +144,9 @@
 | [Слой вью-контроллеров: UIViewController](https://www.youtube.com/watch?v=eYDG-PFGxJM) | Максим Быстров | 2023 |
 | [Слой представления: UIView](https://www.youtube.com/watch?v=VNmvP-Qn2YA) | Максим Быстров | 2023 |
 | [Server-Driven UI с DivKit](https://www.youtube.com/watch?v=-aRSYtDVI6c) | Александр Скворцов, Павел Курчатов, Ольга Ким | 2022 |
-| [The Mobius Chronicles: куда движется декларативный UI?](https://www.youtube.com/watch?v=JEwo5PGp0KU) | — | 2022 |
 | [Блюр в iOS](https://www.youtube.com/watch?v=TxPMEO0Ev6c) | Илья Чикмарёв | 2022 |
 | [Есть тема! Внедрение цветовых тем в iOS-приложение](https://www.youtube.com/watch?v=EwOT1FbhqfI) | Никита Раков | 2022 |
+| [Хроники Мобиуса. Декларативный UI: куда мы катимся](https://www.youtube.com/watch?v=JEwo5PGp0KU) | — | 2022 |
 | [Анимируй это: введение в SwiftUI-анимации](https://www.youtube.com/watch?v=p936ss8jy3E) | Михаил Глотов | 2021 |
 | [Вдохновившись SwiftUI, создаём дизайн-систему на UIKit](https://www.youtube.com/watch?v=LTIAt0rTmno) | Анастасия Соколан | 2021 |
 | [Плавный скролл онлайн-гипермаркета](https://www.youtube.com/watch?v=e1tEScZIiTg) | Дмитрий Игнатьев | 2021 |
@@ -193,7 +195,7 @@
 | [Эффективность на рубеже Table View](https://www.youtube.com/watch?v=-sPtR03t_GI) | Александр Зимин | 2015 |
 | [Cocos2D for iPhone](https://www.youtube.com/watch?v=P9o-D7PHt0I) | Станислав Краснояров | 2011 |
 
-### Многопоточность (19)
+### Многопоточность (20)
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
@@ -201,11 +203,12 @@
 | [Как мы адаптировали проект к Strict Concurrency Checking в Swift 6](https://www.youtube.com/watch?v=035WscXr7Xo) | Никита Землин | 2025 |
 | [Переезд на Swift 6: строим графы для успешной миграции](https://www.youtube.com/watch?v=6zOL4641dCc) | Алексей Минин | 2025 |
 | [А так ли нужна Swift Modern Concurrency?](https://www.youtube.com/watch?v=DIDoHx6KP50) | Василий Усов | 2024 |
+| [А так ли нужны акторы в Swift Concurrency?](https://www.youtube.com/watch?v=kBv0r1HUCFM) | Василий Усов | 2024 |
+| [Объединяем Combine и Swift Concurrency](https://www.youtube.com/watch?v=UuEb0zcbShw) | Александр Даровских | 2024 |
 | [Реактивный Swift Concurrency](https://www.youtube.com/watch?v=YtLhJZTLKG0) | Башир Арсланалиев | 2024 |
-| [Совмещаем Combine и Swift Concurrency](https://www.youtube.com/watch?v=UuEb0zcbShw) | Александр Даровских | 2024 |
 | [Async / Await. Лучшие практики, советы и особенности](https://www.youtube.com/watch?v=OXOXsZymcIk) | Максим Сурков | 2023 |
 | [Concurrency](https://www.youtube.com/watch?v=quDU2ISqXZ0) | Дмитрий Липовой | 2023 |
-| [Distributed Actors and Where They Live](https://www.youtube.com/watch?v=yvBG333wFmI) | Евгений Антропов | 2023 |
+| [Distributed actors и где они обитают](https://www.youtube.com/watch?v=yvBG333wFmI) | Евгений Антропов | 2023 |
 | [О дивный новый мир со Swift Concurrency](https://www.youtube.com/watch?v=A-GQB8wVK78) | Кирилл Володин | 2023 |
 | [Дружим Swift Concurrency с имеющейся кодовой базой](https://www.youtube.com/watch?v=g0R0dbxRMxY) | Тимур Хамидов | 2022 |
 | [async/await в Swift](https://www.youtube.com/watch?v=F02-k1X_Rok) | Илья Чикмарёв | 2021 |
@@ -217,16 +220,16 @@
 | [Promises, или почему обещания надо выполнять](https://www.youtube.com/watch?v=c8NUE5lB8x8) | Михаил Рахманов | 2016 |
 | [Паттерн Schedulable Architecture как способ выделения бизнес-логики в отдельный поток](https://www.youtube.com/watch?v=XH667U8uzuE) | Павел Осипов | 2016 |
 
-### Архитектура (54)
+### Архитектура (55)
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
 | [AntiSOLID](https://www.youtube.com/watch?v=JIDoxJpgBTo) | Данил Перевалов | 2026 |
-| [SwiftSyntax: пишем свой DI-фреймворк](https://www.youtube.com/watch?v=L9A4RdACzxc) | Никита Никонов | 2026 |
-| [Wave Architecture на практике](https://www.youtube.com/watch?v=n3n7f_i3d_A) | Юрий Дубовой | 2026 |
-| [Архитектура, производительность, отладка: как мы строили медиафид](https://www.youtube.com/watch?v=X5OhR8b4o9I) | Лев Бондаренко | 2026 |
+| [SwiftSyntax: пишем свой DI framework](https://www.youtube.com/watch?v=L9A4RdACzxc) | Никита Никонов | 2026 |
+| [Архитектура, перформанс, дебаг: как мы делали медиаленту](https://www.youtube.com/watch?v=X5OhR8b4o9I) | Лев Бондаренко | 2026 |
+| [Волновая архитектура на практике](https://www.youtube.com/watch?v=n3n7f_i3d_A) | Юрий Дубовой | 2026 |
 | [Архитектура для кросс-функциональных команд](https://www.youtube.com/watch?v=bVSKvTRi_ds) | Юрий Дубовой | 2025 |
-| [Суперапп с нуля](https://www.youtube.com/watch?v=1J6vDfL3u6o) | Сергей Балалаев | 2025 |
+| [Суперапп с чистого листа](https://www.youtube.com/watch?v=1J6vDfL3u6o) | Сергей Балалаев | 2025 |
 | [BDUI как стратегия мобильного приложения](https://www.youtube.com/watch?v=JhyrL5dQ3gQ) | Денис Александров | 2024 |
 | [Scout: новый фреймворк для ускоренного и безболезненного управления зависимостями](https://www.youtube.com/watch?v=mi6UH6BJ89E) | — | 2024 |
 | [Как мы сделали внутренний сервис в The Composable Architecture](https://www.youtube.com/watch?v=IlLDSx_F6zs) | Сергей Ефанов | 2024 |
@@ -235,9 +238,9 @@
 | [Сравниваем нативную разработку и BDUI](https://www.youtube.com/watch?v=syd9L00dGpQ) | Рустам Кенджаев | 2024 |
 | [Эволюция презентационных паттернов SwiftUI](https://www.youtube.com/watch?v=eK4vwOEpjGs) | Николай Пучко | 2024 |
 | [Combine и продвинутая архитектура](https://www.youtube.com/watch?v=pO5vZdS__xs) | Анас Бен Мустафа | 2023 |
-| [The SBOL iOS Story](https://www.youtube.com/watch?v=8zXxcLRn5l8) | Владимир Озеров | 2023 |
+| [iOS Архитектура](https://www.youtube.com/watch?v=GA1NY-RKkhs) | — | 2023 |
+| [SBOL iOS Story](https://www.youtube.com/watch?v=8zXxcLRn5l8) | Владимир Озеров | 2023 |
 | [VK Карты: как жить с двумя провайдерами карт в крупном проекте](https://www.youtube.com/watch?v=fWvoA9NNJ5c) | Константин Кулаков | 2023 |
-| [Архитектура iOS-приложения](https://www.youtube.com/watch?v=GA1NY-RKkhs) | — | 2023 |
 | [Архитектура сложных клиентских приложений](https://www.youtube.com/watch?v=oKArQnjBaKU) | Юрий Дубовой | 2023 |
 | [Декларативная навигация в iOS-приложении](https://www.youtube.com/watch?v=zwSX9hZMx2E) | Андрей Зонов | 2023 |
 | [Как выстроить DI в многомодульном iOS-приложении при помощи Needle](https://www.youtube.com/watch?v=pnHtznbxTvc) | Кирилл Володин | 2023 |
@@ -245,11 +248,12 @@
 | [Finita la State Machine — MVI в iOS-приложении](https://www.youtube.com/watch?v=bSWZX3SQVSc) | Александр Цыбулько | 2022 |
 | [Nivelir — новый фреймворк навигации в iOS](https://www.youtube.com/watch?v=fOdCtTpg2Ig) | Тимур Шафигуллин | 2022 |
 | [Server driven view на SwiftUI](https://www.youtube.com/watch?v=gk0SxLKmpX8) | Дмитрий Авдеев | 2021 |
-| [Вы выбрали UDF-архитектуру. Как моделировать состояние?](https://www.youtube.com/watch?v=y0CHhHBzEkw) | Михаил Левченко | 2021 |
 | [Используем State Machine в SwiftUI: быстро, просто и удобно](https://www.youtube.com/watch?v=6gL6RE_0xE0) | Слава Слуцкер | 2021 |
+| [Итак, вы выбрали UDF-архитектуру. Как моделировать стейт?](https://www.youtube.com/watch?v=y0CHhHBzEkw) | Михаил Левченко | 2021 |
 | [Как выбрать iOS-архитектуру без боли](https://www.youtube.com/watch?v=4o-W4bo3ezQ) | Мария Водолазкая | 2021 |
-| [Как создавался суперапп Яндекса](https://www.youtube.com/watch?v=Px8NTTfqWxc) | Артур Василов, Илья Богин | 2021 |
+| [Как создавали «суперапп» Яндекса](https://www.youtube.com/watch?v=Px8NTTfqWxc) | Артур Василов, Илья Богин | 2021 |
 | [Круглый стол – Архитектуры](https://www.youtube.com/watch?v=qNu_9RjfV6E) | — | 2021 |
+| [SwiftUI и навигация. Как не заблудиться в приложении](https://www.youtube.com/watch?v=kJyg4CIspAE) | Анна Жаркова | 2020 |
 | [Unidirectional Data Flow](https://www.youtube.com/watch?v=E9w1cZKoVHY) | Антон Гончаров | 2020 |
 | [Unidirectional Data Flow c использованием состояний](https://www.youtube.com/watch?v=8ftJ40TTvxQ) | Дмитрий Игнатьев | 2020 |
 | [Архитектура умного фоторедактора](https://www.youtube.com/watch?v=xJmh8GLWeGQ) | Андрей Володин | 2020 |
@@ -281,8 +285,8 @@
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
 | [Осторожно, Combine!](https://www.youtube.com/watch?v=zPg_grCo9zA) | Никита Конашенко | 2025 |
+| [Объединяем Combine и Swift Concurrency](https://www.youtube.com/watch?v=UuEb0zcbShw) | Александр Даровских | 2024 |
 | [Реактивный Swift Concurrency](https://www.youtube.com/watch?v=YtLhJZTLKG0) | Башир Арсланалиев | 2024 |
-| [Совмещаем Combine и Swift Concurrency](https://www.youtube.com/watch?v=UuEb0zcbShw) | Александр Даровских | 2024 |
 | [Combine и продвинутая архитектура](https://www.youtube.com/watch?v=pO5vZdS__xs) | Анас Бен Мустафа | 2023 |
 | [One ring to rule them all: лучшие практики RxSwift](https://www.youtube.com/watch?v=4hxNLaasBfI) | Антон Назаров | 2020 |
 | [Очередная революция от Apple: SwiftUI, Combine и Catalyst](https://www.youtube.com/watch?v=DzOknH3o2aE) | Андрей Чевозеров | 2020 |
@@ -296,8 +300,8 @@
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
-| [Pkl — язык программирования для конфигураций Apple](https://www.youtube.com/watch?v=n6YQNTcBr78) | Андрей Зонов | 2025 |
-| [Нервный смузи из Swift Package Registry](https://www.youtube.com/watch?v=MeiNKlcTsyE) | Евгений Рыжов | 2025 |
+| [Pkl — язык программирования для конфигураций от Apple](https://www.youtube.com/watch?v=n6YQNTcBr78) | Андрей Зонов | 2025 |
+| [Нервное смузи из Swift Package Registry](https://www.youtube.com/watch?v=MeiNKlcTsyE) | Евгений Рыжов | 2025 |
 | [Одна билд-система, чтоб править всеми](https://www.youtube.com/watch?v=3STPo7PB9W4) | Александр Евтухов, Максим Вакула | 2025 |
 | [От модуляризации к Clang и обратно](https://www.youtube.com/watch?v=TGJjv5RIBUs) | Роман Горбенко | 2025 |
 | [Swift Plugins: ускоряем сборку проекта](https://www.youtube.com/watch?v=JNHn0i9mS-M) | Максим Гришутин | 2024 |
@@ -307,23 +311,23 @@
 | [Разработка библиотек с использованием подхода Request for Comments](https://www.youtube.com/watch?v=qr22IbTTx2o) | Степан Махорин | 2024 |
 | [Тулкиты кодогенерации Android vs iOS](https://www.youtube.com/watch?v=2MYgZuk1OXA) | Анна Жаркова | 2024 |
 | [IDE, toolchain, CocoaPods/SPM](https://www.youtube.com/watch?v=G3SWluZ7Kho) | Егор Аникеев | 2023 |
-| [Roasting Tuist](https://www.youtube.com/watch?v=dF4E-lD0K0M) | Александр Евтухов | 2023 |
 | [Гармония статики и динамики: погружаемся в mergeable libraries](https://www.youtube.com/watch?v=1Oan1-SkXvA) | Александр Сычев | 2023 |
 | [Использование XCFramework в крупном iOS-проекте, или как ускорить сборку в 2 раза](https://www.youtube.com/watch?v=u31k_wli9ZY) | Сергей Ерохин | 2023 |
-| [Как и зачем разбивать iOS-приложение на микрофичи](https://www.youtube.com/watch?v=Ohohf_ts1kg) | Илья Харламов | 2023 |
+| [Как и зачем дробить iOS-приложение на микрофичи](https://www.youtube.com/watch?v=Ohohf_ts1kg) | Илья Харламов | 2023 |
 | [Как устроена сборка](https://www.youtube.com/watch?v=w7Zu9TuDY0k) | Александр Скворцов | 2023 |
+| [Прожарка Tuist](https://www.youtube.com/watch?v=dF4E-lD0K0M) | Александр Евтухов | 2023 |
 | [Independency: сбрасываем оковы CocoaPods](https://www.youtube.com/watch?v=_GbPwTlh7B0) | Тимофей Солонин | 2022 |
 | [Как построить модульность на SPM с мультирепой и не поседеть](https://www.youtube.com/watch?v=OD5NkHtVs-E) | Ренат Гафаров | 2022 |
 | [Менеджеры зависимостей: собери их всех](https://www.youtube.com/watch?v=LFDgq0vRr0w) | Владислав Фиц | 2022 |
 | [Борьба с зависимостями](https://www.youtube.com/watch?v=2Q0v-qEV7z4) | Лена Гордиенко | 2021 |
 | [Внедрение SPM — тернистый путь](https://www.youtube.com/watch?v=_e3nbqpOgXY) | Вадим Белотицкий | 2021 |
 | [Как Xcode билдит проект](https://www.youtube.com/watch?v=734RdxUewfM) | Тимофей Солонин | 2021 |
-| [Круглый стол: Modularization 2021](https://www.youtube.com/watch?v=RWhjn0hKJNk) | Round Table | 2021 |
+| [Круглый стол. Модуляризация 2021](https://www.youtube.com/watch?v=RWhjn0hKJNk) | Round Table | 2021 |
 | [ABI Stability наносит ответный удар](https://www.youtube.com/watch?v=RTqm7q3NfiE) | Владислав Усачёв | 2020 |
-| [Lost in Translation](https://www.youtube.com/watch?v=0-unqIBCimU) | Илья Лунькин | 2020 |
 | [SwiftLint — чистота и порядок в iOS-проекте](https://www.youtube.com/watch?v=APMBvI3cDyw) | Ислам Темирбек | 2020 |
 | [Модуляризируем приложение с помощью собственных pod'ов](https://www.youtube.com/watch?v=TjiVbjcYzkw) | Султан Сейдалин | 2020 |
 | [Разработка библиотеки для мобильных приложений](https://www.youtube.com/watch?v=Q5eImyCQF74) | Ольга Шкряба | 2020 |
+| [Трудности перевода](https://www.youtube.com/watch?v=0-unqIBCimU) | Илья Лунькин | 2020 |
 | [Монорепо: путешествие обратно. История модуляризации в Badoo](https://www.youtube.com/watch?v=V_lBeu4Xcp0) | Антон Щукин | 2019 |
 | [Разработка библиотеки: от API до публичного релиза](https://www.youtube.com/watch?v=uvx060VepYo) | Анастасия Свириденко | 2019 |
 | [Самописный remote cache для iOS + CocoaPods](https://www.youtube.com/watch?v=S_gKB4q97ZE) | Вадим Смаль | 2019 |
@@ -345,8 +349,8 @@
 | [Альтернативы XCUITest, или как и зачем разработчику писать автотесты](https://www.youtube.com/watch?v=PLjz0_sT4t4) | Кирилл Володин | 2025 |
 | [Как мы доверили качество наших приложений AI](https://www.youtube.com/watch?v=I8Btkgae9rk) | Алексей Маслобоев | 2025 |
 | [Погладить, нажать, автотест погонять: тесты приложения Apple TV](https://www.youtube.com/watch?v=t3ixzAThVsM) | Даниил Курпаченко, Михаил Гамаюнов | 2025 |
-| [Mobile Farm: тестируем мобильные приложения без телефона и эмулятора](https://www.youtube.com/watch?v=P5waRq2BEro) | Александр Кабанец | 2024 |
 | [Масштабируем UI-тесты на iOS: от новых приложений до устройств](https://www.youtube.com/watch?v=F6-XTpjE4RA) | Даниил Курпаченко | 2024 |
+| [Мобильная ферма? Тесты мобильных приложений без телефона и эмулятора](https://www.youtube.com/watch?v=P5waRq2BEro) | Александр Кабанец | 2024 |
 | [Организация и поддержка нативных UI-тестов в iOS](https://www.youtube.com/watch?v=PeV4GuZsvxI) | — | 2024 |
 | [Сверим часы: как мы тестировали VK на Apple Watch](https://www.youtube.com/watch?v=mKu_EL7MExs) | Ксения Катаева, Даниил Курпаченко | 2024 |
 | [Сокращаем время UI-тестов на iOS с 4 часов до 30 минут](https://www.youtube.com/watch?v=wa7p3_7UN5k) | Борис Лысиков | 2024 |
@@ -390,7 +394,7 @@
 | [Вам не нужно хранилище в приложении](https://www.youtube.com/watch?v=FfQ7SYrysxI) | Андрей Зонов | 2024 |
 | [Есть ли ORM круче SwiftData](https://www.youtube.com/watch?v=w3TcYs50UEI) | Сергей Балалаев | 2024 |
 | [Persistence в iOS](https://www.youtube.com/watch?v=nNUIntnTqqM) | Илья Богин | 2023 |
-| [SwiftData: новый persistence framework от Apple](https://www.youtube.com/watch?v=Jk2wSnAX8tI) | Алексей Лобанков | 2023 |
+| [SwiftData. Новый persistence framework от Apple](https://www.youtube.com/watch?v=Jk2wSnAX8tI) | Алексей Лобанков | 2023 |
 | [Кто ты, воин SwiftData](https://www.youtube.com/watch?v=6lIyxbKq5Uo) | — | 2023 |
 | [Блеск и нищета key-value-базы данных LMDB в мобильной разработке](https://www.youtube.com/watch?v=-JBBlB0uTsU) | Павел Осипов | 2020 |
 | [Первые шаги в offline first с Core Data и Managed Documents](https://www.youtube.com/watch?v=TskbBnHrnFE) | Валентин Чернов | 2020 |
@@ -407,38 +411,38 @@
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
 | [Crash Reporting 101](https://www.youtube.com/watch?v=w7OHgqew04A) | Виктория Длугопольская | 2026 |
-| [N приёмов, которые улучшат производительность видеоленты](https://www.youtube.com/watch?v=csuJfbYrG4s) | Рамиль Габдрахманов | 2026 |
-| [Архитектура, производительность, отладка: как мы строили медиафид](https://www.youtube.com/watch?v=X5OhR8b4o9I) | Лев Бондаренко | 2026 |
+| [N техник, которые улучшат работу видеоленты](https://www.youtube.com/watch?v=csuJfbYrG4s) | Рамиль Габдрахманов | 2026 |
+| [Архитектура, перформанс, дебаг: как мы делали медиаленту](https://www.youtube.com/watch?v=X5OhR8b4o9I) | Лев Бондаренко | 2026 |
 | [Фильтры для лица под капотом: Vision, сегментация и шейдеры в бою](https://www.youtube.com/watch?v=8z1VFzqKdTY) | Владислав Марков | 2026 |
+| [А ваше приложение похудело к лету?](https://www.youtube.com/watch?v=UXhDbDOUIkY) | Никита Краснов | 2025 |
 | [Анатомия энергопотребления](https://www.youtube.com/watch?v=LGx8amgRTh4) | Никита Васильченко | 2025 |
 | [Влияние Swift Runtime на производительность приложения](https://www.youtube.com/watch?v=d_3OpAKVZjc) | Кристиан Бенуа | 2025 |
-| [Заботимся о памяти при работе со значимыми типами](https://www.youtube.com/watch?v=-Mq-JjpWqdk) | Алексей Таран | 2025 |
 | [Запускаем приложения на своём iOS-симуляторе](https://www.youtube.com/watch?v=wtVZThmARaw) | Денис Кудинов | 2025 |
-| [Инструменты мониторинга производительности iOS-приложений](https://www.youtube.com/watch?v=YxGfGGfgH6U) | Виталий Камашев | 2025 |
-| [Как обеспечить стабильную работу SDK на миллионах устройств](https://www.youtube.com/watch?v=2faff6a13qI) | Никита Алексеев | 2025 |
-| [Код, который не тормозит: секреты производительности iOS](https://www.youtube.com/watch?v=_Ryf4uhINbg) | Кристиан Бенуа | 2025 |
+| [Инструменты для мониторинга производительности iOS-приложений](https://www.youtube.com/watch?v=YxGfGGfgH6U) | Виталий Камашев | 2025 |
+| [Как обеспечить стабильную работу SDK для миллионов устройств](https://www.youtube.com/watch?v=2faff6a13qI) | Никита Алексеев | 2025 |
+| [Код, который не тормозит: секреты производительности на iOS](https://www.youtube.com/watch?v=_Ryf4uhINbg) | Кристиан Бенуа | 2025 |
 | [Молот и наковальня iOS-разработчика](https://www.youtube.com/watch?v=4iticNNjA2o) | Василий Усов, Кирилл Шумаков | 2025 |
 | [Надёжность мобильных приложений: что это и как достичь](https://www.youtube.com/watch?v=5aJVKRb_SCQ) | Андрей Зонов | 2025 |
 | [От модуляризации к Clang и обратно](https://www.youtube.com/watch?v=TGJjv5RIBUs) | Роман Горбенко | 2025 |
 | [Под капотом iOS-крэшей](https://www.youtube.com/watch?v=BC-eQYERI8Y) | Давид Чупреев | 2025 |
-| [Похудело ли ваше приложение к лету?](https://www.youtube.com/watch?v=UXhDbDOUIkY) | Никита Краснов | 2025 |
+| [Позаботимся о памяти при использовании value-типов](https://www.youtube.com/watch?v=-Mq-JjpWqdk) | Алексей Таран | 2025 |
 | [Совместная работа Kotlin/Native GC и ARC в iOS](https://www.youtube.com/watch?v=JQa9PzL4Bug) | Дмитрий Кузнецов | 2025 |
 | [Ускоряем приложение эффективно](https://www.youtube.com/watch?v=syqy30DlJ9o) | Никита Шаповалов | 2025 |
-| [DriverKit: передаём данные по проводу без мам, пап и MFi](https://www.youtube.com/watch?v=XBVKyHWMeiU) | Святослав Карасев | 2024 |
+| [DriverKit: гоняем данные по проводу без мам, пап и MFi](https://www.youtube.com/watch?v=XBVKyHWMeiU) | Светослав Карасев | 2024 |
 | [Mobile Performance: расшифровка метрик](https://www.youtube.com/watch?v=xzd3wifp20U) | Максим Гришутин | 2024 |
-| [«Ленивый счёт», или как мы оптимизировали запуск приложения](https://www.youtube.com/watch?v=Z3ZCCCBskfc) | Александр Таганов | 2024 |
+| [«Ленивый граф», или Как мы оптимизировали старт приложения](https://www.youtube.com/watch?v=Z3ZCCCBskfc) | Александр Таганов | 2024 |
 | [Борьба с утечками памяти: от задачи до победы](https://www.youtube.com/watch?v=4yn19H07NSE) | Артём Колосов | 2024 |
 | [Быстрый DivKit: как мы ускоряли свой фреймворк](https://www.youtube.com/watch?v=VR_q65Tv8OI) | Леонид Ральников | 2024 |
 | [Здесь куют Metal](https://www.youtube.com/watch?v=tz8u47lPLNo) | Артём Нестеренко | 2024 |
 | [Как сделать, чтобы не тормозило, пожалуйста](https://www.youtube.com/watch?v=oa_-oN0k2Ys) | Евгений Шаповалов | 2024 |
 | [Моменты неотзывчивости iOS-приложений: как найти и исправить](https://www.youtube.com/watch?v=edNajCu7jVY) | — | 2024 |
 | [Удивительный мир внутри .ipa](https://www.youtube.com/watch?v=C1PqxajPrks) | Никита Краснов | 2024 |
-| [Debugging, profiling, crashes](https://www.youtube.com/watch?v=c5z50IkRxFI) | Михаил Куренков | 2023 |
-| [Sorry, Rosetta, we need to break up](https://www.youtube.com/watch?v=QHWU-ADZVAo) | Антон Грачев | 2023 |
-| [Tracer — альтернатива Crashlytics: другой подход к аналитике ошибок](https://www.youtube.com/watch?v=e3yLHVMIfaU) | Кирилл Попов | 2023 |
+| [Tracer — альтернатива Crashlytics. Другой взгляд на аналитику ошибок в приложениях](https://www.youtube.com/watch?v=e3yLHVMIfaU) | Кирилл Попов | 2023 |
 | [Дебаггинг приложения без Xcode](https://www.youtube.com/watch?v=1HhcVIoQUYM) | Владимир Петров | 2023 |
 | [Как приручить iPhone, или общаемся с телефоном по проводу](https://www.youtube.com/watch?v=AJ7BrCN86aU) | Евгений Онуфрейчик | 2023 |
+| [Отладка. Профилирование. Креши](https://www.youtube.com/watch?v=c5z50IkRxFI) | Михаил Куренков | 2023 |
 | [Пишем свой рендеринг графики на SwiftUI и запускаем на нём Doom](https://www.youtube.com/watch?v=S__kZUnx4j0) | Денис Кудинов | 2023 |
+| [Прости, Rosetta, мы должны расстаться](https://www.youtube.com/watch?v=QHWU-ADZVAo) | Антон Грачев | 2023 |
 | [Inlinable-оптимизации в Swift](https://www.youtube.com/watch?v=yHfX-9aYAHQ) | Максим Гришутин | 2022 |
 | [Performance в SwiftUI](https://www.youtube.com/watch?v=lh03fF3cG7Q) | Илья Чикмарёв | 2022 |
 | [Введение в Swift Runtime](https://www.youtube.com/watch?v=H7m-KDySG7E) | Александр Пахомов | 2022 |
@@ -518,18 +522,19 @@
 | [Continuous integration for iOS applications](https://www.youtube.com/watch?v=I3wU_CM7gNc) | Александр Додатко | 2011 |
 | [Continuous integration для iOS](https://www.youtube.com/watch?v=PZ_lmHzAWig) | Эльдар Марков | 2010 |
 
-### Сеть / API (20)
+### Сеть / API (21)
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
 | [Networking](https://www.youtube.com/watch?v=GOFY12kvhuA) | Андрей Якушев | 2023 |
-| [Antiphishing/Antimalware на трафике iOS с помощью Network Extension](https://www.youtube.com/watch?v=2vLJAmrYmj4) | Денис Кудинов | 2022 |
+| [Antiphishing / Antimalware на трафике в iOS с применением Network Extension](https://www.youtube.com/watch?v=2vLJAmrYmj4) | Денис Кудинов | 2022 |
 | [VK Звонки: соединяем тысячи людей с Android и iOS по WebRTC](https://www.youtube.com/watch?v=_97j8LDmk3w) | Иван Шафран, Никита Разумный | 2022 |
 | [Организация IP-телефонии в мобильном приложении](https://www.youtube.com/watch?v=3ujALMZZinE) | Олег Иванов | 2022 |
-| [Как переписать сетевой слой, чтобы не переписывать его снова](https://www.youtube.com/watch?v=Js-fjSMOi2g) | Александр Аносов | 2021 |
+| [Как переписать сетевой слой так, чтобы не пришлось переписывать его снова](https://www.youtube.com/watch?v=Js-fjSMOi2g) | Александр Аносов | 2021 |
 | [Трудности разработки клиента для облачного хранилища под iOS](https://www.youtube.com/watch?v=tGVyxCqsucI) | Игорь Веденеев | 2021 |
 | [Ускоряем сетевой слой ВКонтакте с HTTP/3](https://www.youtube.com/watch?v=tnj-Wx9WLVY) | Андрей Чупин | 2021 |
-| [gRPC в iOS-приложениях. REST in peace?](https://www.youtube.com/watch?v=A7cjJJ70bvg) | Святослав Карасев | 2020 |
+| [Download Manager: не изобретайте колесо](https://www.youtube.com/watch?v=-4JqEROeI7U) | Виктор Лапин | 2020 |
+| [gRPC в iOS приложениях. REST in peace?](https://www.youtube.com/watch?v=A7cjJJ70bvg) | Светослав Карасев | 2020 |
 | [Оптимизация работы приложения на медленной сети](https://www.youtube.com/watch?v=0uN2e5krEWM) | Анастасия Свириденко | 2020 |
 | [Как ускорить интернет, или оптимизация приложений в мобильных сетях](https://www.youtube.com/watch?v=0xKAR0AHIdY) | Александр Тоболь | 2019 |
 | [Работаем с сетью эффективно](https://www.youtube.com/watch?v=7HtE3Ci78nU) | Евгений Ртищев | 2019 |
@@ -547,14 +552,14 @@
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
-| [Реверс-инжиниринг и патчинг на устройствах без джейлбрейка](https://www.youtube.com/watch?v=7lBozfcVW3I) | Андрей Пробочкин | 2025 |
+| [Боевой Reverse Engineering и патчинг под Non-Jailbroken iOS-девайсы](https://www.youtube.com/watch?v=7lBozfcVW3I) | Андрей Пробочкин | 2025 |
 | [Федеративный ML на iOS: как уберечь данные пользователей в эпоху ИИ](https://www.youtube.com/watch?v=AyuoYme2_hk) | Михаил Исаченко | 2025 |
 | [iOS-приложения под защитой Apple! Или нет?](https://www.youtube.com/watch?v=bfjl4p2JMw0) | Дмитрий Истратов | 2024 |
 | [Единая авторизация Ozon ID: повышаем комфорт юзеров, снижая затраты компании](https://www.youtube.com/watch?v=poZmclZV70o) | Денис Долгополов | 2024 |
 | [Безопасность приложений (Yet Another Mobile Party)](https://www.youtube.com/watch?v=4BC0RER08dI) | App Security | 2023 |
 | [Мифы и легенды о безопасности мобильных приложений](https://www.youtube.com/watch?v=0zmq1PA6wfs) | Юрий Шабалин | 2023 |
 | [Про безопасность](https://www.youtube.com/watch?v=oBJ2SLfijYI) | Алексей Шведчиков | 2023 |
-| [Antiphishing/Antimalware на трафике iOS с помощью Network Extension](https://www.youtube.com/watch?v=2vLJAmrYmj4) | Денис Кудинов | 2022 |
+| [Antiphishing / Antimalware на трафике в iOS с применением Network Extension](https://www.youtube.com/watch?v=2vLJAmrYmj4) | Денис Кудинов | 2022 |
 | [Круглый стол: IDFA в iOS 14](https://www.youtube.com/watch?v=8mOyGNl1I0U) | — | 2021 |
 | [Offensive security iOS: статический и динамический анализ приложений](https://www.youtube.com/watch?v=AnoSj9oa2Pk) | Денис Кудинов | 2020 |
 | [Взлом и внедрение своего кода в чужое приложение](https://www.youtube.com/watch?v=wPMoC_fWQ3A) | Мурад Татаев | 2020 |
@@ -577,9 +582,9 @@
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
 | [Пишем видеоплеер под iOS с нуля](https://www.youtube.com/watch?v=M0Bb5X9WZPI) | Дамир Якупов | 2025 |
-| [Рецепт кроссплатформенного мобильного видеоредактора](https://www.youtube.com/watch?v=ppm--5VtGfI) | Дмитрий Кузнецов | 2024 |
+| [Рецепт приготовления кроссплатформенного мобильного видеоредактора](https://www.youtube.com/watch?v=ppm--5VtGfI) | Дмитрий Кузнецов | 2024 |
 | [Как работает видеостриминг в мобильных приложениях](https://www.youtube.com/watch?v=RBM6y_pRRqg) | — | 2023 |
-| [Музыка в iOS-приложениях: подводные камни разработки](https://www.youtube.com/watch?v=0ojTZtTDA9c) | Екатерина Батеева | 2023 |
+| [Музыка в iOS приложениях: подводные камни при разработке](https://www.youtube.com/watch?v=0ojTZtTDA9c) | Екатерина Батеева | 2023 |
 | [Показываем красивое с помощью видеоредактора в VK Клипах на iOS](https://www.youtube.com/watch?v=BKLKKzMlS-8) | Михаил Дементьев | 2023 |
 | [VK Звонки: соединяем тысячи людей с Android и iOS по WebRTC](https://www.youtube.com/watch?v=_97j8LDmk3w) | Иван Шафран, Никита Разумный | 2022 |
 | [Организация IP-телефонии в мобильном приложении](https://www.youtube.com/watch?v=3ujALMZZinE) | Олег Иванов | 2022 |
@@ -622,15 +627,15 @@
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
-| [Заказываем кофе с помощью AI](https://www.youtube.com/watch?v=oxkUtw65V4E) | Максим Кочинкин | 2026 |
-| [Интеграция AI в инженерные команды](https://www.youtube.com/watch?v=ZOcK0G_oHtY) | Артур Василов | 2026 |
+| [Внедрение AI в инженерные команды](https://www.youtube.com/watch?v=ZOcK0G_oHtY) | Артур Василов | 2026 |
+| [Заказываем кофе с помощью AI](https://www.youtube.com/watch?v=oxkUtw65V4E) | Максим Качинкин | 2026 |
 | [Новая эра мобильной разработки: запускаем LLM локально на телефоне](https://www.youtube.com/watch?v=pw6J5LbNDck) | Самир Ахмедов | 2026 |
+| [Обратная сторона AI в мобильной разработке](https://www.youtube.com/watch?v=KhHJC9XPS9g) | Roundtable Discussion | 2026 |
 | [Оживляем мобильное приложение с помощью LLM-агента](https://www.youtube.com/watch?v=9nVZL9_zi5k) | Тамим Аттафи | 2026 |
 | [Почему AI-агенты буксуют в больших кодовых базах из-за grep и как это починить](https://www.youtube.com/watch?v=LyjG7-lq8UE) | Alexander Ivanov | 2026 |
-| [Тёмная сторона AI в мобильной разработке](https://www.youtube.com/watch?v=KhHJC9XPS9g) | Roundtable Discussion | 2026 |
 | [Фильтры для лица под капотом: Vision, сегментация и шейдеры в бою](https://www.youtube.com/watch?v=8z1VFzqKdTY) | Владислав Марков | 2026 |
 | [Эволюция скиллов в агентной разработке: кейсы и сравнение с MCP](https://www.youtube.com/watch?v=dKvlv3V-tsI) | Егор Федяев | 2026 |
-| [Заменит ли AI разработчиков?](https://www.youtube.com/watch?v=GdLfSeWTGeM) | Лев Бондаренко, Максим Абакумов | 2025 |
+| [Заменит ли AI разработчика](https://www.youtube.com/watch?v=GdLfSeWTGeM) | Лев Бондаренко, Максим Абакумов | 2025 |
 | [Как внедрить ИИ в команду разработчиков и не нажить себе врагов](https://www.youtube.com/watch?v=Pbh0yJyLKqY) | Евгений Сатуров | 2025 |
 | [Как мы доверили качество наших приложений AI](https://www.youtube.com/watch?v=I8Btkgae9rk) | Алексей Маслобоев | 2025 |
 | [Федеративный ML на iOS: как уберечь данные пользователей в эпоху ИИ](https://www.youtube.com/watch?v=AyuoYme2_hk) | Михаил Исаченко | 2025 |
@@ -688,7 +693,7 @@
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
-| [Online Caller ID: секреты реализации Live Caller ID для iOS](https://www.youtube.com/watch?v=KHFR3balPw8) | Глеб Фандеев | 2026 |
+| [Онлайн-определитель номеров: секреты реализации Live Caller ID для iOS](https://www.youtube.com/watch?v=KHFR3balPw8) | Глеб Фандеев | 2026 |
 | [Перезагрузка мобильной аналитики: объединяем подходы в iOS и Android](https://www.youtube.com/watch?v=QdNEyUnM2ro) | Андрей Максимкин | 2026 |
 | [Sideloading и узник Apple](https://www.youtube.com/watch?v=Z-1Ro_SZFEg) | Владимир Коржев | 2025 |
 | [TransmateSDK — ваш товарищ-полиглот](https://www.youtube.com/watch?v=oYEjCFXdD6I) | Богдан Костюченко, Семён Бабакаев | 2025 |
@@ -701,16 +706,16 @@
 | [Единая авторизация Ozon ID: повышаем комфорт юзеров, снижая затраты компании](https://www.youtube.com/watch?v=poZmclZV70o) | Денис Долгополов | 2024 |
 | [Локализация iOS-приложения за 1$ в 2024 году](https://www.youtube.com/watch?v=lU7EZ2K_4ho) | Александр Гращенков | 2024 |
 | [Мгновенный фидбэк: как оперативно получать отзывы о приложении в App Store](https://www.youtube.com/watch?v=g570AmnW2o8) | Игорь Клюжев | 2024 |
+| [Плюс, работа с платежами и особенности разработки SDK](https://www.youtube.com/watch?v=YBANcPjumxE) | Татьяна Чиглинцева | 2024 |
 | [Что не так с мобильными сервисами в Android и iOS](https://www.youtube.com/watch?v=M0vbQY48tBQ) | Кирилл Розов | 2024 |
-| [Яндекс Плюс, платёжный процессинг и особенности разработки SDK](https://www.youtube.com/watch?v=YBANcPjumxE) | Татьяна Чиглинцева | 2024 |
 | [Гайдлайны подписок](https://www.youtube.com/watch?v=sDY86kjbAKc) | Никита Майданов | 2023 |
 | [Подписки в iOS: deep dive](https://www.youtube.com/watch?v=YbrS-RaDzhA) | Никита Майданов | 2023 |
 | [Работа с картой в каршеринге](https://www.youtube.com/watch?v=uDE4qa7Hik4) | Евгений Петриёв | 2023 |
 | [Телефон, NFC и пластиковые карты — романтика!](https://www.youtube.com/watch?v=vCPYS4RUZUE) | Владислав Кожушко | 2023 |
 | [Server-Driven UI с DivKit](https://www.youtube.com/watch?v=-aRSYtDVI6c) | Александр Скворцов, Павел Курчатов, Ольга Ким | 2022 |
-| [За пределами App Store: возможности разработки в корпоративном секторе](https://www.youtube.com/watch?v=HgTzwCKweII) | Денис Кудинов | 2022 |
+| [За гранью App Store: возможности для разработки в бизнес-сегменте](https://www.youtube.com/watch?v=HgTzwCKweII) | Денис Кудинов | 2022 |
 | [Backend без бэкендера с помощью Strapi](https://www.youtube.com/watch?v=N17kfS8h3HM) | Алимжан Абуов | 2021 |
-| [iOS background modes: реализация и лучшие практики](https://www.youtube.com/watch?v=8c4q3hUcOb8) | Анна Жаркова | 2021 |
+| [iOS background modes. Применяем и укрощаем на практике](https://www.youtube.com/watch?v=8c4q3hUcOb8) | Анна Жаркова | 2021 |
 | [Performance tracking в мобильном приложении](https://www.youtube.com/watch?v=f6h8lbk-GiQ) | Алексей Новиков | 2021 |
 | [SharePlay и другие способы связать пользователей iOS друг с другом](https://www.youtube.com/watch?v=J1aLm9b6q10) | Данис Тазетдинов | 2021 |
 | [Генерация кроссплатформенной аналитики](https://www.youtube.com/watch?v=j3QZtIKNQb8) | Александр Лавриненко | 2021 |
@@ -729,7 +734,7 @@
 | [Оптимизация под Spotlight](https://www.youtube.com/watch?v=O1XeTHb-Tvw) | Иван Трофимов | 2020 |
 | [Сервисы без сервера. Используем Firebase на 100%](https://www.youtube.com/watch?v=gm8DTskY_2k) | Андрей Мухаметов | 2020 |
 | [Тёмные уголки iOS Auto Renewable Subscriptions](https://www.youtube.com/watch?v=NbygMTsP1Ow) | Денис Кириллов | 2020 |
-| [Core Bluetooth не так страшен](https://www.youtube.com/watch?v=KDmUPgWjz-E) | Евгений Антропов | 2019 |
+| [Core Bluetooth не так уж и страшен](https://www.youtube.com/watch?v=KDmUPgWjz-E) | Евгений Антропов | 2019 |
 | [So you think you know how to do ASO](https://www.youtube.com/watch?v=F4gy_Qr6LDQ) | Анатолий Шарифулин | 2019 |
 | [Лебедь, рак и щука, или всё о коллаборативном доступе в мобильном приложении](https://www.youtube.com/watch?v=luptFJu6skc) | Антон Давыдов | 2019 |
 | [Аналитика мобильного проекта: проверяй и доверяй](https://www.youtube.com/watch?v=qrGBDhMiWzc) | Александр Лукин | 2018 |
@@ -752,18 +757,19 @@
 | [Продвижение приложений от indie-разработчика](https://www.youtube.com/watch?v=ioUIEFUOoWk) | — | 2011 |
 | [Создание и продвижение приложений от iBearSoft](https://www.youtube.com/watch?v=Ade8EdBSC5c) | — | 2011 |
 
-### Найм / Собеседования (11)
+### Найм / Собеседования (12)
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
 | [Cracking the Mobile Interview](https://www.youtube.com/watch?v=F0TVWXw1z2A) | Дмитрий Мовчан | 2024 |
 | [Как проходит архитектурная секция в команду мобильной разработки Яндекс 360](https://www.youtube.com/watch?v=KZN654huFeQ) | — | 2024 |
-| [Как собеседовать мобильных инженеров? System design спешит на помощь](https://www.youtube.com/watch?v=LgS1P-37ehI) | Вячеслав Таранников | 2024 |
+| [Как собеседовать мобильных инженеров? Системный дизайн спешит на помощь!](https://www.youtube.com/watch?v=LgS1P-37ehI) | Вячеслав Таранников | 2024 |
 | [Проводим и проходим Mobile System Design-интервью](https://www.youtube.com/watch?v=vZ0qTeiH35s) | Вячеслав Слуцкер | 2024 |
 | [Техническое интервью класса А](https://www.youtube.com/watch?v=KQxXY2AtUQg) | Сергей Копытов | 2023 |
 | [Осознанный выбор работы](https://www.youtube.com/watch?v=YAPoNrbQnww) | Богдан Маншилин | 2021 |
 | [Готовимся к iOS собеседованию](https://www.youtube.com/watch?v=zWqbzpJzPXA) | Илья Кузнецов | 2020 |
 | [Интервью с разработчиком глазами HR-менеджера](https://www.youtube.com/watch?v=NaHYujKs5AQ) | Малика Молотова | 2020 |
+| [Собеседование мобильных разработчиков. Обе стороны баррикады](https://www.youtube.com/watch?v=z1uTOrDqRfU) | Александр Чёрный | 2018 |
 | [Процесс найма](https://www.youtube.com/watch?v=lsp2ysfm0Hg) | Никита Майданов, Владимир Милков | 2017 |
 | [Техническое интервью в iOS](https://www.youtube.com/watch?v=sBw5DIjHo4w) | Самвел Меджлумян | 2017 |
 | [О технических интервью](https://www.youtube.com/watch?v=szyVzYcoNLo) | Олег Овечкин | 2015 |
@@ -772,8 +778,8 @@
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
+| [Внедрение AI в инженерные команды](https://www.youtube.com/watch?v=ZOcK0G_oHtY) | Артур Василов | 2026 |
 | [Зачем и как вам контрибьютить в open source](https://www.youtube.com/watch?v=6OarZd8J6gg) | Даниил Липаткин | 2026 |
-| [Интеграция AI в инженерные команды](https://www.youtube.com/watch?v=ZOcK0G_oHtY) | Артур Василов | 2026 |
 | [Как устроена мобильная разработка в Яндекс Картах](https://www.youtube.com/watch?v=6oY22XXuJFc) | Лев Бондаренко, Владимир Миллер | 2026 |
 | [Архитектура для кросс-функциональных команд](https://www.youtube.com/watch?v=bVSKvTRi_ds) | Юрий Дубовой | 2025 |
 | [Как внедрить ИИ в команду разработчиков и не нажить себе врагов](https://www.youtube.com/watch?v=Pbh0yJyLKqY) | Евгений Сатуров | 2025 |
@@ -788,7 +794,7 @@
 | [Mobile interview: как делать браузер под iOS и управлять большой командой](https://www.youtube.com/watch?v=W6-sMP1sWjo) | Павел Воробкалов | 2023 |
 | [Антиабьюзивные отношения с пользователями мобильных приложений](https://www.youtube.com/watch?v=woUH6nE2fkY) | Александра Ковалёва | 2023 |
 | [Бот как сердце коммьюнити](https://www.youtube.com/watch?v=h4_QPgFcrL8) | Вероника Макаровская | 2023 |
-| [Зачем компаниям DevRel и кто это такие](https://www.youtube.com/watch?v=wOpTaXTotjk) | Ксения Дегтярева | 2023 |
+| [Зачем компаниям DevRel и что это за люди](https://www.youtube.com/watch?v=wOpTaXTotjk) | Ксения Дегтярева | 2023 |
 | [Как вывести проект в опенсорс (Yet Another Mobile Party)](https://www.youtube.com/watch?v=serWcYQZ8Qg) | — | 2023 |
 | [Как мы обеспечиваем качество, не жертвуя TTM](https://www.youtube.com/watch?v=1NjlOge4gvM) | Антон Грачев | 2023 |
 | [Как формировать топовые команды (Yet Another Mobile Party)](https://www.youtube.com/watch?v=99Qg0GxFHko) | — | 2023 |
@@ -840,14 +846,14 @@
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
-| [Design-Code: на пути к экосистеме](https://www.youtube.com/watch?v=lgW6tqL1bnk) | Дмитрий Строков, Александр Шовтюк | 2026 |
+| [Дизайн—код. На пути к экосистеме](https://www.youtube.com/watch?v=lgW6tqL1bnk) | Дмитрий Строков, Александр Шовтюк | 2026 |
 | [Дивная дизайн-система](https://www.youtube.com/watch?v=IahXYZIERTM) | Валерий Безуглый | 2024 |
 | [Эмпатичное проектирование](https://www.youtube.com/watch?v=smaGRAyad_c) | Данил Колесников | 2023 |
 | [Доступность — вершина технологий](https://www.youtube.com/watch?v=6_dOlnPwS0k) | Михаил Рубанов | 2022 |
 | [Есть тема! Внедрение цветовых тем в iOS-приложение](https://www.youtube.com/watch?v=EwOT1FbhqfI) | Никита Раков | 2022 |
 | [Как варить дизайн-систему для живого приложения](https://www.youtube.com/watch?v=329aAWL9lXo) | Александр Пряничников | 2022 |
 | [Вдохновившись SwiftUI, создаём дизайн-систему на UIKit](https://www.youtube.com/watch?v=LTIAt0rTmno) | Анастасия Соколан | 2021 |
-| [Разочаровывающие паттерны мобильной разработки и как их улучшить](https://www.youtube.com/watch?v=gsHU6QlsAy0) | Виталий Фридман | 2021 |
+| [Разочаровавшие паттерны мобильной разработки в 2021 году — как сделать их лучше](https://www.youtube.com/watch?v=gsHU6QlsAy0) | Виталий Фридман | 2021 |
 | [Разработка дизайна со стороны программиста](https://www.youtube.com/watch?v=iSJiSp_Nk2k) | Борис Дипнер | 2021 |
 | [Accessibility в iOS: невидимая сторона вашего приложения](https://www.youtube.com/watch?v=LP19gN01Buk) | Антон Силюк | 2020 |
 | [COLOЯS: разбираемся раз и навсегда](https://www.youtube.com/watch?v=YHsaL631Kv4) | Андрей Володин | 2020 |
@@ -883,9 +889,9 @@
 | :-- | :-- | :-: |
 | [yx_state + yx_scope + yx_navigation: единый стек Flutter-приложений](https://www.youtube.com/watch?v=7lMoO9Q0FKk) | Андрей Смирнов | 2026 |
 | [Живая картинка: анимации и эффекты в кроссплатформенном BDUI-движке](https://www.youtube.com/watch?v=-VbPAn9b4rA) | Алексей Телышев | 2026 |
+| [Борьба с лишним весом, или Методы оптимизации размеров Flutter-приложений](https://www.youtube.com/watch?v=BAs-jdNfZ60) | Константин Довнар | 2025 |
 | [Заезжаем в KMP. Но какой ценой?](https://www.youtube.com/watch?v=h0idznvkUPc) | Денис Александров | 2025 |
 | [Как написать MVP под Android, если ты iOS-разработчик](https://www.youtube.com/watch?v=A3tiFtXQQqA) | Екатерина Батеева | 2025 |
-| [Методы оптимизации размера Flutter-приложения](https://www.youtube.com/watch?v=BAs-jdNfZ60) | Константин Довнар | 2025 |
 | [Миграция больших приложений на KMP: проблемы, подводные камни, решения](https://www.youtube.com/watch?v=z0lV58_I1zE) | Павел Шорохов | 2025 |
 | [Совместная работа Kotlin/Native GC и ARC в iOS](https://www.youtube.com/watch?v=JQa9PzL4Bug) | Дмитрий Кузнецов | 2025 |
 | [Это вам не игрушки: портирование кроссплатформенной C++ игры на iOS](https://www.youtube.com/watch?v=ZkHJScsgzjY) | Андрей Филипенков | 2025 |
@@ -893,13 +899,13 @@
 | [DivKit на Flutter](https://www.youtube.com/watch?v=u3t-C8BorZE) | Андрей Рощупкин, Максим Ясаков | 2024 |
 | [Встраиваем Unity в мобильное приложение: боль и костыли](https://www.youtube.com/watch?v=lji-9B6qMoI) | Анатолий Пешков | 2024 |
 | [Зачем мне Kotlin в iOS-разработке? Я только Swift выучил!](https://www.youtube.com/watch?v=9HMPKIGh7vQ) | — | 2024 |
-| [Как Compose Multiplatform для iOS может убить Flutter?](https://www.youtube.com/watch?v=tiAC1SS_wfw) | Валентин Телегин | 2024 |
-| [Как iOS-разработчику выжить в KMP-проекте?](https://www.youtube.com/watch?v=HfzSzFC4ISo) | Сергей Стельмах | 2024 |
+| [Как Compose Multiplatform for iOS может убить Flutter?](https://www.youtube.com/watch?v=tiAC1SS_wfw) | Валентин Телегин | 2024 |
+| [Как iOS-разработчику выжить на проекте с KMP?](https://www.youtube.com/watch?v=HfzSzFC4ISo) | Сергей Стельмах | 2024 |
 | [Как мы сделали ставку на KMP](https://www.youtube.com/watch?v=e_U18tvxmaM) | Павел Новиков | 2024 |
 | [ОС Аврора 5 глазами мобильного разработчика: разработка и функциональность](https://www.youtube.com/watch?v=8R32laJmC7s) | Денис Глазков | 2024 |
 | [Особенности сервиса Яндекс Про и будущее Flutter](https://www.youtube.com/watch?v=fZiqjwTMZIg) | Mobile Interview | 2024 |
 | [Пишем нативно под Аврора ОС как под iOS: Clean-архитектура, Coordinator и UDF](https://www.youtube.com/watch?v=OTni98oEnJM) | Денис Супрун | 2024 |
-| [Рецепт кроссплатформенного мобильного видеоредактора](https://www.youtube.com/watch?v=ppm--5VtGfI) | Дмитрий Кузнецов | 2024 |
+| [Рецепт приготовления кроссплатформенного мобильного видеоредактора](https://www.youtube.com/watch?v=ppm--5VtGfI) | Дмитрий Кузнецов | 2024 |
 | [Compose for iOS под капотом](https://www.youtube.com/watch?v=AS0k7l627gI) | Алексей Гладков | 2023 |
 | [Compose Multiplatform для iOS и Android](https://www.youtube.com/watch?v=oZFl3KdLzKc) | Кирилл Аникин | 2023 |
 | [PyDjinni: генератор межъязыковых мостов для мобильных приложений](https://www.youtube.com/watch?v=ZW83v7t8cCk) | Глеб Игумнов | 2023 |
@@ -910,18 +916,18 @@
 | [Прокрутка во Flutter: меняем законы физики](https://www.youtube.com/watch?v=PjEm8H7p_kI) | Артём Зайцев | 2023 |
 | [Разработка для ОС «Аврора»](https://www.youtube.com/watch?v=s0AraORVyNw) | Роман Аляутдин, Денис Глазков | 2023 |
 | [Разработка под Аврору (Yet Another Mobile Party)](https://www.youtube.com/watch?v=nTjpWnh41wo) | — | 2023 |
-| [Что Flutter-разработчику нужно знать про iOS и Android](https://www.youtube.com/watch?v=LLVvVcJ4uJA) | Егор Федяев, Владимир Сорокин | 2023 |
-| [Что нового в интерфейсе ОС «Аврора» 5: контролы и паттерны взаимодействия](https://www.youtube.com/watch?v=VyDF6Eo-5Fs) | Алексей Корюкин | 2023 |
-| [SwiftUI на Flutter](https://www.youtube.com/watch?v=1jFm7upknIg) | Геннадий Евстратов | 2022 |
+| [Что нового в интерфейсе ОС Аврора 5: управление и паттерны взаимодействия](https://www.youtube.com/watch?v=VyDF6Eo-5Fs) | Алексей Корюкин | 2023 |
+| [Что нужно знать Flutter разработчику про iOS и Android](https://www.youtube.com/watch?v=LLVvVcJ4uJA) | Егор Федяев, Владимир Сорокин | 2023 |
+| [SUI на Flutter](https://www.youtube.com/watch?v=1jFm7upknIg) | Геннадий Евстратов | 2022 |
 | [Декларативный UI: Flutter vs SwiftUI vs Jetpack Compose](https://www.youtube.com/watch?v=MQ25Q_UGC8c) | Анатолий Пешков | 2022 |
 | [Делаем удобное взаимодействие с Kotlin из Swift](https://www.youtube.com/watch?v=i-G8X7lW8dk) | Алексей Михайлов | 2022 |
 | [Не самый удачный проект для KMM](https://www.youtube.com/watch?v=xopXYqhmfAM) | Георгий Емельянов, Николай Дмитриев | 2022 |
-| [Профилирование Flutter-приложений: невоспетые герои](https://www.youtube.com/watch?v=CQt1xBOGSHQ) | Андрей Смирнов | 2022 |
+| [Профилирование приложений Flutter. Незаслуженно забытые герои](https://www.youtube.com/watch?v=CQt1xBOGSHQ) | Андрей Смирнов | 2022 |
 | [CocoaCast #3: нативная и кроссплатформенная мобильная разработка](https://www.youtube.com/watch?v=UrDrLoxjHB8) | — | 2021 |
 | [Flutter app: телеграм на минималках](https://www.youtube.com/watch?v=H3KCafjugM4) | Андрей Савостьянов | 2021 |
 | [Flutter for TV, или как запилить приложение под умные телевизоры](https://www.youtube.com/watch?v=A4WVXISMw3g) | Александр Денисов | 2021 |
 | [Kotlin Multiplatform Advanced: делаем общий DI для iOS и Android](https://www.youtube.com/watch?v=Z3KhZzAhCIY) | Анна Жаркова | 2021 |
-| [Kotlin Multiplatform в мобильных Яндекс Картах глазами iOS-разработчика](https://www.youtube.com/watch?v=m5H1KGsdqtw) | Михаил Куренков | 2021 |
+| [Kotlin multiplatform в мобильных Яндекс.Картах с позиции iOS-разработчика](https://www.youtube.com/watch?v=m5H1KGsdqtw) | Михаил Куренков | 2021 |
 | [Николай Иготти о Compose Multiplatform, связи Google и JetBrains и Compose for iOS](https://www.youtube.com/watch?v=giHTUAmyFWY) | Николай Иготти | 2021 |
 | [Прожаренная птичка: готовим Flutter к промышленному использованию](https://www.youtube.com/watch?v=h3Ge4eAQMPc) | Владимир Иванов | 2021 |
 | [Разработка на Kotlin/Native и Swift: новые технологии и их внутренности](https://www.youtube.com/watch?v=IYDiyMKjD7c) | Айдар Мухаметзянов | 2021 |
@@ -957,19 +963,19 @@
 | [Встреча CocoaHeads WWDC Club 20: Widgets, App Clips, UIKit, IaP, Privacy](https://www.youtube.com/watch?v=71tqrHkfw7A) | — | 2020 |
 | [Круглый стол WWDC 2020: свежие вести с полей](https://www.youtube.com/watch?v=aAvFsS73wmI) | — | 2020 |
 
-### Круглые столы / DevTalks (67)
+### Круглые столы / DevTalks (68)
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
 | [State of Mobile Dev 2025 Autumn от программного комитета Mobius](https://www.youtube.com/watch?v=UM7EY576gYI) | — | 2026 |
-| [T-Shaped мобильный разработчик](https://www.youtube.com/watch?v=U2VMYfYrEuc) | Roundtable Discussion | 2026 |
-| [Лента Мобиуса: качество, архитектура и ответственность в эпоху ИИ](https://www.youtube.com/watch?v=Twtw0b4XaHI) | Екатерина Батеева | 2026 |
+| [T-Shape мобильный разработчик](https://www.youtube.com/watch?v=U2VMYfYrEuc) | Roundtable Discussion | 2026 |
+| [Лента Мобиуса: качество, архитектура и ответственность в эпоху ИИ-ассистентов](https://www.youtube.com/watch?v=Twtw0b4XaHI) | Екатерина Батеева | 2026 |
+| [Обратная сторона AI в мобильной разработке](https://www.youtube.com/watch?v=KhHJC9XPS9g) | Roundtable Discussion | 2026 |
 | [Разработчик из Apple теперь в Яндексе: что отличается внутри](https://www.youtube.com/watch?v=he4cEpJQyU4) | — | 2026 |
-| [Тёмная сторона AI в мобильной разработке](https://www.youtube.com/watch?v=KhHJC9XPS9g) | Roundtable Discussion | 2026 |
 | [Soft Skill Talks: модель зрелости разработчика](https://www.youtube.com/watch?v=jZ-wNlnCUIo) | — | 2025 |
-| [Заменит ли AI разработчиков?](https://www.youtube.com/watch?v=GdLfSeWTGeM) | Лев Бондаренко, Максим Абакумов | 2025 |
-| [Как iOS-разработка выживает в новой реальности](https://www.youtube.com/watch?v=zGq2uZl4_qA) | — | 2025 |
+| [Заменит ли AI разработчика](https://www.youtube.com/watch?v=GdLfSeWTGeM) | Лев Бондаренко, Максим Абакумов | 2025 |
 | [Как устроена мобильная разработка в Алисе](https://www.youtube.com/watch?v=WKJo93LNrW0) | Юрий Тимофеев | 2025 |
+| [Лента Мобиуса: когда App Store не работает — как живёт iOS-разработка в новых реалиях](https://www.youtube.com/watch?v=zGq2uZl4_qA) | — | 2025 |
 | [Лента Мобиуса: кроссплатформа, умный склад и DnD](https://www.youtube.com/watch?v=H8jiUsEaqvU) | Кристина Зейферт | 2025 |
 | [Лента Мобиуса: мобильный финтех, от регуляторов до ИИ и менторства](https://www.youtube.com/watch?v=HPhjDURBwsY) | Екатерина Батеева | 2025 |
 | [Зачем мне Kotlin в iOS-разработке? Я только Swift выучил!](https://www.youtube.com/watch?v=9HMPKIGh7vQ) | — | 2024 |
@@ -980,17 +986,18 @@
 | [Лента Мобиуса: юридические фишки, которые нужно знать разработчику](https://www.youtube.com/watch?v=hlFOV_ycu6k) | Наталья Бендерская | 2024 |
 | [Мобильная разработка в Алисе и YaOS](https://www.youtube.com/watch?v=demkDFlDZrM) | Mobile Interview | 2024 |
 | [Особенности сервиса Яндекс Про и будущее Flutter](https://www.youtube.com/watch?v=fZiqjwTMZIg) | Mobile Interview | 2024 |
+| [Плюс, работа с платежами и особенности разработки SDK](https://www.youtube.com/watch?v=YBANcPjumxE) | Татьяна Чиглинцева | 2024 |
 | [Тренды мобильной разработки 2024/2025](https://www.youtube.com/watch?v=CdZ5Dipx9Tg) | — | 2024 |
-| [Яндекс Плюс, платёжный процессинг и особенности разработки SDK](https://www.youtube.com/watch?v=YBANcPjumxE) | Татьяна Чиглинцева | 2024 |
 | [Mobile interview: как делать браузер под iOS и управлять большой командой](https://www.youtube.com/watch?v=W6-sMP1sWjo) | Павел Воробкалов | 2023 |
 | [Безопасность приложений (Yet Another Mobile Party)](https://www.youtube.com/watch?v=4BC0RER08dI) | App Security | 2023 |
 | [Дискуссия: зачем разработчику преподавать?](https://www.youtube.com/watch?v=IyPdv3wZy7I) | — | 2023 |
-| [Зачем компаниям DevRel и кто это такие](https://www.youtube.com/watch?v=wOpTaXTotjk) | Ксения Дегтярева | 2023 |
+| [Зачем компаниям DevRel и что это за люди](https://www.youtube.com/watch?v=wOpTaXTotjk) | Ксения Дегтярева | 2023 |
 | [Как вывести проект в опенсорс (Yet Another Mobile Party)](https://www.youtube.com/watch?v=serWcYQZ8Qg) | — | 2023 |
 | [Как мобильные разработчики занимаются инфраструктурой](https://www.youtube.com/watch?v=zglXLtcIZls) | Алексей Панченко | 2023 |
 | [Как формировать топовые команды (Yet Another Mobile Party)](https://www.youtube.com/watch?v=99Qg0GxFHko) | — | 2023 |
 | [Лента Мобиуса: open source, своя библиотека и развитие лидов](https://www.youtube.com/watch?v=lUDKyWWDvhU) | Максим Гришутин | 2023 |
 | [Лента Мобиуса: pet-проекты, обработка видео и когда менять компанию](https://www.youtube.com/watch?v=ZzNkusroIH4) | Александр Филимонов | 2023 |
+| [Лента Мобиуса: SwiftUI, виджеты и IoT](https://www.youtube.com/watch?v=glPTyoygi3o) | Евгений Антропов | 2023 |
 | [Лента Мобиуса: заказчики, платформы и технологии](https://www.youtube.com/watch?v=UGow5drkUvA) | Алексей Гладков | 2023 |
 | [Лента Мобиуса: обучение, тесты и шапочка тимлида](https://www.youtube.com/watch?v=bCtuRSXbyzU) | Андрей Зонов | 2023 |
 | [Лента Мобиуса: собеседования, архитектура и хобби](https://www.youtube.com/watch?v=LuW3zKwr0dk) | Юрий Дубовой | 2023 |
@@ -998,14 +1005,14 @@
 | [Разработка Авто.ру и роль руководителя в команде](https://www.youtube.com/watch?v=VVTO0ZhIg_Q) | Роман Бевза | 2023 |
 | [Разработка для нестандартных устройств (Yet Another Mobile Party)](https://www.youtube.com/watch?v=tKDefWWHy2g) | — | 2023 |
 | [Разработка под Аврору (Yet Another Mobile Party)](https://www.youtube.com/watch?v=nTjpWnh41wo) | — | 2023 |
-| [The Mobius Chronicles: куда движется декларативный UI?](https://www.youtube.com/watch?v=JEwo5PGp0KU) | — | 2022 |
 | [Круглый стол: внутренние комьюнити мобильных разработчиков](https://www.youtube.com/watch?v=eQaTvCfeBmw) | — | 2022 |
 | [Круглый стол: жизнь со SwiftUI](https://www.youtube.com/watch?v=MJ7z4kUyO4s) | — | 2022 |
+| [Хроники Мобиуса. Декларативный UI: куда мы катимся](https://www.youtube.com/watch?v=JEwo5PGp0KU) | — | 2022 |
 | [CocoaCast #3: нативная и кроссплатформенная мобильная разработка](https://www.youtube.com/watch?v=UrDrLoxjHB8) | — | 2021 |
 | [Social good](https://www.youtube.com/watch?v=t-7u-AH6cL8) | Александр Бильчук, Павел Наумов, Алексей Фёдоров | 2021 |
 | [Круглый стол – Архитектуры](https://www.youtube.com/watch?v=qNu_9RjfV6E) | — | 2021 |
+| [Круглый стол. Модуляризация 2021](https://www.youtube.com/watch?v=RWhjn0hKJNk) | Round Table | 2021 |
 | [Круглый стол: IDFA в iOS 14](https://www.youtube.com/watch?v=8mOyGNl1I0U) | — | 2021 |
-| [Круглый стол: Modularization 2021](https://www.youtube.com/watch?v=RWhjn0hKJNk) | Round Table | 2021 |
 | [Круглый стол: StoreKit 2](https://www.youtube.com/watch?v=wYI2TH-g1kM) | — | 2021 |
 | [Круглый стол: нужны ли нам код-ревью?](https://www.youtube.com/watch?v=L026LPx1iGw) | — | 2021 |
 | [Николай Иготти о Compose Multiplatform, связи Google и JetBrains и Compose for iOS](https://www.youtube.com/watch?v=giHTUAmyFWY) | Николай Иготти | 2021 |
@@ -1035,11 +1042,11 @@
 | :-- | :-- | :-: |
 | [Как мы делали суперапп «Дилер онлайн», и что из этого получилось](https://www.youtube.com/watch?v=s5HMzHBe2uY) | Олег Скирюк | 2025 |
 | [BDUInsurance: как мы строили маркетплейс кадровых сервисов](https://www.youtube.com/watch?v=PxU5r4OE91k) | Алексей Асафов | 2024 |
-| [The SBOL iOS Story](https://www.youtube.com/watch?v=8zXxcLRn5l8) | Владимир Озеров | 2023 |
+| [SBOL iOS Story](https://www.youtube.com/watch?v=8zXxcLRn5l8) | Владимир Озеров | 2023 |
 | [От мобильных приложений студентами к собственной мобильной платформе](https://www.youtube.com/watch?v=IHqkLulUAuw) | Никита Токарев | 2023 |
 | [Senim и опыт создания финтех-стартапов в Казахстане](https://www.youtube.com/watch?v=2PCZ6xNqUCM) | Даулет Ермеков | 2021 |
 | [История победы в Telegram Contest 2021](https://www.youtube.com/watch?v=fnNatiZZC1E) | Александр Зимин | 2021 |
-| [Как создавался суперапп Яндекса](https://www.youtube.com/watch?v=Px8NTTfqWxc) | Артур Василов, Илья Богин | 2021 |
+| [Как создавали «суперапп» Яндекса](https://www.youtube.com/watch?v=Px8NTTfqWxc) | Артур Василов, Илья Богин | 2021 |
 | [iOS-разработка в Kaspersky](https://www.youtube.com/watch?v=1tiVB7hejfU) | Артём Гладков | 2020 |
 | [Безвыходное приложение, или как писать программы для киосков](https://www.youtube.com/watch?v=Lz-TEsmQx2I) | Олег Годовых | 2020 |
 | [Пишем приложение для вибратора с Алиэкспресс](https://www.youtube.com/watch?v=xgPuEv9sfmc) | Даниил Гончаров | 2020 |
@@ -1056,7 +1063,7 @@
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
-| [T-Shaped мобильный разработчик](https://www.youtube.com/watch?v=U2VMYfYrEuc) | Roundtable Discussion | 2026 |
+| [T-Shape мобильный разработчик](https://www.youtube.com/watch?v=U2VMYfYrEuc) | Roundtable Discussion | 2026 |
 | [Зачем и как вам контрибьютить в open source](https://www.youtube.com/watch?v=6OarZd8J6gg) | Даниил Липаткин | 2026 |
 | [Путь инди-хакера](https://www.youtube.com/watch?v=W0WDdR1qCRg) | Александр Гращенков | 2026 |
 | [Soft Skill Talks: модель зрелости разработчика](https://www.youtube.com/watch?v=jZ-wNlnCUIo) | — | 2025 |
@@ -1087,9 +1094,9 @@
 
 | Тема | Интервьюер | Год |
 | :-- | :-- | :-: |
-| [Как выглядит интервью в мобильную платформу iOS](https://www.youtube.com/watch?v=tz5VPUvCO9U) | — | 2025 |
+| [Как проходит интервью Mobile Platform iOS](https://www.youtube.com/watch?v=tz5VPUvCO9U) | — | 2025 |
 | [Как проходит интервью Mobile System Design & PM](https://www.youtube.com/watch?v=ik6XJOdUz7Y) | — | 2025 |
-| [Как устроена секция Code Mobile](https://www.youtube.com/watch?v=MBQxYB1jC-I) | — | 2025 |
+| [Как проходит секция Code Mobile](https://www.youtube.com/watch?v=MBQxYB1jC-I) | — | 2025 |
 | [Как проходит архитектурная секция в команду мобильной разработки Яндекс 360](https://www.youtube.com/watch?v=KZN654huFeQ) | — | 2024 |
 | [Реальное iOS-собеседование в Яндекс](https://www.youtube.com/watch?v=TUXPMOdqqUc) | — | 2023 |
 | [Собеседование iOS разработчика. Вопросы Джуниору: Основы Swift, UIKit, Архитектура](https://www.youtube.com/watch?v=NN6IcGm_GbE) | В’ячеслав Білий | 2023 |
@@ -1101,7 +1108,7 @@
 
 | Тема | Автор | Год |
 | :-- | :-- | :-: |
-| [Введение в платформу iOS](https://www.youtube.com/watch?v=wZk412BHGT4) | — | 2023 |
+| [iOS - Вводная про платформу](https://www.youtube.com/watch?v=wZk412BHGT4) | — | 2023 |
 | [CocoaHeads Moscow 27.02.15](https://www.youtube.com/watch?v=Hs28R1ZmkfY) | Влад Ковташ, Александр Зимин | 2015 |
 | [CocoaHeads Moscow 30.01.15](https://www.youtube.com/watch?v=4NaLDeXHwkE) | Михаил Московченкр, Александр Зимин, Александр Золатырев | 2015 |
 | [CocoaHeads Moscow 05.11.14](https://www.youtube.com/watch?v=nJiPM9OeCAU) | Александр Чёрный, Александр Зимин | 2014 |
@@ -1113,13 +1120,13 @@
 | :-: | :-: |
 | 2026 | 30 |
 | 2025 | 59 |
-| 2024 | 85 |
-| 2023 | 100 |
+| 2024 | 86 |
+| 2023 | 101 |
 | 2022 | 41 |
 | 2021 | 63 |
-| 2020 | 97 |
+| 2020 | 99 |
 | 2019 | 50 |
-| 2018 | 72 |
+| 2018 | 73 |
 | 2017 | 68 |
 | 2016 | 34 |
 | 2015 | 45 |
@@ -1136,8 +1143,8 @@
 | Канал | Видео в пуле | В подборке |
 | :-- | :-: | :-: |
 | [CocoaHeads](https://www.youtube.com/channel/UCPZtkJkHv_3pPC0veurLQ6Q) | 235 | 186 |
-| [Mobile Channel (AppsConf)](https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g) | 236 | 68 |
-| [Mobius](https://www.youtube.com/channel/UCG70q1HRspLdd93HW94WS-A) | 779 | 298 |
+| [Mobile Channel (AppsConf)](https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g) | 236 | 71 |
+| [Mobius](https://www.youtube.com/channel/UCG70q1HRspLdd93HW94WS-A) | 779 | 300 |
 | [Yandex for Mobile](https://www.youtube.com/channel/UCkwbP2Mg1Hnlu66D6x-UxXg) | 129 | 55 |
 | [Young&&Yandex: мобильная разработка](https://www.youtube.com/channel/UC-355nTVRMSYdPI8HpoRUrA) | 56 | 19 |
 | [Podlodka](https://www.youtube.com/channel/UCOei1E1Vqq10S913OEqTWGw) | 587 | 10 |

@@ -1223,5 +1223,22 @@
     "duration": 1658,
     "source": "youtube",
     "curated": false
+  },
+  {
+    "video_id": "z1uTOrDqRfU",
+    "url": "https://www.youtube.com/watch?v=z1uTOrDqRfU",
+    "title": "Собеседование мобильных разработчиков. Обе стороны баррикады",
+    "speakers": [
+      "Александр Чёрный"
+    ],
+    "year": 2018,
+    "categories": [
+      "hiring"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel",
+    "duration": 3002,
+    "source": "youtube",
+    "curated": false
   }
 ]

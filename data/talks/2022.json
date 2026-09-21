@@ -22,7 +22,7 @@
   {
     "video_id": "1jFm7upknIg",
     "url": "https://www.youtube.com/watch?v=1jFm7upknIg",
-    "title": "SwiftUI на Flutter",
+    "title": "SUI на Flutter",
     "speakers": [
       "Геннадий Евстратов"
     ],
@@ -39,7 +39,7 @@
   {
     "video_id": "2vLJAmrYmj4",
     "url": "https://www.youtube.com/watch?v=2vLJAmrYmj4",
-    "title": "Antiphishing/Antimalware на трафике iOS с помощью Network Extension",
+    "title": "Antiphishing / Antimalware на трафике в iOS с применением Network Extension",
     "speakers": [
       "Денис Кудинов"
     ],
@@ -157,7 +157,7 @@
   {
     "video_id": "CQt1xBOGSHQ",
     "url": "https://www.youtube.com/watch?v=CQt1xBOGSHQ",
-    "title": "Профилирование Flutter-приложений: невоспетые герои",
+    "title": "Профилирование приложений Flutter. Незаслуженно забытые герои",
     "speakers": [
       "Андрей Смирнов"
     ],
@@ -245,7 +245,7 @@
   {
     "video_id": "HgTzwCKweII",
     "url": "https://www.youtube.com/watch?v=HgTzwCKweII",
-    "title": "За пределами App Store: возможности разработки в корпоративном секторе",
+    "title": "За гранью App Store: возможности для разработки в бизнес-сегменте",
     "speakers": [
       "Денис Кудинов"
     ],
@@ -262,7 +262,7 @@
   {
     "video_id": "JEwo5PGp0KU",
     "url": "https://www.youtube.com/watch?v=JEwo5PGp0KU",
-    "title": "The Mobius Chronicles: куда движется декларативный UI?",
+    "title": "Хроники Мобиуса. Декларативный UI: куда мы катимся",
     "year": 2022,
     "categories": [
       "roundtable",

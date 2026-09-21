@@ -1,5 +1,22 @@
 [
   {
+    "video_id": "-4JqEROeI7U",
+    "url": "https://www.youtube.com/watch?v=-4JqEROeI7U",
+    "title": "Download Manager: не изобретайте колесо",
+    "speakers": [
+      "Виктор Лапин"
+    ],
+    "year": 2020,
+    "categories": [
+      "networking"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel",
+    "duration": 3026,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "-JBBlB0uTsU",
     "url": "https://www.youtube.com/watch?v=-JBBlB0uTsU",
     "title": "Блеск и нищета key-value-базы данных LMDB в мобильной разработке",
@@ -34,7 +51,7 @@
   {
     "video_id": "0-unqIBCimU",
     "url": "https://www.youtube.com/watch?v=0-unqIBCimU",
-    "title": "Lost in Translation",
+    "title": "Трудности перевода",
     "speakers": [
       "Илья Лунькин"
     ],
@@ -347,9 +364,9 @@
   {
     "video_id": "A7cjJJ70bvg",
     "url": "https://www.youtube.com/watch?v=A7cjJJ70bvg",
-    "title": "gRPC в iOS-приложениях. REST in peace?",
+    "title": "gRPC в iOS приложениях. REST in peace?",
     "speakers": [
-      "Святослав Карасев"
+      "Светослав Карасев"
     ],
     "year": 2020,
     "categories": [
@@ -1316,6 +1333,24 @@
     "channel_slug": "appsconf",
     "channel_title": "Mobile Channel (AppsConf)",
     "duration": 3271,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "kJyg4CIspAE",
+    "url": "https://www.youtube.com/watch?v=kJyg4CIspAE",
+    "title": "SwiftUI и навигация. Как не заблудиться в приложении",
+    "speakers": [
+      "Анна Жаркова"
+    ],
+    "year": 2020,
+    "categories": [
+      "swiftui",
+      "architecture"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel",
+    "duration": 2492,
     "source": "youtube",
     "curated": false
   },

@@ -125,7 +125,7 @@
   {
     "video_id": "KHFR3balPw8",
     "url": "https://www.youtube.com/watch?v=KHFR3balPw8",
-    "title": "Online Caller ID: секреты реализации Live Caller ID для iOS",
+    "title": "Онлайн-определитель номеров: секреты реализации Live Caller ID для iOS",
     "speakers": [
       "Глеб Фандеев"
     ],
@@ -142,7 +142,7 @@
   {
     "video_id": "KhHJC9XPS9g",
     "url": "https://www.youtube.com/watch?v=KhHJC9XPS9g",
-    "title": "Тёмная сторона AI в мобильной разработке",
+    "title": "Обратная сторона AI в мобильной разработке",
     "speakers": [
       "Roundtable Discussion"
     ],
@@ -160,7 +160,7 @@
   {
     "video_id": "L9A4RdACzxc",
     "url": "https://www.youtube.com/watch?v=L9A4RdACzxc",
-    "title": "SwiftSyntax: пишем свой DI-фреймворк",
+    "title": "SwiftSyntax: пишем свой DI framework",
     "speakers": [
       "Никита Никонов"
     ],
@@ -246,7 +246,7 @@
   {
     "video_id": "Twtw0b4XaHI",
     "url": "https://www.youtube.com/watch?v=Twtw0b4XaHI",
-    "title": "Лента Мобиуса: качество, архитектура и ответственность в эпоху ИИ",
+    "title": "Лента Мобиуса: качество, архитектура и ответственность в эпоху ИИ-ассистентов",
     "speakers": [
       "Екатерина Батеева"
     ],
@@ -263,7 +263,7 @@
   {
     "video_id": "U2VMYfYrEuc",
     "url": "https://www.youtube.com/watch?v=U2VMYfYrEuc",
-    "title": "T-Shaped мобильный разработчик",
+    "title": "T-Shape мобильный разработчик",
     "speakers": [
       "Roundtable Discussion"
     ],
@@ -312,7 +312,7 @@
   {
     "video_id": "X5OhR8b4o9I",
     "url": "https://www.youtube.com/watch?v=X5OhR8b4o9I",
-    "title": "Архитектура, производительность, отладка: как мы строили медиафид",
+    "title": "Архитектура, перформанс, дебаг: как мы делали медиаленту",
     "speakers": [
       "Лев Бондаренко"
     ],
@@ -330,7 +330,7 @@
   {
     "video_id": "ZOcK0G_oHtY",
     "url": "https://www.youtube.com/watch?v=ZOcK0G_oHtY",
-    "title": "Интеграция AI в инженерные команды",
+    "title": "Внедрение AI в инженерные команды",
     "speakers": [
       "Артур Василов"
     ],
@@ -348,7 +348,7 @@
   {
     "video_id": "csuJfbYrG4s",
     "url": "https://www.youtube.com/watch?v=csuJfbYrG4s",
-    "title": "N приёмов, которые улучшат производительность видеоленты",
+    "title": "N техник, которые улучшат работу видеоленты",
     "speakers": [
       "Рамиль Габдрахманов"
     ],
@@ -397,7 +397,7 @@
   {
     "video_id": "jRiV_tOx3iQ",
     "url": "https://www.youtube.com/watch?v=jRiV_tOx3iQ",
-    "title": "Когда структуры в Swift тебе не бро",
+    "title": "Когда структуры в Swift — не твои бро",
     "speakers": [
       "Сергей Черепанов"
     ],
@@ -414,7 +414,7 @@
   {
     "video_id": "lgW6tqL1bnk",
     "url": "https://www.youtube.com/watch?v=lgW6tqL1bnk",
-    "title": "Design-Code: на пути к экосистеме",
+    "title": "Дизайн—код. На пути к экосистеме",
     "speakers": [
       "Дмитрий Строков",
       "Александр Шовтюк"
@@ -432,7 +432,7 @@
   {
     "video_id": "n3n7f_i3d_A",
     "url": "https://www.youtube.com/watch?v=n3n7f_i3d_A",
-    "title": "Wave Architecture на практике",
+    "title": "Волновая архитектура на практике",
     "speakers": [
       "Юрий Дубовой"
     ],
@@ -451,7 +451,7 @@
     "url": "https://www.youtube.com/watch?v=oxkUtw65V4E",
     "title": "Заказываем кофе с помощью AI",
     "speakers": [
-      "Максим Кочинкин"
+      "Максим Качинкин"
     ],
     "year": 2026,
     "categories": [

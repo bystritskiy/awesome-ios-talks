@@ -285,7 +285,7 @@
   {
     "video_id": "HfzSzFC4ISo",
     "url": "https://www.youtube.com/watch?v=HfzSzFC4ISo",
-    "title": "Как iOS-разработчику выжить в KMP-проекте?",
+    "title": "Как iOS-разработчику выжить на проекте с KMP?",
     "speakers": [
       "Сергей Стельмах"
     ],
@@ -403,7 +403,7 @@
   {
     "video_id": "LgS1P-37ehI",
     "url": "https://www.youtube.com/watch?v=LgS1P-37ehI",
-    "title": "Как собеседовать мобильных инженеров? System design спешит на помощь",
+    "title": "Как собеседовать мобильных инженеров? Системный дизайн спешит на помощь!",
     "speakers": [
       "Вячеслав Таранников"
     ],
@@ -486,7 +486,7 @@
   {
     "video_id": "P5waRq2BEro",
     "url": "https://www.youtube.com/watch?v=P5waRq2BEro",
-    "title": "Mobile Farm: тестируем мобильные приложения без телефона и эмулятора",
+    "title": "Мобильная ферма? Тесты мобильных приложений без телефона и эмулятора",
     "speakers": [
       "Александр Кабанец"
     ],
@@ -605,7 +605,7 @@
   {
     "video_id": "UuEb0zcbShw",
     "url": "https://www.youtube.com/watch?v=UuEb0zcbShw",
-    "title": "Совмещаем Combine и Swift Concurrency",
+    "title": "Объединяем Combine и Swift Concurrency",
     "speakers": [
       "Александр Даровских"
     ],
@@ -658,9 +658,9 @@
   {
     "video_id": "XBVKyHWMeiU",
     "url": "https://www.youtube.com/watch?v=XBVKyHWMeiU",
-    "title": "DriverKit: передаём данные по проводу без мам, пап и MFi",
+    "title": "DriverKit: гоняем данные по проводу без мам, пап и MFi",
     "speakers": [
-      "Святослав Карасев"
+      "Светослав Карасев"
     ],
     "year": 2024,
     "categories": [
@@ -675,7 +675,7 @@
   {
     "video_id": "YBANcPjumxE",
     "url": "https://www.youtube.com/watch?v=YBANcPjumxE",
-    "title": "Яндекс Плюс, платёжный процессинг и особенности разработки SDK",
+    "title": "Плюс, работа с платежами и особенности разработки SDK",
     "speakers": [
       "Татьяна Чиглинцева"
     ],
@@ -711,7 +711,7 @@
   {
     "video_id": "Z3ZCCCBskfc",
     "url": "https://www.youtube.com/watch?v=Z3ZCCCBskfc",
-    "title": "«Ленивый счёт», или как мы оптимизировали запуск приложения",
+    "title": "«Ленивый граф», или Как мы оптимизировали старт приложения",
     "speakers": [
       "Александр Таганов"
     ],
@@ -780,7 +780,7 @@
   {
     "video_id": "d6WJlJY-I-o",
     "url": "https://www.youtube.com/watch?v=d6WJlJY-I-o",
-    "title": "Swift Macros: проще, чище, быстрее",
+    "title": "Макросы Swift: проще, чище, быстрее",
     "speakers": [
       "Анна Жаркова"
     ],
@@ -950,6 +950,23 @@
     "curated": false
   },
   {
+    "video_id": "kBv0r1HUCFM",
+    "url": "https://www.youtube.com/watch?v=kBv0r1HUCFM",
+    "title": "А так ли нужны акторы в Swift Concurrency?",
+    "speakers": [
+      "Василий Усов"
+    ],
+    "year": 2024,
+    "categories": [
+      "concurrency"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2815,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "lU7EZ2K_4ho",
     "url": "https://www.youtube.com/watch?v=lU7EZ2K_4ho",
     "title": "Локализация iOS-приложения за 1$ в 2024 году",
@@ -1071,7 +1088,7 @@
   {
     "video_id": "ppm--5VtGfI",
     "url": "https://www.youtube.com/watch?v=ppm--5VtGfI",
-    "title": "Рецепт кроссплатформенного мобильного видеоредактора",
+    "title": "Рецепт приготовления кроссплатформенного мобильного видеоредактора",
     "speakers": [
       "Дмитрий Кузнецов"
     ],
@@ -1228,7 +1245,7 @@
   {
     "video_id": "tiAC1SS_wfw",
     "url": "https://www.youtube.com/watch?v=tiAC1SS_wfw",
-    "title": "Как Compose Multiplatform для iOS может убить Flutter?",
+    "title": "Как Compose Multiplatform for iOS может убить Flutter?",
     "speakers": [
       "Валентин Телегин"
     ],
@@ -1384,7 +1401,7 @@
   {
     "video_id": "yucxRTX4BZ4",
     "url": "https://www.youtube.com/watch?v=yucxRTX4BZ4",
-    "title": "SwiftUI Navigation",
+    "title": "Навигация в SwiftUI",
     "speakers": [
       "Дмитрий Куркин"
     ],

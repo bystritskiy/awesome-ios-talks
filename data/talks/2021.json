@@ -89,7 +89,7 @@
   {
     "video_id": "8c4q3hUcOb8",
     "url": "https://www.youtube.com/watch?v=8c4q3hUcOb8",
-    "title": "iOS background modes: реализация и лучшие практики",
+    "title": "iOS background modes. Применяем и укрощаем на практике",
     "speakers": [
       "Анна Жаркова"
     ],
@@ -326,7 +326,7 @@
   {
     "video_id": "Js-fjSMOi2g",
     "url": "https://www.youtube.com/watch?v=Js-fjSMOi2g",
-    "title": "Как переписать сетевой слой, чтобы не переписывать его снова",
+    "title": "Как переписать сетевой слой так, чтобы не пришлось переписывать его снова",
     "speakers": [
       "Александр Аносов"
     ],
@@ -424,7 +424,7 @@
   {
     "video_id": "Px8NTTfqWxc",
     "url": "https://www.youtube.com/watch?v=Px8NTTfqWxc",
-    "title": "Как создавался суперапп Яндекса",
+    "title": "Как создавали «суперапп» Яндекса",
     "speakers": [
       "Артур Василов",
       "Илья Богин"
@@ -457,7 +457,7 @@
   {
     "video_id": "RWhjn0hKJNk",
     "url": "https://www.youtube.com/watch?v=RWhjn0hKJNk",
-    "title": "Круглый стол: Modularization 2021",
+    "title": "Круглый стол. Модуляризация 2021",
     "speakers": [
       "Round Table"
     ],
@@ -767,7 +767,7 @@
   {
     "video_id": "gsHU6QlsAy0",
     "url": "https://www.youtube.com/watch?v=gsHU6QlsAy0",
-    "title": "Разочаровывающие паттерны мобильной разработки и как их улучшить",
+    "title": "Разочаровавшие паттерны мобильной разработки в 2021 году — как сделать их лучше",
     "speakers": [
       "Виталий Фридман"
     ],
@@ -886,7 +886,7 @@
   {
     "video_id": "m5H1KGsdqtw",
     "url": "https://www.youtube.com/watch?v=m5H1KGsdqtw",
-    "title": "Kotlin Multiplatform в мобильных Яндекс Картах глазами iOS-разработчика",
+    "title": "Kotlin multiplatform в мобильных Яндекс.Картах с позиции iOS-разработчика",
     "speakers": [
       "Михаил Куренков"
     ],
@@ -1051,7 +1051,7 @@
   {
     "video_id": "y0CHhHBzEkw",
     "url": "https://www.youtube.com/watch?v=y0CHhHBzEkw",
-    "title": "Вы выбрали UDF-архитектуру. Как моделировать состояние?",
+    "title": "Итак, вы выбрали UDF-архитектуру. Как моделировать стейт?",
     "speakers": [
       "Михаил Левченко"
     ],

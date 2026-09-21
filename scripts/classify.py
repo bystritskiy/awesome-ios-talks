@@ -20,6 +20,7 @@ status:
 import argparse
 import re
 import sys
+import unicodedata
 
 sys.path.insert(0, __file__.rsplit("/", 1)[0])
 import lib
@@ -50,24 +51,90 @@ TALK_HINTS = ["доклад", "митап", "meetup", "конференц", "coc
               "воркшоп", "workshop", "круглый стол", "devtalks", "секция"]
 
 # --- вытаскивание спикера из названия --------------------------------------
+# Названия бывают вида «Тема / Имя Фамилия (Компания)», «Тема | Имя Фамилия, Компания»,
+# «Имя Фамилия (Компания) — Тема», «Тема — Имя Фамилия и Имя Фамилия».
 NAME = r"[А-ЯЁA-Z][а-яёa-z'`-]+"
-SPEAKER_PATTERNS = [
-    re.compile(rf"^\s*(?P<sp>{NAME}\s+{NAME}(?:\s*[,и]\s*{NAME}\s+{NAME})*)\s*[–—\-−:|.]\s+(?P<t>.{{6,}})$"),
-    re.compile(rf"^(?P<t>.{{6,}}?)\s*[/|]\s*(?P<sp>{NAME}\s+{NAME})\s*$"),
-    re.compile(rf"^(?P<t>.{{6,}}?)\s*[–—\-−]\s*(?P<sp>{NAME}\s+{NAME})\s*$"),
-]
+PERSON = re.compile(rf"^{NAME}(?:\s+{NAME}){{1,2}}$")
+SEPARATORS = (" // ", " / ", " | ", " — ", " – ", " - ", " − ")
+# слова, по которым «Яндекс Маркет» или «Tech Lamoda» отличаются от имени человека
+ORG_WORDS = {
+    "яндекс", "yandex", "маркет", "авито", "avito", "тинькофф", "tinkoff", "сбер", "сбербанк",
+    "альфа", "банк", "bank", "tech", "mail", "vk", "ozon", "лаборатория", "касперского",
+    "kaspersky", "group", "labs", "lab", "team", "еда", "карты", "такси", "музыка", "плюс",
+    "superapp", "мтс", "циан", "wildberries", "lamoda", "surf", "redmadrobot", "badoo",
+    "rambler", "digital", "studio", "мобайл", "mobile", "онлайн", "online", "доставка",
+    "браузер", "аренда", "вертикали", "дзен", "маркета", "go", "про", "pro", "ltd", "inc",
+    "gmbh", "llc", "cocoaheads", "mobius", "appsconf", "podlodka", "meetup", "митап",
+}
 NOISE_PREFIX = re.compile(
-    r"^\s*(?:\[[^\]]*\]|\([^)]*\)|#\S+|CocoaHeads[^|:–—-]*|Mobius[^|:–—-]*|AppsConf[^|:–—-]*)\s*[|:–—-]?\s*",
-    re.I)
+    r"^\s*(?:\[[^\]]*\]|#\S+|(?:CocoaHeads|Mobius|AppsConf|MBLT\w*)[^|:–—/-]*)\s*[|:–—-]?\s*", re.I)
+# хвосты и префиксы рубрик: «… / Круглый стол», «Лента Мобиуса // …», «Mobile Interview. …»
+RUBRICS = re.compile(
+    r"^(?:Лента Мобиуса|Mobius (?:Ribbon|Strip)|Yet Another Mobile Party|Mobile Interview)\s*(?://|/|\.|:)\s*"
+    r"|\s*/\s*(?:Круглый стол|Яндекс Стримерская на Mobius)\s*$", re.I)
+SPEAKER_SPLIT = re.compile(r"\s*(?:,|&|\bи\b|\band\b)\s*")
+
+
+def is_person(part):
+    words = part.split()
+    if not PERSON.match(part) or any(w.lower() in ORG_WORDS for w in words):
+        return False
+    # имя пишется одним алфавитом: «Боевой Reverse Engineering» — не человек
+    cyr = [bool(re.search("[а-яё]", w.lower())) for w in words]
+    return all(cyr) or not any(cyr)
+
+
+def parse_speakers(block):
+    """«Иван Петров (Яндекс), Анна Смирнова» → [Иван Петров, Анна Смирнова]; не люди → None."""
+    block = re.sub(r"\([^)]*\)", " ", block).strip(" .,")
+    parts = re.split(r"(\s*(?:,|&|\bи\b|\band\b)\s*)", block)
+    people = []
+    for i in range(0, len(parts), 2):
+        part = re.sub(r"\s+", " ", parts[i]).strip(" .")
+        if not part:
+            continue
+        if is_person(part):
+            people.append(part)
+        elif people and parts[i - 1].strip() == "," and len(part.split()) <= 4:
+            break          # хвост «, Компания» после имён
+        else:
+            return None
+    return people or None
+
+
+def cyrillic_share(people):
+    return sum(bool(re.search("[а-яё]", p.lower())) for p in people) / len(people)
 
 
 def split_speaker(title):
-    t = NOISE_PREFIX.sub("", title).strip()
-    for pat in SPEAKER_PATTERNS:
-        m = pat.match(t)
-        if m:
-            speakers = [s.strip() for s in re.split(r"[,и]\s+(?=[А-ЯЁA-Z])", m.group("sp")) if s.strip()]
-            return m.group("t").strip(" .–—-"), speakers
+    t = unicodedata.normalize("NFKC", title)        # в том числе неразрывные пробелы
+    t = re.sub(r"\s+", " ", t).strip()
+    t = NOISE_PREFIX.sub("", t).strip()
+    t = RUBRICS.sub("", t).strip()
+    options = []   # (приоритет, название, спикеры)
+    for sep in SEPARATORS:
+        if sep not in t:
+            continue
+        pos = t.rfind(sep)
+        people = parse_speakers(t[pos + len(sep):])
+        if people and pos >= 6:
+            options.append((cyrillic_share(people), 1, t[:pos], people))
+        pos = t.find(sep)
+        people = parse_speakers(t[:pos])
+        if people and len(t) - pos > 6:
+            options.append((cyrillic_share(people), 0, t[pos + len(sep):], people))
+    if options:
+        # при двусмысленности («Swift Method Dispatch — Сергей Турсунов») побеждают кириллические имена,
+        # затем спикер в конце названия
+        _, _, rest, people = max(options, key=lambda o: (o[0], o[1]))
+        return rest.strip(" .–—-|/"), people
+    m = re.match(rf"^({NAME}\s+{NAME})\s*:\s+(.{{6,}})$", t)
+    if m and parse_speakers(m.group(1)):
+        return m.group(2).strip(), parse_speakers(m.group(1))
+    for m in reversed(list(re.finditer(r"\.\s+", t))):
+        people = parse_speakers(t[m.end():])
+        if people and m.start() >= 6:
+            return t[:m.start()].strip(), people
     return t, []
 
 
@@ -104,6 +171,9 @@ def judge(row, focus, cats):
 
     if junk:
         return "rejected", score, f"служебное видео: {junk[0]}"
+    lang = row.get("audio_lang")
+    if lang and lang not in ("ru", "unknown"):
+        return "rejected", score, f"доклад не на русском ({lang})"
     if dur and dur < 480:
         return "rejected", score, f"слишком короткое ({dur // 60} мин)"
     if android and not ios:

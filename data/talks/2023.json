@@ -33,7 +33,7 @@
   {
     "video_id": "0ojTZtTDA9c",
     "url": "https://www.youtube.com/watch?v=0ojTZtTDA9c",
-    "title": "Музыка в iOS-приложениях: подводные камни разработки",
+    "title": "Музыка в iOS приложениях: подводные камни при разработке",
     "speakers": [
       "Екатерина Батеева"
     ],
@@ -237,7 +237,7 @@
   {
     "video_id": "8zXxcLRn5l8",
     "url": "https://www.youtube.com/watch?v=8zXxcLRn5l8",
-    "title": "The SBOL iOS Story",
+    "title": "SBOL iOS Story",
     "speakers": [
       "Владимир Озеров"
     ],
@@ -510,7 +510,7 @@
   {
     "video_id": "GA1NY-RKkhs",
     "url": "https://www.youtube.com/watch?v=GA1NY-RKkhs",
-    "title": "Архитектура iOS-приложения",
+    "title": "iOS Архитектура",
     "year": 2023,
     "categories": [
       "architecture"
@@ -604,7 +604,7 @@
   {
     "video_id": "Jk2wSnAX8tI",
     "url": "https://www.youtube.com/watch?v=Jk2wSnAX8tI",
-    "title": "SwiftData: новый persistence framework от Apple",
+    "title": "SwiftData. Новый persistence framework от Apple",
     "speakers": [
       "Алексей Лобанков"
     ],
@@ -638,7 +638,7 @@
   {
     "video_id": "LLVvVcJ4uJA",
     "url": "https://www.youtube.com/watch?v=LLVvVcJ4uJA",
-    "title": "Что Flutter-разработчику нужно знать про iOS и Android",
+    "title": "Что нужно знать Flutter разработчику про iOS и Android",
     "speakers": [
       "Егор Федяев",
       "Владимир Сорокин"
@@ -721,7 +721,7 @@
   {
     "video_id": "Ohohf_ts1kg",
     "url": "https://www.youtube.com/watch?v=Ohohf_ts1kg",
-    "title": "Как и зачем разбивать iOS-приложение на микрофичи",
+    "title": "Как и зачем дробить iOS-приложение на микрофичи",
     "speakers": [
       "Илья Харламов"
     ],
@@ -755,7 +755,7 @@
   {
     "video_id": "QHWU-ADZVAo",
     "url": "https://www.youtube.com/watch?v=QHWU-ADZVAo",
-    "title": "Sorry, Rosetta, we need to break up",
+    "title": "Прости, Rosetta, мы должны расстаться",
     "speakers": [
       "Антон Грачев"
     ],
@@ -870,7 +870,7 @@
   {
     "video_id": "VyDF6Eo-5Fs",
     "url": "https://www.youtube.com/watch?v=VyDF6Eo-5Fs",
-    "title": "Что нового в интерфейсе ОС «Аврора» 5: контролы и паттерны взаимодействия",
+    "title": "Что нового в интерфейсе ОС Аврора 5: управление и паттерны взаимодействия",
     "speakers": [
       "Алексей Корюкин"
     ],
@@ -990,7 +990,7 @@
   {
     "video_id": "c5z50IkRxFI",
     "url": "https://www.youtube.com/watch?v=c5z50IkRxFI",
-    "title": "Debugging, profiling, crashes",
+    "title": "Отладка. Профилирование. Креши",
     "speakers": [
       "Михаил Куренков"
     ],
@@ -1007,7 +1007,7 @@
   {
     "video_id": "dF4E-lD0K0M",
     "url": "https://www.youtube.com/watch?v=dF4E-lD0K0M",
-    "title": "Roasting Tuist",
+    "title": "Прожарка Tuist",
     "speakers": [
       "Александр Евтухов"
     ],
@@ -1024,7 +1024,7 @@
   {
     "video_id": "e3yLHVMIfaU",
     "url": "https://www.youtube.com/watch?v=e3yLHVMIfaU",
-    "title": "Tracer — альтернатива Crashlytics: другой подход к аналитике ошибок",
+    "title": "Tracer — альтернатива Crashlytics. Другой взгляд на аналитику ошибок в приложениях",
     "speakers": [
       "Кирилл Попов"
     ],
@@ -1086,6 +1086,24 @@
     "channel_slug": "heisenbug",
     "channel_title": "Heisenbug — конференция по тестированию",
     "duration": 2702,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "glPTyoygi3o",
+    "url": "https://www.youtube.com/watch?v=glPTyoygi3o",
+    "title": "Лента Мобиуса: SwiftUI, виджеты и IoT",
+    "speakers": [
+      "Евгений Антропов"
+    ],
+    "year": 2023,
+    "categories": [
+      "roundtable",
+      "swiftui"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3010,
     "source": "youtube",
     "curated": false
   },
@@ -1529,7 +1547,7 @@
   {
     "video_id": "wOpTaXTotjk",
     "url": "https://www.youtube.com/watch?v=wOpTaXTotjk",
-    "title": "Зачем компаниям DevRel и кто это такие",
+    "title": "Зачем компаниям DevRel и что это за люди",
     "speakers": [
       "Ксения Дегтярева"
     ],
@@ -1547,7 +1565,7 @@
   {
     "video_id": "wZk412BHGT4",
     "url": "https://www.youtube.com/watch?v=wZk412BHGT4",
-    "title": "Введение в платформу iOS",
+    "title": "iOS - Вводная про платформу",
     "year": 2023,
     "categories": [
       "uncategorized"
@@ -1609,7 +1627,7 @@
   {
     "video_id": "yvBG333wFmI",
     "url": "https://www.youtube.com/watch?v=yvBG333wFmI",
-    "title": "Distributed Actors and Where They Live",
+    "title": "Distributed actors и где они обитают",
     "speakers": [
       "Евгений Антропов"
     ],
