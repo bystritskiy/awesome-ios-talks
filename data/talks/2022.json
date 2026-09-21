@@ -90,6 +90,23 @@
     "curated": false
   },
   {
+    "video_id": "5ao6Eoatr90",
+    "url": "https://www.youtube.com/watch?v=5ao6Eoatr90",
+    "title": "SwiftUI — внедрение в аутсорс-разработку",
+    "speakers": [
+      "Владислав Климов"
+    ],
+    "year": 2022,
+    "categories": [
+      "swiftui"
+    ],
+    "channel_slug": "koshelek",
+    "channel_title": "Koshelek Team",
+    "duration": 1951,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "6_dOlnPwS0k",
     "url": "https://www.youtube.com/watch?v=6_dOlnPwS0k",
     "title": "Доступность — вершина технологий",
@@ -342,6 +359,20 @@
     "curated": false
   },
   {
+    "video_id": "PrXCqfZIigg",
+    "url": "https://www.youtube.com/watch?v=PrXCqfZIigg",
+    "title": "SwiftUI live coding: продолжение",
+    "year": 2022,
+    "categories": [
+      "swiftui"
+    ],
+    "channel_slug": "surf",
+    "channel_title": "Surf Tech",
+    "duration": 5499,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "TxPMEO0Ev6c",
     "url": "https://www.youtube.com/watch?v=TxPMEO0Ev6c",
     "title": "Блюр в iOS",
@@ -529,6 +560,40 @@
     "curated": false
   },
   {
+    "video_id": "g0R0dbxRMxY",
+    "url": "https://www.youtube.com/watch?v=g0R0dbxRMxY",
+    "title": "Дружим Swift Concurrency с имеющейся кодовой базой",
+    "speakers": [
+      "Тимур Хамидов"
+    ],
+    "year": 2022,
+    "categories": [
+      "concurrency"
+    ],
+    "channel_slug": "koshelek",
+    "channel_title": "Koshelek Team",
+    "duration": 2054,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "h3ESouYjvj8",
+    "url": "https://www.youtube.com/watch?v=h3ESouYjvj8",
+    "title": "WWDC и новые возможности iOS 16: live coding",
+    "speakers": [
+      "Live Coding"
+    ],
+    "year": 2022,
+    "categories": [
+      "wwdc"
+    ],
+    "channel_slug": "surf",
+    "channel_title": "Surf Tech",
+    "duration": 4754,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "i-G8X7lW8dk",
     "url": "https://www.youtube.com/watch?v=i-G8X7lW8dk",
     "title": "Делаем удобное взаимодействие с Kotlin из Swift",
@@ -560,6 +625,24 @@
     "channel_slug": "cocoaheads",
     "channel_title": "CocoaHeads",
     "duration": 1865,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "oo_rPJqmXeM",
+    "url": "https://www.youtube.com/watch?v=oo_rPJqmXeM",
+    "title": "Что может iOS-симулятор",
+    "speakers": [
+      "Антон Смолянин"
+    ],
+    "year": 2022,
+    "categories": [
+      "tests",
+      "lowlevel"
+    ],
+    "channel_slug": "heisenbug",
+    "channel_title": "Heisenbug — конференция по тестированию",
+    "duration": 2318,
     "source": "youtube",
     "curated": false
   },

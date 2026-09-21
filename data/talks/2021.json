@@ -1,5 +1,22 @@
 [
   {
+    "video_id": "2PCZ6xNqUCM",
+    "url": "https://www.youtube.com/watch?v=2PCZ6xNqUCM",
+    "title": "Senim и опыт создания финтех-стартапов в Казахстане",
+    "speakers": [
+      "Даулет Ермеков"
+    ],
+    "year": 2021,
+    "categories": [
+      "stories"
+    ],
+    "channel_slug": "cocoaheads-kz",
+    "channel_title": "CocoaHeads Kazakhstan",
+    "duration": 2286,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "2Q0v-qEV7z4",
     "url": "https://www.youtube.com/watch?v=2Q0v-qEV7z4",
     "title": "Борьба с зависимостями",
@@ -152,6 +169,20 @@
     "channel_slug": "podlodka",
     "channel_title": "Podlodka",
     "duration": 5612,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Cf1VnOQ3jzA",
+    "url": "https://www.youtube.com/watch?v=Cf1VnOQ3jzA",
+    "title": "Live coding iOS-приложения на SwiftUI",
+    "year": 2021,
+    "categories": [
+      "swiftui"
+    ],
+    "channel_slug": "surf",
+    "channel_title": "Surf Tech",
+    "duration": 6186,
     "source": "youtube",
     "curated": false
   },
@@ -343,6 +374,23 @@
     "curated": false
   },
   {
+    "video_id": "N17kfS8h3HM",
+    "url": "https://www.youtube.com/watch?v=N17kfS8h3HM",
+    "title": "Backend без бэкендера с помощью Strapi",
+    "speakers": [
+      "Алимжан Абуов"
+    ],
+    "year": 2021,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "cocoaheads-kz",
+    "channel_title": "CocoaHeads Kazakhstan",
+    "duration": 2593,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "Ob18SjB8dZY",
     "url": "https://www.youtube.com/watch?v=Ob18SjB8dZY",
     "title": "Обсуждаем будущее Apple",
@@ -393,6 +441,20 @@
     "curated": false
   },
   {
+    "video_id": "Q5kqY8tZ4Zc",
+    "url": "https://www.youtube.com/watch?v=Q5kqY8tZ4Zc",
+    "title": "Live coding на SwiftUI: облако тегов",
+    "year": 2021,
+    "categories": [
+      "swiftui"
+    ],
+    "channel_slug": "surf",
+    "channel_title": "Surf Tech",
+    "duration": 3730,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "RWhjn0hKJNk",
     "url": "https://www.youtube.com/watch?v=RWhjn0hKJNk",
     "title": "Круглый стол: Modularization 2021",
@@ -424,6 +486,21 @@
     "channel_slug": "cocoaheads",
     "channel_title": "CocoaHeads",
     "duration": 1894,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "UrDrLoxjHB8",
+    "url": "https://www.youtube.com/watch?v=UrDrLoxjHB8",
+    "title": "CocoaCast #3: нативная и кроссплатформенная мобильная разработка",
+    "year": 2021,
+    "categories": [
+      "roundtable",
+      "crossplatform"
+    ],
+    "channel_slug": "cocoaheads-kz",
+    "channel_title": "CocoaHeads Kazakhstan",
+    "duration": 6844,
     "source": "youtube",
     "curated": false
   },
@@ -652,6 +729,24 @@
     "curated": false
   },
   {
+    "video_id": "giHTUAmyFWY",
+    "url": "https://www.youtube.com/watch?v=giHTUAmyFWY",
+    "title": "Николай Иготти о Compose Multiplatform, связи Google и JetBrains и Compose for iOS",
+    "speakers": [
+      "Николай Иготти"
+    ],
+    "year": 2021,
+    "categories": [
+      "roundtable",
+      "crossplatform"
+    ],
+    "channel_slug": "mobile-developer",
+    "channel_title": "Алексей Гладков",
+    "duration": 4078,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "gk0SxLKmpX8",
     "url": "https://www.youtube.com/watch?v=gk0SxLKmpX8",
     "title": "Server driven view на SwiftUI",
@@ -717,6 +812,40 @@
     "channel_slug": "cocoaheads",
     "channel_title": "CocoaHeads",
     "duration": 2302,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "iKWu22XHDYw",
+    "url": "https://www.youtube.com/watch?v=iKWu22XHDYw",
+    "title": "Реальное собеседование Senior iOS-разработчика",
+    "speakers": [
+      "Виталий Кузьменко"
+    ],
+    "year": 2021,
+    "categories": [
+      "interviews-public"
+    ],
+    "channel_slug": "mobile-developer",
+    "channel_title": "Алексей Гладков",
+    "duration": 3895,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "iSJiSp_Nk2k",
+    "url": "https://www.youtube.com/watch?v=iSJiSp_Nk2k",
+    "title": "Разработка дизайна со стороны программиста",
+    "speakers": [
+      "Борис Дипнер"
+    ],
+    "year": 2021,
+    "categories": [
+      "design"
+    ],
+    "channel_slug": "cocoaheads-kz",
+    "channel_title": "CocoaHeads Kazakhstan",
+    "duration": 1584,
     "source": "youtube",
     "curated": false
   },
@@ -887,6 +1016,20 @@
     "channel_slug": "mobius",
     "channel_title": "Mobius — конференция по мобильной разработке",
     "duration": 2703,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "uynLpEexXHU",
+    "url": "https://www.youtube.com/watch?v=uynLpEexXHU",
+    "title": "Публичное собеседование: iOS-разработчик (CocoaHeads Kazakhstan)",
+    "year": 2021,
+    "categories": [
+      "interviews-public"
+    ],
+    "channel_slug": "cocoaheads-kz",
+    "channel_title": "CocoaHeads Kazakhstan",
+    "duration": 4345,
     "source": "youtube",
     "curated": false
   },

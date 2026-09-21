@@ -1023,6 +1023,23 @@
     "curated": false
   },
   {
+    "video_id": "shVlya4YuA0",
+    "url": "https://www.youtube.com/watch?v=shVlya4YuA0",
+    "title": "Когда нужны скорость и масштабирование: сервер распределённых iOS-устройств",
+    "speakers": [
+      "Николай Абалов"
+    ],
+    "year": 2018,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "heisenbug",
+    "channel_title": "Heisenbug — конференция по тестированию",
+    "duration": 3213,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "sj-1Nemfhv0",
     "url": "https://www.youtube.com/watch?v=sj-1Nemfhv0",
     "title": "Пишем под iOS на Flutter – Геннадий Денисов",

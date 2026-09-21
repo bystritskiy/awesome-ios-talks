@@ -452,6 +452,24 @@
     "curated": false
   },
   {
+    "video_id": "Pbh0yJyLKqY",
+    "url": "https://www.youtube.com/watch?v=Pbh0yJyLKqY",
+    "title": "Как внедрить ИИ в команду разработчиков и не нажить себе врагов",
+    "speakers": [
+      "Евгений Сатуров"
+    ],
+    "year": 2025,
+    "categories": [
+      "ml",
+      "process"
+    ],
+    "channel_slug": "surf",
+    "channel_title": "Surf Tech",
+    "duration": 3918,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "TGJjv5RIBUs",
     "url": "https://www.youtube.com/watch?v=TGJjv5RIBUs",
     "title": "От модуляризации к Clang и обратно",
@@ -837,6 +855,25 @@
     "curated": false
   },
   {
+    "video_id": "t3ixzAThVsM",
+    "url": "https://www.youtube.com/watch?v=t3ixzAThVsM",
+    "title": "Погладить, нажать, автотест погонять: тесты приложения Apple TV",
+    "speakers": [
+      "Даниил Курпаченко",
+      "Михаил Гамаюнов"
+    ],
+    "year": 2025,
+    "categories": [
+      "tests",
+      "catalyst"
+    ],
+    "channel_slug": "heisenbug",
+    "channel_title": "Heisenbug — конференция по тестированию",
+    "duration": 2654,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "t_7bdQKubN8",
     "url": "https://www.youtube.com/watch?v=t_7bdQKubN8",
     "title": "Личный бренд разработчика: тир-лист от Кирилла Розова и Яндекса",
@@ -861,6 +898,24 @@
     "channel_slug": "yandex-mobile",
     "channel_title": "Yandex for Mobile",
     "duration": 6585,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "vjePkUI2hdA",
+    "url": "https://www.youtube.com/watch?v=vjePkUI2hdA",
+    "title": "iOS в VK DeviceHub, или универсальный провайдер для устройств в ферме",
+    "speakers": [
+      "Иван Левиков",
+      "Даниил Смирнов"
+    ],
+    "year": 2025,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "heisenbug",
+    "channel_title": "Heisenbug — конференция по тестированию",
+    "duration": 2588,
     "source": "youtube",
     "curated": false
   },

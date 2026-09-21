@@ -1,5 +1,22 @@
 [
   {
+    "video_id": "-26FiMQ0kL0",
+    "url": "https://www.youtube.com/watch?v=-26FiMQ0kL0",
+    "title": "Marathon test runner: разбираемся и настраиваем Android & iOS (часть 2)",
+    "speakers": [
+      "Антон Малинский"
+    ],
+    "year": 2023,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "heisenbug",
+    "channel_title": "Heisenbug — конференция по тестированию",
+    "duration": 2706,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "0dUzyJxGjcY",
     "url": "https://www.youtube.com/watch?v=0dUzyJxGjcY",
     "title": "Как поддерживать недельный релизный цикл и ничего не забывать",
@@ -183,6 +200,20 @@
     "channel_slug": "mobius",
     "channel_title": "Mobius — конференция по мобильной разработке",
     "duration": 3008,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "6lIyxbKq5Uo",
+    "url": "https://www.youtube.com/watch?v=6lIyxbKq5Uo",
+    "title": "Кто ты, воин SwiftData",
+    "year": 2023,
+    "categories": [
+      "databases"
+    ],
+    "channel_slug": "surf",
+    "channel_title": "Surf Tech",
+    "duration": 1693,
     "source": "youtube",
     "curated": false
   },
@@ -771,6 +802,20 @@
     "curated": false
   },
   {
+    "video_id": "TUXPMOdqqUc",
+    "url": "https://www.youtube.com/watch?v=TUXPMOdqqUc",
+    "title": "Реальное iOS-собеседование в Яндекс",
+    "year": 2023,
+    "categories": [
+      "interviews-public"
+    ],
+    "channel_slug": "mobile-developer",
+    "channel_title": "Алексей Гладков",
+    "duration": 5263,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "UGow5drkUvA",
     "url": "https://www.youtube.com/watch?v=UGow5drkUvA",
     "title": "Лента Мобиуса: заказчики, платформы и технологии",
@@ -1024,6 +1069,23 @@
     "channel_slug": "mobius",
     "channel_title": "Mobius — конференция по мобильной разработке",
     "duration": 2700,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "gepzxUCVQ60",
+    "url": "https://www.youtube.com/watch?v=gepzxUCVQ60",
+    "title": "Паттерны в UI-тестах на Web, Android и iOS",
+    "speakers": [
+      "Эмилия Куцарева"
+    ],
+    "year": 2023,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "heisenbug",
+    "channel_title": "Heisenbug — конференция по тестированию",
+    "duration": 2702,
     "source": "youtube",
     "curated": false
   },
@@ -1558,6 +1620,23 @@
     "channel_slug": "mobius",
     "channel_title": "Mobius — конференция по мобильной разработке",
     "duration": 2229,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "zQEU8x9NfS4",
+    "url": "https://www.youtube.com/watch?v=zQEU8x9NfS4",
+    "title": "Marathon test runner: разбираемся и настраиваем Android & iOS (часть 1)",
+    "speakers": [
+      "Антон Малинский"
+    ],
+    "year": 2023,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "heisenbug",
+    "channel_title": "Heisenbug — конференция по тестированию",
+    "duration": 2827,
     "source": "youtube",
     "curated": false
   },

@@ -68,6 +68,23 @@
     "curated": false
   },
   {
+    "video_id": "48scsjwZQ6I",
+    "url": "https://www.youtube.com/watch?v=48scsjwZQ6I",
+    "title": "Как тратить меньше времени на разработку",
+    "speakers": [
+      "Михаил Заславский"
+    ],
+    "year": 2017,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "ios-dev-meetup",
+    "channel_title": "iOS Dev Meetup",
+    "duration": 2488,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "66g_pD3s7TY",
     "url": "https://www.youtube.com/watch?v=66g_pD3s7TY",
     "title": "Copy on Write в Swift",
@@ -453,6 +470,40 @@
     "curated": false
   },
   {
+    "video_id": "QOdHhI9a7i4",
+    "url": "https://www.youtube.com/watch?v=QOdHhI9a7i4",
+    "title": "Собираем pod'ы и делаем свои библиотеки",
+    "speakers": [
+      "Михаил Мальцев"
+    ],
+    "year": 2017,
+    "categories": [
+      "project-structure"
+    ],
+    "channel_slug": "ios-dev-meetup",
+    "channel_title": "iOS Dev Meetup",
+    "duration": 2107,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "SoCw8IidXDM",
+    "url": "https://www.youtube.com/watch?v=SoCw8IidXDM",
+    "title": "Прокачиваем WebDriverAgent, или как тестировать iOS-приложения после ядерного взрыва",
+    "speakers": [
+      "Алексей Махов"
+    ],
+    "year": 2017,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "heisenbug",
+    "channel_title": "Heisenbug — конференция по тестированию",
+    "duration": 1445,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "Sv4jQxl0jjk",
     "url": "https://www.youtube.com/watch?v=Sv4jQxl0jjk",
     "title": "+10% к конверсии бесплатно: грамотная аналитика + push",
@@ -588,6 +639,23 @@
     "curated": false
   },
   {
+    "video_id": "ZCswZbDF_KA",
+    "url": "https://www.youtube.com/watch?v=ZCswZbDF_KA",
+    "title": "MapBox SDK: достоинства и недостатки",
+    "speakers": [
+      "Михаил Заславский"
+    ],
+    "year": 2017,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "ios-dev-meetup",
+    "channel_title": "iOS Dev Meetup",
+    "duration": 1378,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "Ze0odRpW9V4",
     "url": "https://www.youtube.com/watch?v=Ze0odRpW9V4",
     "title": "Как мы делали приложение CocoaHeads",
@@ -655,6 +723,23 @@
     "channel_slug": "mobius",
     "channel_title": "Mobius — конференция по мобильной разработке",
     "duration": 3246,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "_BtxvN_GCgg",
+    "url": "https://www.youtube.com/watch?v=_BtxvN_GCgg",
+    "title": "Особенности и адаптация приложения под iPhone X",
+    "speakers": [
+      "Семён Мацепура"
+    ],
+    "year": 2017,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "ios-dev-meetup",
+    "channel_title": "iOS Dev Meetup",
+    "duration": 849,
     "source": "youtube",
     "curated": false
   },
@@ -831,6 +916,40 @@
     "curated": false
   },
   {
+    "video_id": "mlXba35_EfU",
+    "url": "https://www.youtube.com/watch?v=mlXba35_EfU",
+    "title": "CI: continuous integration применительно к iOS-разработке",
+    "speakers": [
+      "Сергей Романков"
+    ],
+    "year": 2017,
+    "categories": [
+      "cicd"
+    ],
+    "channel_slug": "ios-dev-meetup",
+    "channel_title": "iOS Dev Meetup",
+    "duration": 892,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "nGfDVC7-PqM",
+    "url": "https://www.youtube.com/watch?v=nGfDVC7-PqM",
+    "title": "GraphQL",
+    "speakers": [
+      "Александр Данилин"
+    ],
+    "year": 2017,
+    "categories": [
+      "networking"
+    ],
+    "channel_slug": "ios-dev-meetup",
+    "channel_title": "iOS Dev Meetup",
+    "duration": 1099,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "o64-L04U6Ag",
     "url": "https://www.youtube.com/watch?v=o64-L04U6Ag",
     "title": "Анимация в мобильном дизайне",
@@ -865,6 +984,41 @@
     "curated": false
   },
   {
+    "video_id": "ruemK8GiL1o",
+    "url": "https://www.youtube.com/watch?v=ruemK8GiL1o",
+    "title": "SiriKit",
+    "speakers": [
+      "Михаил Заславский"
+    ],
+    "year": 2017,
+    "categories": [
+      "siri"
+    ],
+    "channel_slug": "ios-dev-meetup",
+    "channel_title": "iOS Dev Meetup",
+    "duration": 2276,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "s2xfIufZPNU",
+    "url": "https://www.youtube.com/watch?v=s2xfIufZPNU",
+    "title": "Async User Interface",
+    "speakers": [
+      "Дмитрий Молоков"
+    ],
+    "year": 2017,
+    "categories": [
+      "ui",
+      "concurrency"
+    ],
+    "channel_slug": "ios-dev-meetup",
+    "channel_title": "iOS Dev Meetup",
+    "duration": 2843,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "sBw5DIjHo4w",
     "url": "https://www.youtube.com/watch?v=sBw5DIjHo4w",
     "title": "Техническое интервью в iOS",
@@ -878,6 +1032,23 @@
     "channel_slug": "cocoaheads",
     "channel_title": "CocoaHeads",
     "duration": 2089,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "sv3ZIK0RW34",
+    "url": "https://www.youtube.com/watch?v=sv3ZIK0RW34",
+    "title": "Git: работа в команде",
+    "speakers": [
+      "Сергей Романков"
+    ],
+    "year": 2017,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "ios-dev-meetup",
+    "channel_title": "iOS Dev Meetup",
+    "duration": 1441,
     "source": "youtube",
     "curated": false
   },
@@ -930,6 +1101,23 @@
     "curated": false
   },
   {
+    "video_id": "tc-BFF6NCvI",
+    "url": "https://www.youtube.com/watch?v=tc-BFF6NCvI",
+    "title": "Фишки стандартной библиотеки Swift",
+    "speakers": [
+      "Михаил Мальцев"
+    ],
+    "year": 2017,
+    "categories": [
+      "swift"
+    ],
+    "channel_slug": "ios-dev-meetup",
+    "channel_title": "iOS Dev Meetup",
+    "duration": 2617,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "unurUaaKcck",
     "url": "https://www.youtube.com/watch?v=unurUaaKcck",
     "title": "Swift Package Manager",
@@ -957,6 +1145,23 @@
     "channel_slug": "cocoaheads",
     "channel_title": "CocoaHeads",
     "duration": 1516,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "yZFC_ZZVZBE",
+    "url": "https://www.youtube.com/watch?v=yZFC_ZZVZBE",
+    "title": "Multipeer Connectivity",
+    "speakers": [
+      "Игорь Савельев"
+    ],
+    "year": 2017,
+    "categories": [
+      "networking"
+    ],
+    "channel_slug": "ios-dev-meetup",
+    "channel_title": "iOS Dev Meetup",
+    "duration": 946,
     "source": "youtube",
     "curated": false
   }

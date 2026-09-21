@@ -100,6 +100,23 @@
     "curated": false
   },
   {
+    "video_id": "1tiVB7hejfU",
+    "url": "https://www.youtube.com/watch?v=1tiVB7hejfU",
+    "title": "iOS-разработка в Kaspersky",
+    "speakers": [
+      "Артём Гладков"
+    ],
+    "year": 2020,
+    "categories": [
+      "stories"
+    ],
+    "channel_slug": "kaspersky-tech",
+    "channel_title": "Kaspersky Tech Russia",
+    "duration": 2151,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "1uDwOHL5bz4",
     "url": "https://www.youtube.com/watch?v=1uDwOHL5bz4",
     "title": "От идеи до макета в iOS за 60 минут",
@@ -314,6 +331,20 @@
     "curated": false
   },
   {
+    "video_id": "9c8kQm4yx6I",
+    "url": "https://www.youtube.com/watch?v=9c8kQm4yx6I",
+    "title": "CocoaCast #2: Swift Student Challenge",
+    "year": 2020,
+    "categories": [
+      "roundtable"
+    ],
+    "channel_slug": "cocoaheads-kz",
+    "channel_title": "CocoaHeads Kazakhstan",
+    "duration": 3880,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "A7cjJJ70bvg",
     "url": "https://www.youtube.com/watch?v=A7cjJJ70bvg",
     "title": "gRPC в iOS-приложениях. REST in peace?",
@@ -327,6 +358,40 @@
     "channel_slug": "mobius",
     "channel_title": "Mobius — конференция по мобильной разработке",
     "duration": 4276,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "APMBvI3cDyw",
+    "url": "https://www.youtube.com/watch?v=APMBvI3cDyw",
+    "title": "SwiftLint — чистота и порядок в iOS-проекте",
+    "speakers": [
+      "Ислам Темирбек"
+    ],
+    "year": 2020,
+    "categories": [
+      "project-structure"
+    ],
+    "channel_slug": "cocoaheads-kz",
+    "channel_title": "CocoaHeads Kazakhstan",
+    "duration": 1075,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "AnoSj9oa2Pk",
+    "url": "https://www.youtube.com/watch?v=AnoSj9oa2Pk",
+    "title": "Offensive security iOS: статический и динамический анализ приложений",
+    "speakers": [
+      "Денис Кудинов"
+    ],
+    "year": 2020,
+    "categories": [
+      "security"
+    ],
+    "channel_slug": "kaspersky-tech",
+    "channel_title": "Kaspersky Tech Russia",
+    "duration": 5673,
     "source": "youtube",
     "curated": false
   },
@@ -452,6 +517,23 @@
     "curated": false
   },
   {
+    "video_id": "FCqP_nOUpp4",
+    "url": "https://www.youtube.com/watch?v=FCqP_nOUpp4",
+    "title": "Современный подход к тестированию локализации на iOS",
+    "speakers": [
+      "Сергей Мохин"
+    ],
+    "year": 2020,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "heisenbug",
+    "channel_title": "Heisenbug — конференция по тестированию",
+    "duration": 2384,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "Fdov-eMpUSA",
     "url": "https://www.youtube.com/watch?v=Fdov-eMpUSA",
     "title": "iOS CI in da House",
@@ -465,6 +547,40 @@
     "channel_slug": "avitotech",
     "channel_title": "AvitoTech",
     "duration": 2311,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "GJp8jn8LAC8",
+    "url": "https://www.youtube.com/watch?v=GJp8jn8LAC8",
+    "title": "Flutter глазами iOS-разработчика",
+    "speakers": [
+      "Алмас Адильбек"
+    ],
+    "year": 2020,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "cocoaheads-kz",
+    "channel_title": "CocoaHeads Kazakhstan",
+    "duration": 4210,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "GKktQDNpOUg",
+    "url": "https://www.youtube.com/watch?v=GKktQDNpOUg",
+    "title": "Continuous delivery для твоего проекта",
+    "speakers": [
+      "Али Жусупов"
+    ],
+    "year": 2020,
+    "categories": [
+      "cicd"
+    ],
+    "channel_slug": "cocoaheads-kz",
+    "channel_title": "CocoaHeads Kazakhstan",
+    "duration": 2666,
     "source": "youtube",
     "curated": false
   },
@@ -567,6 +683,24 @@
     "curated": false
   },
   {
+    "video_id": "KacMZIytq-M",
+    "url": "https://www.youtube.com/watch?v=KacMZIytq-M",
+    "title": "Делаем свой микроскоп для тестирования iOS-приложений",
+    "speakers": [
+      "Виктория Кашлина",
+      "Антон Власов"
+    ],
+    "year": 2020,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "heisenbug",
+    "channel_title": "Heisenbug — конференция по тестированию",
+    "duration": 3045,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "LP19gN01Buk",
     "url": "https://www.youtube.com/watch?v=LP19gN01Buk",
     "title": "Accessibility в iOS: невидимая сторона вашего приложения",
@@ -632,6 +766,23 @@
     "channel_slug": "appsconf",
     "channel_title": "Mobile Channel (AppsConf)",
     "duration": 2898,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "NaHYujKs5AQ",
+    "url": "https://www.youtube.com/watch?v=NaHYujKs5AQ",
+    "title": "Интервью с разработчиком глазами HR-менеджера",
+    "speakers": [
+      "Малика Молотова"
+    ],
+    "year": 2020,
+    "categories": [
+      "hiring"
+    ],
+    "channel_slug": "cocoaheads-kz",
+    "channel_title": "CocoaHeads Kazakhstan",
+    "duration": 2672,
     "source": "youtube",
     "curated": false
   },
@@ -789,6 +940,23 @@
     "curated": false
   },
   {
+    "video_id": "TjiVbjcYzkw",
+    "url": "https://www.youtube.com/watch?v=TjiVbjcYzkw",
+    "title": "Модуляризируем приложение с помощью собственных pod'ов",
+    "speakers": [
+      "Султан Сейдалин"
+    ],
+    "year": 2020,
+    "categories": [
+      "project-structure"
+    ],
+    "channel_slug": "cocoaheads-kz",
+    "channel_title": "CocoaHeads Kazakhstan",
+    "duration": 2521,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "TskbBnHrnFE",
     "url": "https://www.youtube.com/watch?v=TskbBnHrnFE",
     "title": "Первые шаги в offline first с Core Data и Managed Documents",
@@ -823,6 +991,23 @@
     "curated": false
   },
   {
+    "video_id": "UMnUxkPRy_o",
+    "url": "https://www.youtube.com/watch?v=UMnUxkPRy_o",
+    "title": "SwiftUI в production",
+    "speakers": [
+      "Бекзат Турапбеков"
+    ],
+    "year": 2020,
+    "categories": [
+      "swiftui"
+    ],
+    "channel_slug": "cocoaheads-kz",
+    "channel_title": "CocoaHeads Kazakhstan",
+    "duration": 3923,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "VYTDvmxbwRk",
     "url": "https://www.youtube.com/watch?v=VYTDvmxbwRk",
     "title": "Не переставайте развиваться",
@@ -849,6 +1034,20 @@
     "channel_slug": "appsconf",
     "channel_title": "Mobile Channel (AppsConf)",
     "duration": 1765,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "VgYgTc39tJo",
+    "url": "https://www.youtube.com/watch?v=VgYgTc39tJo",
+    "title": "CocoaHeads Kazakhstan Code Review #0",
+    "year": 2020,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "cocoaheads-kz",
+    "channel_title": "CocoaHeads Kazakhstan",
+    "duration": 6745,
     "source": "youtube",
     "curated": false
   },
@@ -883,6 +1082,40 @@
     "channel_slug": "mobius",
     "channel_title": "Mobius — конференция по мобильной разработке",
     "duration": 3457,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Xdkob5EowF8",
+    "url": "https://www.youtube.com/watch?v=Xdkob5EowF8",
+    "title": "UIKit изнутри",
+    "speakers": [
+      "Амиржан Идрышев"
+    ],
+    "year": 2020,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "cocoaheads-kz",
+    "channel_title": "CocoaHeads Kazakhstan",
+    "duration": 2938,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Xhee8CqCgYw",
+    "url": "https://www.youtube.com/watch?v=Xhee8CqCgYw",
+    "title": "A/B Test Driven Development",
+    "speakers": [
+      "Нарикби Максут"
+    ],
+    "year": 2020,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "cocoaheads-kz",
+    "channel_title": "CocoaHeads Kazakhstan",
+    "duration": 1784,
     "source": "youtube",
     "curated": false
   },

@@ -210,6 +210,40 @@
     "curated": false
   },
   {
+    "video_id": "QdNEyUnM2ro",
+    "url": "https://www.youtube.com/watch?v=QdNEyUnM2ro",
+    "title": "Перезагрузка мобильной аналитики: объединяем подходы в iOS и Android",
+    "speakers": [
+      "Андрей Максимкин"
+    ],
+    "year": 2026,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "hh",
+    "channel_title": "hh_ru",
+    "duration": 1479,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "QuZQbS2DcaE",
+    "url": "https://www.youtube.com/watch?v=QuZQbS2DcaE",
+    "title": "Работа с файловой системой на iOS",
+    "speakers": [
+      "Александр Игнатьев"
+    ],
+    "year": 2026,
+    "categories": [
+      "databases"
+    ],
+    "channel_slug": "wb-tech",
+    "channel_title": "WB Tech",
+    "duration": 2453,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "Twtw0b4XaHI",
     "url": "https://www.youtube.com/watch?v=Twtw0b4XaHI",
     "title": "Лента Мобиуса: качество, архитектура и ответственность в эпоху ИИ",
@@ -347,6 +381,20 @@
     "curated": false
   },
   {
+    "video_id": "he4cEpJQyU4",
+    "url": "https://www.youtube.com/watch?v=he4cEpJQyU4",
+    "title": "Разработчик из Apple теперь в Яндексе: что отличается внутри",
+    "year": 2026,
+    "categories": [
+      "roundtable"
+    ],
+    "channel_slug": "mobile-developer",
+    "channel_title": "Алексей Гладков",
+    "duration": 7482,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "jRiV_tOx3iQ",
     "url": "https://www.youtube.com/watch?v=jRiV_tOx3iQ",
     "title": "Когда структуры в Swift тебе не бро",
@@ -429,6 +477,23 @@
     "channel_slug": "mobius",
     "channel_title": "Mobius — конференция по мобильной разработке",
     "duration": 2650,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "qxdxOocnQHg",
+    "url": "https://www.youtube.com/watch?v=qxdxOocnQHg",
+    "title": "От коммита до релиза: как устроена iOS-инфраструктура hh.ru",
+    "speakers": [
+      "Виталий Барабанов"
+    ],
+    "year": 2026,
+    "categories": [
+      "cicd"
+    ],
+    "channel_slug": "hh",
+    "channel_title": "hh_ru",
+    "duration": 1452,
     "source": "youtube",
     "curated": false
   },

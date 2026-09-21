@@ -52,6 +52,23 @@
     "curated": false
   },
   {
+    "video_id": "7ZNOFZe9b5I",
+    "url": "https://www.youtube.com/watch?v=7ZNOFZe9b5I",
+    "title": "Иван Воробей про будущее iOS в России, джунов и рынок рекламы",
+    "speakers": [
+      "Иван Воробей"
+    ],
+    "year": 2024,
+    "categories": [
+      "roundtable"
+    ],
+    "channel_slug": "mobile-developer",
+    "channel_title": "Алексей Гладков",
+    "duration": 5730,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "7_pcyhVOIXs",
     "url": "https://www.youtube.com/watch?v=7_pcyhVOIXs",
     "title": "От натива до SDUI через гибрид",
@@ -153,6 +170,20 @@
     "curated": false
   },
   {
+    "video_id": "CdZ5Dipx9Tg",
+    "url": "https://www.youtube.com/watch?v=CdZ5Dipx9Tg",
+    "title": "Тренды мобильной разработки 2024/2025",
+    "year": 2024,
+    "categories": [
+      "roundtable"
+    ],
+    "channel_slug": "surf",
+    "channel_title": "Surf Tech",
+    "duration": 3866,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "CrJ2AtZOBQI",
     "url": "https://www.youtube.com/watch?v=CrJ2AtZOBQI",
     "title": "Как укротить виджеты в супераппе?",
@@ -214,6 +245,23 @@
     "channel_slug": "mobius",
     "channel_title": "Mobius — конференция по мобильной разработке",
     "duration": 2993,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "F6-XTpjE4RA",
+    "url": "https://www.youtube.com/watch?v=F6-XTpjE4RA",
+    "title": "Масштабируем UI-тесты на iOS: от новых приложений до устройств",
+    "speakers": [
+      "Даниил Курпаченко"
+    ],
+    "year": 2024,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "heisenbug",
+    "channel_title": "Heisenbug — конференция по тестированию",
+    "duration": 2559,
     "source": "youtube",
     "curated": false
   },
@@ -422,6 +470,20 @@
     "curated": false
   },
   {
+    "video_id": "OtFIQrvFPGk",
+    "url": "https://www.youtube.com/watch?v=OtFIQrvFPGk",
+    "title": "Кодогенерация в iOS-разработке",
+    "year": 2024,
+    "categories": [
+      "project-structure"
+    ],
+    "channel_slug": "surf",
+    "channel_title": "Surf Tech",
+    "duration": 1181,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "P5waRq2BEro",
     "url": "https://www.youtube.com/watch?v=P5waRq2BEro",
     "title": "Mobile Farm: тестируем мобильные приложения без телефона и эмулятора",
@@ -435,6 +497,20 @@
     "channel_slug": "mobius",
     "channel_title": "Mobius — конференция по мобильной разработке",
     "duration": 2752,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "PeV4GuZsvxI",
+    "url": "https://www.youtube.com/watch?v=PeV4GuZsvxI",
+    "title": "Организация и поддержка нативных UI-тестов в iOS",
+    "year": 2024,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "surf",
+    "channel_title": "Surf Tech",
+    "duration": 1319,
     "source": "youtube",
     "curated": false
   },
@@ -908,6 +984,25 @@
     "curated": false
   },
   {
+    "video_id": "mKu_EL7MExs",
+    "url": "https://www.youtube.com/watch?v=mKu_EL7MExs",
+    "title": "Сверим часы: как мы тестировали VK на Apple Watch",
+    "speakers": [
+      "Ксения Катаева",
+      "Даниил Курпаченко"
+    ],
+    "year": 2024,
+    "categories": [
+      "tests",
+      "watch"
+    ],
+    "channel_slug": "heisenbug",
+    "channel_title": "Heisenbug — конференция по тестированию",
+    "duration": 2215,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "mi6UH6BJ89E",
     "url": "https://www.youtube.com/watch?v=mi6UH6BJ89E",
     "title": "Scout: новый фреймворк для ускоренного и безболезненного управления зависимостями",
@@ -1231,6 +1326,23 @@
     "channel_slug": "mobius",
     "channel_title": "Mobius — конференция по мобильной разработке",
     "duration": 2714,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "wa7p3_7UN5k",
+    "url": "https://www.youtube.com/watch?v=wa7p3_7UN5k",
+    "title": "Сокращаем время UI-тестов на iOS с 4 часов до 30 минут",
+    "speakers": [
+      "Борис Лысиков"
+    ],
+    "year": 2024,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "heisenbug",
+    "channel_title": "Heisenbug — конференция по тестированию",
+    "duration": 2686,
     "source": "youtube",
     "curated": false
   },

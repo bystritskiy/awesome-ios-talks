@@ -1,24 +1,215 @@
 {
   "_comment": "Каналы, откуда собираются доклады. id — канонический YouTube channel_id (UC...). focus: ios | mobile | general — влияет на строгость фильтра релевантности. enabled=false — канал временно исключён из обхода.",
   "channels": [
-    { "slug": "cocoaheads",    "title": "CocoaHeads",                          "id": "UCPZtkJkHv_3pPC0veurLQ6Q", "focus": "ios",     "enabled": true },
-    { "slug": "appsconf",      "title": "Mobile Channel (AppsConf)",           "id": "UCP8MtCo2ZcrJc7_Zhcjym9g", "focus": "mobile",  "enabled": true },
-    { "slug": "mobius",        "title": "Mobius",                              "id": "UCG70q1HRspLdd93HW94WS-A", "focus": "mobile",  "enabled": true },
-    { "slug": "yandex-mobile", "title": "Yandex for Mobile",                   "id": "UCkwbP2Mg1Hnlu66D6x-UxXg", "focus": "mobile",  "enabled": true },
-    { "slug": "yy-mobile",     "title": "Young&&Yandex: мобильная разработка", "id": "UC-355nTVRMSYdPI8HpoRUrA", "focus": "mobile",  "enabled": true },
-    { "slug": "podlodka",      "title": "Podlodka",                            "id": "UCOei1E1Vqq10S913OEqTWGw", "focus": "general", "enabled": true },
-    { "slug": "podlodka-dd",   "title": "Podlodka Deep Dive",                  "id": "UCA0ZvfuUY3i_YTVjxibEcyg", "focus": "general", "enabled": true },
-    { "slug": "avitotech",     "title": "AvitoTech",                           "id": "UCO2w0cpl1wxygHjQH6eEfEg", "focus": "general", "enabled": true },
-    { "slug": "vktech",        "title": "Команда ВКонтакте",                   "id": "UCcDIhc6mz8EtmxRSvgYYrzg", "focus": "general", "enabled": true },
-    { "slug": "redmadrobot",   "title": "Redmadrobot",                         "id": "UCNsKb10vKvLCx3C0Yijmp0w", "focus": "mobile",  "enabled": true },
-    { "slug": "dodo",          "title": "Dodo Engineering",                    "id": "UCVRaec6UUYJWU2l3tGGifGA", "focus": "general", "enabled": true },
-    { "slug": "elegion",       "title": "e-legion IT",                         "id": "UCM3TgJ2rmwcnD_xKMdEeOtQ", "focus": "mobile",  "enabled": true },
-    { "slug": "mobifest",      "title": "MobiFest",                            "id": "UCS1F6CEGqbPlOUO0DNxE9bQ", "focus": "mobile",  "enabled": true },
-    { "slug": "alfa-mobile",   "title": "Alfa Mobile",                         "id": "UCHAtoB-7ngdKJ6MJkpwEcBg", "focus": "mobile",  "enabled": true },
-    { "slug": "techtrain",     "title": "TechTrain",                           "id": "UCJoerW5eDOz5qu7I2CYi7xg", "focus": "general", "enabled": true },
-    { "slug": "kaspersky",     "title": "Kaspersky Russia",                    "id": "UCiFPvAzHdUXchHHKb8YDb3Q", "focus": "general", "enabled": false },
-    { "slug": "sberdevices",   "title": "SberDevices",                         "id": "UCGavUdRGT7nodLIm0dUO9UQ", "focus": "general", "enabled": false },
-    { "slug": "indark",        "title": "indark.studio (ex-iOS обучение)",     "id": "UCXlCPCsB09ftBA5bQfiSWoQ", "focus": "ios",     "enabled": false },
-    { "slug": "iosbatya",      "title": "iOS Батя",                            "id": "UCCOrB8LZC3XU-fwyM1UMvCg", "focus": "ios",     "enabled": false }
+    {
+      "slug": "cocoaheads",
+      "title": "CocoaHeads",
+      "id": "UCPZtkJkHv_3pPC0veurLQ6Q",
+      "focus": "ios",
+      "enabled": true
+    },
+    {
+      "slug": "appsconf",
+      "title": "Mobile Channel (AppsConf)",
+      "id": "UCP8MtCo2ZcrJc7_Zhcjym9g",
+      "focus": "mobile",
+      "enabled": true
+    },
+    {
+      "slug": "mobius",
+      "title": "Mobius",
+      "id": "UCG70q1HRspLdd93HW94WS-A",
+      "focus": "mobile",
+      "enabled": true
+    },
+    {
+      "slug": "yandex-mobile",
+      "title": "Yandex for Mobile",
+      "id": "UCkwbP2Mg1Hnlu66D6x-UxXg",
+      "focus": "mobile",
+      "enabled": true
+    },
+    {
+      "slug": "yy-mobile",
+      "title": "Young&&Yandex: мобильная разработка",
+      "id": "UC-355nTVRMSYdPI8HpoRUrA",
+      "focus": "mobile",
+      "enabled": true
+    },
+    {
+      "slug": "podlodka",
+      "title": "Podlodka",
+      "id": "UCOei1E1Vqq10S913OEqTWGw",
+      "focus": "general",
+      "enabled": true
+    },
+    {
+      "slug": "podlodka-dd",
+      "title": "Podlodka Deep Dive",
+      "id": "UCA0ZvfuUY3i_YTVjxibEcyg",
+      "focus": "general",
+      "enabled": true
+    },
+    {
+      "slug": "avitotech",
+      "title": "AvitoTech",
+      "id": "UCO2w0cpl1wxygHjQH6eEfEg",
+      "focus": "general",
+      "enabled": true
+    },
+    {
+      "slug": "vktech",
+      "title": "Команда ВКонтакте",
+      "id": "UCcDIhc6mz8EtmxRSvgYYrzg",
+      "focus": "general",
+      "enabled": true
+    },
+    {
+      "slug": "redmadrobot",
+      "title": "Redmadrobot",
+      "id": "UCNsKb10vKvLCx3C0Yijmp0w",
+      "focus": "mobile",
+      "enabled": true
+    },
+    {
+      "slug": "dodo",
+      "title": "Dodo Engineering",
+      "id": "UCVRaec6UUYJWU2l3tGGifGA",
+      "focus": "general",
+      "enabled": true
+    },
+    {
+      "slug": "elegion",
+      "title": "e-legion IT",
+      "id": "UCM3TgJ2rmwcnD_xKMdEeOtQ",
+      "focus": "mobile",
+      "enabled": true
+    },
+    {
+      "slug": "mobifest",
+      "title": "MobiFest",
+      "id": "UCS1F6CEGqbPlOUO0DNxE9bQ",
+      "focus": "mobile",
+      "enabled": true
+    },
+    {
+      "slug": "alfa-mobile",
+      "title": "Alfa Mobile",
+      "id": "UCHAtoB-7ngdKJ6MJkpwEcBg",
+      "focus": "mobile",
+      "enabled": true
+    },
+    {
+      "slug": "techtrain",
+      "title": "TechTrain",
+      "id": "UCJoerW5eDOz5qu7I2CYi7xg",
+      "focus": "general",
+      "enabled": true
+    },
+    {
+      "slug": "kaspersky",
+      "title": "Kaspersky Russia",
+      "id": "UCiFPvAzHdUXchHHKb8YDb3Q",
+      "focus": "general",
+      "enabled": false
+    },
+    {
+      "slug": "indark",
+      "title": "indark.studio (ex-iOS обучение)",
+      "id": "UCXlCPCsB09ftBA5bQfiSWoQ",
+      "focus": "ios",
+      "enabled": false
+    },
+    {
+      "slug": "iosbatya",
+      "title": "iOS Батя",
+      "id": "UCCOrB8LZC3XU-fwyM1UMvCg",
+      "focus": "ios",
+      "enabled": false
+    },
+    {
+      "slug": "surf",
+      "title": "Surf Tech",
+      "id": "UCI0Qiyom32EUrdqrgXK83lg",
+      "focus": "mobile",
+      "enabled": true
+    },
+    {
+      "slug": "cocoaheads-kz",
+      "title": "CocoaHeads Kazakhstan",
+      "id": "UCJgIPYp-XKY2NM8sEOPu7OQ",
+      "focus": "ios",
+      "enabled": true
+    },
+    {
+      "slug": "ios-dev-meetup",
+      "title": "iOS Dev Meetup",
+      "id": "UC3cz46lUpyz-YUqMBddUM_w",
+      "focus": "ios",
+      "enabled": true
+    },
+    {
+      "slug": "heisenbug",
+      "title": "Heisenbug",
+      "id": "UCX6fjZa167tSy_4ryTLcOBw",
+      "focus": "general",
+      "enabled": true
+    },
+    {
+      "slug": "hh",
+      "title": "hh.ru",
+      "id": "UCWAh9osqTtIDurSTvHVz-bQ",
+      "focus": "general",
+      "enabled": true
+    },
+    {
+      "slug": "kaspersky-tech",
+      "title": "Kaspersky Tech Russia",
+      "id": "UCSVFz1xIEyOrpbowJjCxdvQ",
+      "focus": "general",
+      "enabled": true
+    },
+    {
+      "slug": "koshelek",
+      "title": "Koshelek Team",
+      "id": "UCYaM-s5T7nCL2qnO3Z5ArsA",
+      "focus": "mobile",
+      "enabled": true
+    },
+    {
+      "slug": "sbermarket",
+      "title": "SberMarket Tech",
+      "id": "UCQikj3QCbci5DZbfvdHBGjQ",
+      "focus": "mobile",
+      "enabled": true
+    },
+    {
+      "slug": "wb-tech",
+      "title": "WB Tech",
+      "id": "UCZIuGN7Ydd1aNoxkF68YTRA",
+      "focus": "general",
+      "enabled": true
+    },
+    {
+      "slug": "lamoda",
+      "title": "Lamoda Tech",
+      "id": "UClbSBNMPj9epKsXTsD92YPA",
+      "focus": "general",
+      "enabled": true
+    },
+    {
+      "slug": "ozon",
+      "title": "Ozon Tech",
+      "id": "UCCqNFXg3NRbRA6qNKFRecdw",
+      "focus": "general",
+      "enabled": true
+    },
+    {
+      "slug": "mobile-developer",
+      "title": "Мобильный разработчик (Алексей Гладков)",
+      "id": "UCxGXkPks1Ykbx2Plt4DgZlA",
+      "focus": "general",
+      "enabled": true
+    }
   ]
 }
