@@ -1,0 +1,619 @@
+[
+  {
+    "video_id": "-aRSYtDVI6c",
+    "url": "https://www.youtube.com/watch?v=-aRSYtDVI6c",
+    "title": "Server-Driven UI с DivKit",
+    "speakers": [
+      "Александр Скворцов",
+      "Павел Курчатов",
+      "Ольга Ким"
+    ],
+    "year": 2022,
+    "categories": [
+      "ui",
+      "services"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 3118,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "1jFm7upknIg",
+    "url": "https://www.youtube.com/watch?v=1jFm7upknIg",
+    "title": "SwiftUI на Flutter",
+    "speakers": [
+      "Геннадий Евстратов"
+    ],
+    "year": 2022,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3457,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "2vLJAmrYmj4",
+    "url": "https://www.youtube.com/watch?v=2vLJAmrYmj4",
+    "title": "Antiphishing/Antimalware на трафике iOS с помощью Network Extension",
+    "speakers": [
+      "Денис Кудинов"
+    ],
+    "year": 2022,
+    "categories": [
+      "security",
+      "networking"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3353,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "329aAWL9lXo",
+    "url": "https://www.youtube.com/watch?v=329aAWL9lXo",
+    "title": "Как варить дизайн-систему для живого приложения",
+    "speakers": [
+      "Александр Пряничников"
+    ],
+    "year": 2022,
+    "categories": [
+      "design"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1917,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "3ujALMZZinE",
+    "url": "https://www.youtube.com/watch?v=3ujALMZZinE",
+    "title": "Организация IP-телефонии в мобильном приложении",
+    "speakers": [
+      "Олег Иванов"
+    ],
+    "year": 2022,
+    "categories": [
+      "audio",
+      "networking"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3228,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "6_dOlnPwS0k",
+    "url": "https://www.youtube.com/watch?v=6_dOlnPwS0k",
+    "title": "Доступность — вершина технологий",
+    "speakers": [
+      "Михаил Рубанов"
+    ],
+    "year": 2022,
+    "categories": [
+      "design"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4441,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "92hFCx2moj0",
+    "url": "https://www.youtube.com/watch?v=92hFCx2moj0",
+    "title": "WWDC Pre-party: что ждать?",
+    "year": 2022,
+    "categories": [
+      "wwdc"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 4412,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "A5UgNVXP7RE",
+    "url": "https://www.youtube.com/watch?v=A5UgNVXP7RE",
+    "title": "CI, l10n и две команды разработки: как настроить непрерывную локализацию",
+    "speakers": [
+      "Мария Водолазкая"
+    ],
+    "year": 2022,
+    "categories": [
+      "cicd"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3804,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "CQt1xBOGSHQ",
+    "url": "https://www.youtube.com/watch?v=CQt1xBOGSHQ",
+    "title": "Профилирование Flutter-приложений: невоспетые герои",
+    "speakers": [
+      "Андрей Смирнов"
+    ],
+    "year": 2022,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3768,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "D5urrtpNPV4",
+    "url": "https://www.youtube.com/watch?v=D5urrtpNPV4",
+    "title": "Статический анализатор техдолга",
+    "speakers": [
+      "Вероника Макаровская"
+    ],
+    "year": 2022,
+    "categories": [
+      "lowlevel",
+      "process"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3476,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "EwOT1FbhqfI",
+    "url": "https://www.youtube.com/watch?v=EwOT1FbhqfI",
+    "title": "Есть тема! Внедрение цветовых тем в iOS-приложение",
+    "speakers": [
+      "Никита Раков"
+    ],
+    "year": 2022,
+    "categories": [
+      "ui",
+      "design"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1298,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Exim6CIDmVA",
+    "url": "https://www.youtube.com/watch?v=Exim6CIDmVA",
+    "title": "Взгляд разработчика на качество продукта",
+    "speakers": [
+      "Рустам Кенджаев"
+    ],
+    "year": 2022,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3469,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "H7m-KDySG7E",
+    "url": "https://www.youtube.com/watch?v=H7m-KDySG7E",
+    "title": "Введение в Swift Runtime",
+    "speakers": [
+      "Александр Пахомов"
+    ],
+    "year": 2022,
+    "categories": [
+      "lowlevel",
+      "swift"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 1312,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "HgTzwCKweII",
+    "url": "https://www.youtube.com/watch?v=HgTzwCKweII",
+    "title": "За пределами App Store: возможности разработки в корпоративном секторе",
+    "speakers": [
+      "Денис Кудинов"
+    ],
+    "year": 2022,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3393,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "JEwo5PGp0KU",
+    "url": "https://www.youtube.com/watch?v=JEwo5PGp0KU",
+    "title": "The Mobius Chronicles: куда движется декларативный UI?",
+    "year": 2022,
+    "categories": [
+      "roundtable",
+      "ui"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2395,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "LFDgq0vRr0w",
+    "url": "https://www.youtube.com/watch?v=LFDgq0vRr0w",
+    "title": "Менеджеры зависимостей: собери их всех",
+    "speakers": [
+      "Владислав Фиц"
+    ],
+    "year": 2022,
+    "categories": [
+      "project-structure"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3524,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "MJ7z4kUyO4s",
+    "url": "https://www.youtube.com/watch?v=MJ7z4kUyO4s",
+    "title": "Круглый стол: жизнь со SwiftUI",
+    "year": 2022,
+    "categories": [
+      "roundtable",
+      "swiftui"
+    ],
+    "channel_slug": "podlodka",
+    "channel_title": "Podlodka",
+    "duration": 7202,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "MQ25Q_UGC8c",
+    "url": "https://www.youtube.com/watch?v=MQ25Q_UGC8c",
+    "title": "Декларативный UI: Flutter vs SwiftUI vs Jetpack Compose",
+    "speakers": [
+      "Анатолий Пешков"
+    ],
+    "year": 2022,
+    "categories": [
+      "crossplatform",
+      "swiftui"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3508,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "N8_vFdIqvSs",
+    "url": "https://www.youtube.com/watch?v=N8_vFdIqvSs",
+    "title": "Четыре релиза мобильного приложения в неделю? Да легко!",
+    "speakers": [
+      "Бен Саркисян"
+    ],
+    "year": 2022,
+    "categories": [
+      "cicd"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 1877,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "OD5NkHtVs-E",
+    "url": "https://www.youtube.com/watch?v=OD5NkHtVs-E",
+    "title": "Как построить модульность на SPM с мультирепой и не поседеть",
+    "speakers": [
+      "Ренат Гафаров"
+    ],
+    "year": 2022,
+    "categories": [
+      "project-structure"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3599,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "TxPMEO0Ev6c",
+    "url": "https://www.youtube.com/watch?v=TxPMEO0Ev6c",
+    "title": "Блюр в iOS",
+    "speakers": [
+      "Илья Чикмарёв"
+    ],
+    "year": 2022,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1795,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "VjUzdzwinKc",
+    "url": "https://www.youtube.com/watch?v=VjUzdzwinKc",
+    "title": "Незнание стандартов не освобождает от ответственности: Юникод, Swift, строки",
+    "speakers": [
+      "Глеб Лукьянец"
+    ],
+    "year": 2022,
+    "categories": [
+      "swift"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 1658,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "XmQRWw4IxWc",
+    "url": "https://www.youtube.com/watch?v=XmQRWw4IxWc",
+    "title": "Платформенные команды в мобильной разработке",
+    "speakers": [
+      "Вячеслав Слуцкер"
+    ],
+    "year": 2022,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3315,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Yht8nfPipRM",
+    "url": "https://www.youtube.com/watch?v=Yht8nfPipRM",
+    "title": "Мобильной разработки не будет через 5 лет",
+    "speakers": [
+      "Кирилл Розов"
+    ],
+    "year": 2022,
+    "categories": [
+      "growth"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2656,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "_97j8LDmk3w",
+    "url": "https://www.youtube.com/watch?v=_97j8LDmk3w",
+    "title": "VK Звонки: соединяем тысячи людей с Android и iOS по WebRTC",
+    "speakers": [
+      "Иван Шафран",
+      "Никита Разумный"
+    ],
+    "year": 2022,
+    "categories": [
+      "audio",
+      "networking"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3420,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "_GbPwTlh7B0",
+    "url": "https://www.youtube.com/watch?v=_GbPwTlh7B0",
+    "title": "Independency: сбрасываем оковы CocoaPods",
+    "speakers": [
+      "Тимофей Солонин"
+    ],
+    "year": 2022,
+    "categories": [
+      "project-structure"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3100,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "aKhk-DcFAyk",
+    "url": "https://www.youtube.com/watch?v=aKhk-DcFAyk",
+    "title": "Виджеты: Android vs iOS",
+    "speakers": [
+      "Анна Жаркова"
+    ],
+    "year": 2022,
+    "categories": [
+      "widgets"
+    ],
+    "channel_slug": "techtrain",
+    "channel_title": "TechTrain",
+    "duration": 2722,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "bSWZX3SQVSc",
+    "url": "https://www.youtube.com/watch?v=bSWZX3SQVSc",
+    "title": "Finita la State Machine — MVI в iOS-приложении",
+    "speakers": [
+      "Александр Цыбулько"
+    ],
+    "year": 2022,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2481,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "cZqtKG0enIk",
+    "url": "https://www.youtube.com/watch?v=cZqtKG0enIk",
+    "title": "Инструменты и приёмы для работы с Apple Metal",
+    "speakers": [
+      "Георгий Остроброд"
+    ],
+    "year": 2022,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3727,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "eQaTvCfeBmw",
+    "url": "https://www.youtube.com/watch?v=eQaTvCfeBmw",
+    "title": "Круглый стол: внутренние комьюнити мобильных разработчиков",
+    "year": 2022,
+    "categories": [
+      "roundtable",
+      "process"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3703,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "fOdCtTpg2Ig",
+    "url": "https://www.youtube.com/watch?v=fOdCtTpg2Ig",
+    "title": "Nivelir — новый фреймворк навигации в iOS",
+    "speakers": [
+      "Тимур Шафигуллин"
+    ],
+    "year": 2022,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2571,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "i-G8X7lW8dk",
+    "url": "https://www.youtube.com/watch?v=i-G8X7lW8dk",
+    "title": "Делаем удобное взаимодействие с Kotlin из Swift",
+    "speakers": [
+      "Алексей Михайлов"
+    ],
+    "year": 2022,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3434,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "lh03fF3cG7Q",
+    "url": "https://www.youtube.com/watch?v=lh03fF3cG7Q",
+    "title": "Performance в SwiftUI",
+    "speakers": [
+      "Илья Чикмарёв"
+    ],
+    "year": 2022,
+    "categories": [
+      "swiftui",
+      "lowlevel"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1865,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "pvXmkcOKaMg",
+    "url": "https://www.youtube.com/watch?v=pvXmkcOKaMg",
+    "title": "Ускорение разработки при помощи unit-теста",
+    "speakers": [
+      "Дмитрий Куркин"
+    ],
+    "year": 2022,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3427,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "xopXYqhmfAM",
+    "url": "https://www.youtube.com/watch?v=xopXYqhmfAM",
+    "title": "Не самый удачный проект для KMM",
+    "speakers": [
+      "Георгий Емельянов",
+      "Николай Дмитриев"
+    ],
+    "year": 2022,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3438,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "yHfX-9aYAHQ",
+    "url": "https://www.youtube.com/watch?v=yHfX-9aYAHQ",
+    "title": "Inlinable-оптимизации в Swift",
+    "speakers": [
+      "Максим Гришутин"
+    ],
+    "year": 2022,
+    "categories": [
+      "swift",
+      "lowlevel"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3060,
+    "source": "youtube",
+    "curated": false
+  }
+]

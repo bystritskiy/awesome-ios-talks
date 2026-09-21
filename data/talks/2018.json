@@ -1,0 +1,1210 @@
+[
+  {
+    "video_id": "-C4Pdu8hMEw",
+    "url": "https://www.youtube.com/watch?v=-C4Pdu8hMEw",
+    "title": "Feedback Driven Development",
+    "speakers": [
+      "Илья Царёв"
+    ],
+    "year": 2018,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1519,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "-PvXehXMyVQ",
+    "url": "https://www.youtube.com/watch?v=-PvXehXMyVQ",
+    "title": "Мобильный Virtual Reality: что это такое и как работает",
+    "speakers": [
+      "Алексей Рыбаков"
+    ],
+    "year": 2018,
+    "categories": [
+      "ar"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 4325,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "036qVHFtNxc",
+    "url": "https://www.youtube.com/watch?v=036qVHFtNxc",
+    "title": "Нативные UI тесты, которые работают",
+    "speakers": [
+      "Артём Разинов"
+    ],
+    "year": 2018,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2733,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "2EzwaFZNWpc",
+    "url": "https://www.youtube.com/watch?v=2EzwaFZNWpc",
+    "title": "Как релизить концепты каждую неделю и не сломать проект",
+    "speakers": [
+      "Владислав Дугнист"
+    ],
+    "year": 2018,
+    "categories": [
+      "cicd",
+      "process"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 1723,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "3tnbs1MNGhw",
+    "url": "https://www.youtube.com/watch?v=3tnbs1MNGhw",
+    "title": "Flutter — кроссплатформенный UI-фреймворк",
+    "speakers": [
+      "Звиад Кардава"
+    ],
+    "year": 2018,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 2832,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "6FXoUjYcIOY",
+    "url": "https://www.youtube.com/watch?v=6FXoUjYcIOY",
+    "title": "Удобный и расширяемый роутинг в iOS-приложении",
+    "speakers": [
+      "Тимур Юсипов"
+    ],
+    "year": 2018,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2283,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "6ueQXFIjJCE",
+    "url": "https://www.youtube.com/watch?v=6ueQXFIjJCE",
+    "title": "Разработка кроссплатформенного фреймворка на C++ для мобильных платформ",
+    "speakers": [
+      "Владимир Солдатов"
+    ],
+    "year": 2018,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2413,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "9UvruzExyks",
+    "url": "https://www.youtube.com/watch?v=9UvruzExyks",
+    "title": "Микроинтеракции в iOS",
+    "speakers": [
+      "Антон Сергеев"
+    ],
+    "year": 2018,
+    "categories": [
+      "ui",
+      "design"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2242,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "AEGHefuY4Q0",
+    "url": "https://www.youtube.com/watch?v=AEGHefuY4Q0",
+    "title": "Мессенджер наизнанку, или как сегодня сделать мессенджер в мобильном iOS-приложении",
+    "speakers": [
+      "Максим Соколов"
+    ],
+    "year": 2018,
+    "categories": [
+      "networking"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3124,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "AOK17q87oZs",
+    "url": "https://www.youtube.com/watch?v=AOK17q87oZs",
+    "title": "Использование Audio Unit Extension для генерации и обработки звука",
+    "speakers": [
+      "Виктор Стариков"
+    ],
+    "year": 2018,
+    "categories": [
+      "audio"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1768,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "AhsNj0S-Nfo",
+    "url": "https://www.youtube.com/watch?v=AhsNj0S-Nfo",
+    "title": "Архитектура приложения мобильного оператора",
+    "speakers": [
+      "Кирилл Бессонов"
+    ],
+    "year": 2018,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 2195,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "CPad5l3Z7Ps",
+    "url": "https://www.youtube.com/watch?v=CPad5l3Z7Ps",
+    "title": "Готовим приложение в Playgrounds",
+    "speakers": [
+      "Денис Кириллов",
+      "Константин Юричев"
+    ],
+    "year": 2018,
+    "categories": [
+      "swift"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2908,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "FoNXZTjeylA",
+    "url": "https://www.youtube.com/watch?v=FoNXZTjeylA",
+    "title": "Клевер: как запускали проект",
+    "speakers": [
+      "Кирилл Аверьянов"
+    ],
+    "year": 2018,
+    "categories": [
+      "stories"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1037,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "H9zuIkf9vcc",
+    "url": "https://www.youtube.com/watch?v=H9zuIkf9vcc",
+    "title": "SceneKit на практике",
+    "speakers": [
+      "Вячеслав Гилевич"
+    ],
+    "year": 2018,
+    "categories": [
+      "ar",
+      "ui"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1672,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "HiUG0nT5UJA",
+    "url": "https://www.youtube.com/watch?v=HiUG0nT5UJA",
+    "title": "Анализ производительности мобильных приложений",
+    "speakers": [
+      "Николай Москаленко"
+    ],
+    "year": 2018,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 3288,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Ikc19b2T6eQ",
+    "url": "https://www.youtube.com/watch?v=Ikc19b2T6eQ",
+    "title": "Lazy loading",
+    "speakers": [
+      "Владимир Озеров"
+    ],
+    "year": 2018,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2378,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "J8u-tIt5wo4",
+    "url": "https://www.youtube.com/watch?v=J8u-tIt5wo4",
+    "title": "Правильный MVC",
+    "speakers": [
+      "Михаил Николаев"
+    ],
+    "year": 2018,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1574,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "L_pfeVfe9Lo",
+    "url": "https://www.youtube.com/watch?v=L_pfeVfe9Lo",
+    "title": "Безопасный Objective-C",
+    "speakers": [
+      "Владислав Дугнист"
+    ],
+    "year": 2018,
+    "categories": [
+      "objc",
+      "security"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2173,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "MoV_sTComY4",
+    "url": "https://www.youtube.com/watch?v=MoV_sTComY4",
+    "title": "Современные стандарты iOS разработки",
+    "speakers": [
+      "Никита Майданов"
+    ],
+    "year": 2018,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2064,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "N78jf-ow2Is",
+    "url": "https://www.youtube.com/watch?v=N78jf-ow2Is",
+    "title": "Продукт и разработка, или почему важно быть не только программистом",
+    "speakers": [
+      "Самвел Меджлумян"
+    ],
+    "year": 2018,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1590,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "NmdP3W1X8lI",
+    "url": "https://www.youtube.com/watch?v=NmdP3W1X8lI",
+    "title": "Распределённая сборка IPA",
+    "year": 2018,
+    "categories": [
+      "cicd"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1776,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "PVGP4fUHufg",
+    "url": "https://www.youtube.com/watch?v=PVGP4fUHufg",
+    "title": "Дополненная реальность в Swift",
+    "speakers": [
+      "Вадим Дробинин"
+    ],
+    "year": 2018,
+    "categories": [
+      "ar"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2802,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Po_hzUfsPZ0",
+    "url": "https://www.youtube.com/watch?v=Po_hzUfsPZ0",
+    "title": "Эволюция рекламного инвентаря",
+    "speakers": [
+      "Андрей Мухаметов"
+    ],
+    "year": 2018,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1645,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "SAHIkj1ljVc",
+    "url": "https://www.youtube.com/watch?v=SAHIkj1ljVc",
+    "title": "Ловля сетями: инструменты отладки сетевых запросов",
+    "speakers": [
+      "Дмитрий Рыбаков"
+    ],
+    "year": 2018,
+    "categories": [
+      "networking",
+      "lowlevel"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2097,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "SDsUdAHBiZA",
+    "url": "https://www.youtube.com/watch?v=SDsUdAHBiZA",
+    "title": "Магия UILabel или приватное API Autolayout",
+    "speakers": [
+      "Александр Горемыкин"
+    ],
+    "year": 2018,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2077,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "SNMIeFxEoK0",
+    "url": "https://www.youtube.com/watch?v=SNMIeFxEoK0",
+    "title": "Оптимизация времени запуска iOS-приложений",
+    "speakers": [
+      "Николай Лихогруд"
+    ],
+    "year": 2018,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 3481,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "SoLugraltxQ",
+    "url": "https://www.youtube.com/watch?v=SoLugraltxQ",
+    "title": "Валидация идей",
+    "speakers": [
+      "Никита Майданов"
+    ],
+    "year": 2018,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1805,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "TMjxHMFNpMM",
+    "url": "https://www.youtube.com/watch?v=TMjxHMFNpMM",
+    "title": "Оптимизация размера приложения",
+    "speakers": [
+      "Дмитрий Куркин"
+    ],
+    "year": 2018,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2665,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "U3tJ77i_Hs4",
+    "url": "https://www.youtube.com/watch?v=U3tJ77i_Hs4",
+    "title": "Backend на Swift. Существует и работает!",
+    "speakers": [
+      "Роман Мочалов"
+    ],
+    "year": 2018,
+    "categories": [
+      "swift",
+      "networking"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 3505,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "UtMHv4E7m9A",
+    "url": "https://www.youtube.com/watch?v=UtMHv4E7m9A",
+    "title": "Дополненная реальность в Яндекс Картах",
+    "speakers": [
+      "Дмитрий Тримонов"
+    ],
+    "year": 2018,
+    "categories": [
+      "ar"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2430,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "V3yZRgqm9-8",
+    "url": "https://www.youtube.com/watch?v=V3yZRgqm9-8",
+    "title": "The Legacy Cookbook",
+    "speakers": [
+      "Илья Кулебякин"
+    ],
+    "year": 2018,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 2571,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Vb28IRC8c6o",
+    "url": "https://www.youtube.com/watch?v=Vb28IRC8c6o",
+    "title": "Универсальные ссылки — дворец из подводных камней",
+    "speakers": [
+      "Константин Якушев"
+    ],
+    "year": 2018,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2623,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "W35rA_Q3lys",
+    "url": "https://www.youtube.com/watch?v=W35rA_Q3lys",
+    "title": "Уроки финтеха: основы безопасности мобильного приложения",
+    "speakers": [
+      "Кирилл Зуев",
+      "Артём Логутов"
+    ],
+    "year": 2018,
+    "categories": [
+      "security"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2876,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "YHoCR8gJ0YU",
+    "url": "https://www.youtube.com/watch?v=YHoCR8gJ0YU",
+    "title": "UI-тесты в iOS-проекте",
+    "speakers": [
+      "Михаил Домрачев"
+    ],
+    "year": 2018,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2905,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "ZnZl8Y76dcY",
+    "url": "https://www.youtube.com/watch?v=ZnZl8Y76dcY",
+    "title": "CoreML и его практическое применение",
+    "speakers": [
+      "Кирилл Клебанов"
+    ],
+    "year": 2018,
+    "categories": [
+      "ml"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 2521,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "_4x0oIyFohY",
+    "url": "https://www.youtube.com/watch?v=_4x0oIyFohY",
+    "title": "Как RxFeedback проблему зависимых данных побеждал",
+    "speakers": [
+      "Станислав Сарычев"
+    ],
+    "year": 2018,
+    "categories": [
+      "reactive"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1345,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "_EC38ZzIWPo",
+    "url": "https://www.youtube.com/watch?v=_EC38ZzIWPo",
+    "title": "Многомодульная архитектура проекта",
+    "speakers": [
+      "Евгений Суворов"
+    ],
+    "year": 2018,
+    "categories": [
+      "project-structure",
+      "architecture"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3049,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "_QVJcb0Q4SU",
+    "url": "https://www.youtube.com/watch?v=_QVJcb0Q4SU",
+    "title": "Как перестать тратить время, или What the FAQ",
+    "speakers": [
+      "Максим Смирнов"
+    ],
+    "year": 2018,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1367,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "_d313aAcTAY",
+    "url": "https://www.youtube.com/watch?v=_d313aAcTAY",
+    "title": "Просыпаешься, а твоё приложение на главной в App Store",
+    "speakers": [
+      "Вадим Смирнов"
+    ],
+    "year": 2018,
+    "categories": [
+      "stories",
+      "services"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 3587,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "b2vkCDVGq9I",
+    "url": "https://www.youtube.com/watch?v=b2vkCDVGq9I",
+    "title": "Ужасы мобильной графики",
+    "speakers": [
+      "Филипп Кекс"
+    ],
+    "year": 2018,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 3568,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "c6n2-llqlCw",
+    "url": "https://www.youtube.com/watch?v=c6n2-llqlCw",
+    "title": "Каким должен быть менеджер зависимостей на примере Сбербанк Онлайн iOS",
+    "speakers": [
+      "Илья Лунькин"
+    ],
+    "year": 2018,
+    "categories": [
+      "project-structure"
+    ],
+    "channel_slug": "avitotech",
+    "channel_title": "AvitoTech",
+    "duration": 2293,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "dq3KyfbLalw",
+    "url": "https://www.youtube.com/watch?v=dq3KyfbLalw",
+    "title": "Создание стека Core Data с расширяемой моделью",
+    "speakers": [
+      "Владимир Озеров",
+      "Алексей Ульенков"
+    ],
+    "year": 2018,
+    "categories": [
+      "databases"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1812,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "eNcYdjiLRn0",
+    "url": "https://www.youtube.com/watch?v=eNcYdjiLRn0",
+    "title": "Getting started with LLVM using Swift",
+    "speakers": [
+      "Алексей Денисов"
+    ],
+    "year": 2018,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 1906,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "eehzud6CmD0",
+    "url": "https://www.youtube.com/watch?v=eehzud6CmD0",
+    "title": "«Взрослая жизнь» iOS-разработчика",
+    "speakers": [
+      "Александр Балабан"
+    ],
+    "year": 2018,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2353,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "iGeoeiVoM8g",
+    "url": "https://www.youtube.com/watch?v=iGeoeiVoM8g",
+    "title": "Storyboards & Segues. Проектирование приложений в Interface Builder",
+    "year": 2018,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1924,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "ig45BwueF6E",
+    "url": "https://www.youtube.com/watch?v=ig45BwueF6E",
+    "title": "Как сделать оффлайн-распознавание лиц на мобильном устройстве",
+    "speakers": [
+      "Николай Ашанин"
+    ],
+    "year": 2018,
+    "categories": [
+      "ml"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2191,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "kMBMPK56Lf8",
+    "url": "https://www.youtube.com/watch?v=kMBMPK56Lf8",
+    "title": "Состояние ожидания UI, или как ничего не испортить",
+    "year": 2018,
+    "categories": [
+      "ui",
+      "design"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1322,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "kolL8r7Tz2w",
+    "url": "https://www.youtube.com/watch?v=kolL8r7Tz2w",
+    "title": "Swift Method Dispatch",
+    "speakers": [
+      "Сергей Турсунов"
+    ],
+    "year": 2018,
+    "categories": [
+      "swift"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2462,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "lIGYcEROP4s",
+    "url": "https://www.youtube.com/watch?v=lIGYcEROP4s",
+    "title": "Безопасность соединения",
+    "speakers": [
+      "Александр Емельяненков"
+    ],
+    "year": 2018,
+    "categories": [
+      "security",
+      "networking"
+    ],
+    "channel_slug": "redmadrobot",
+    "channel_title": "Redmadrobot",
+    "duration": 1642,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "lp-fg17Qds4",
+    "url": "https://www.youtube.com/watch?v=lp-fg17Qds4",
+    "title": "Смешные и грустные истории про разработку компьютерных игр",
+    "speakers": [
+      "Вадим Башуров"
+    ],
+    "year": 2018,
+    "categories": [
+      "stories"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 3346,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "m4qduIBNHbw",
+    "url": "https://www.youtube.com/watch?v=m4qduIBNHbw",
+    "title": "Самочувствие malware на iOS-устройствах",
+    "speakers": [
+      "Дмитрий Евдокимов"
+    ],
+    "year": 2018,
+    "categories": [
+      "security"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2422,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "mTV45Qa8ZRI",
+    "url": "https://www.youtube.com/watch?v=mTV45Qa8ZRI",
+    "title": "Давайте проектировать UI правильно",
+    "speakers": [
+      "Александр Зимин"
+    ],
+    "year": 2018,
+    "categories": [
+      "ui",
+      "design"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3001,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "mwKQvRDVjJE",
+    "url": "https://www.youtube.com/watch?v=mwKQvRDVjJE",
+    "title": "Как стать GPU инженером за час",
+    "year": 2018,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 3128,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "nByaBt1MXVI",
+    "url": "https://www.youtube.com/watch?v=nByaBt1MXVI",
+    "title": "Нужны ли бэкендщики в iOS-разработке, когда есть Swift",
+    "speakers": [
+      "Самвел Меджлумян"
+    ],
+    "year": 2018,
+    "categories": [
+      "swift",
+      "networking"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 1600,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "o94X0M5tqAs",
+    "url": "https://www.youtube.com/watch?v=o94X0M5tqAs",
+    "title": "Переход с Objective-C на Swift — всё ли так просто?",
+    "speakers": [
+      "Олег Алексеенко"
+    ],
+    "year": 2018,
+    "categories": [
+      "objc",
+      "swift"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2723,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "p3_2OuRF3yc",
+    "url": "https://www.youtube.com/watch?v=p3_2OuRF3yc",
+    "title": "Кодогенерация в Swift",
+    "year": 2018,
+    "categories": [
+      "swift",
+      "project-structure"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2247,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "pNF-0v95Hts",
+    "url": "https://www.youtube.com/watch?v=pNF-0v95Hts",
+    "title": "Автоматизация тестирования в iOS-проекте на примере ICQ",
+    "speakers": [
+      "Дмитрий Куркин",
+      "Михаил Манаев"
+    ],
+    "year": 2018,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 3321,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "qrGBDhMiWzc",
+    "url": "https://www.youtube.com/watch?v=qrGBDhMiWzc",
+    "title": "Аналитика мобильного проекта: проверяй и доверяй",
+    "speakers": [
+      "Александр Лукин"
+    ],
+    "year": 2018,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 1872,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "r3rUedCbe7Q",
+    "url": "https://www.youtube.com/watch?v=r3rUedCbe7Q",
+    "title": "Релизы мобильных приложений в Avito",
+    "speakers": [
+      "Алексей Шпирко"
+    ],
+    "year": 2018,
+    "categories": [
+      "cicd"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3045,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "ryJj3wo1CF8",
+    "url": "https://www.youtube.com/watch?v=ryJj3wo1CF8",
+    "title": "Выступайте",
+    "speakers": [
+      "Егор Толстой"
+    ],
+    "year": 2018,
+    "categories": [
+      "growth"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2231,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "sj-1Nemfhv0",
+    "url": "https://www.youtube.com/watch?v=sj-1Nemfhv0",
+    "title": "Пишем под iOS на Flutter – Геннадий Денисов",
+    "speakers": [
+      "Геннадий Денисов"
+    ],
+    "year": 2018,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1544,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "sl4aMeyqEmc",
+    "url": "https://www.youtube.com/watch?v=sl4aMeyqEmc",
+    "title": "Ещё раз про Objective-C++, или как перестать бояться и полюбить C++",
+    "speakers": [
+      "Владислав Михайленко"
+    ],
+    "year": 2018,
+    "categories": [
+      "objc"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2912,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "tnKeUr5tRUg",
+    "url": "https://www.youtube.com/watch?v=tnKeUr5tRUg",
+    "title": "Data-driven UI: безграничная власть",
+    "speakers": [
+      "Алексей Демедецкий"
+    ],
+    "year": 2018,
+    "categories": [
+      "ui",
+      "architecture"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2982,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "vOvWlbATLPo",
+    "url": "https://www.youtube.com/watch?v=vOvWlbATLPo",
+    "title": "Реализация дизайн-системы на iOS",
+    "speakers": [
+      "Евгений Киреев"
+    ],
+    "year": 2018,
+    "categories": [
+      "design"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2218,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "wHdufRVBeDI",
+    "url": "https://www.youtube.com/watch?v=wHdufRVBeDI",
+    "title": "Как внедрить Siri в приложение и помочь Apple сделать её полезнее",
+    "speakers": [
+      "Михаил Николаев"
+    ],
+    "year": 2018,
+    "categories": [
+      "siri"
+    ],
+    "channel_slug": "redmadrobot",
+    "channel_title": "Redmadrobot",
+    "duration": 1490,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "x275AHDJDKM",
+    "url": "https://www.youtube.com/watch?v=x275AHDJDKM",
+    "title": "ApplicationCoordinator для навигации между экранами",
+    "speakers": [
+      "Павел Гуров"
+    ],
+    "year": 2018,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2824,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "xJG1MhrXeuM",
+    "url": "https://www.youtube.com/watch?v=xJG1MhrXeuM",
+    "title": "Чистая архитектура с VIPER",
+    "speakers": [
+      "Сергей Крапивенский"
+    ],
+    "year": 2018,
+    "categories": [
+      "architecture"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)"
+  },
+  {
+    "video_id": "xwcpuC5HvG8",
+    "url": "https://www.youtube.com/watch?v=xwcpuC5HvG8",
+    "title": "Продуктовый подход к саморазвитию",
+    "speakers": [
+      "Александр Зимин"
+    ],
+    "year": 2018,
+    "categories": [
+      "growth"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1401,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "yBXLUX4vYrY",
+    "url": "https://www.youtube.com/watch?v=yBXLUX4vYrY",
+    "title": "Типографика в iOS",
+    "speakers": [
+      "Ирина Дягилева"
+    ],
+    "year": 2018,
+    "categories": [
+      "ui",
+      "design"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 1867,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "yEtMS4Gokcc",
+    "url": "https://www.youtube.com/watch?v=yEtMS4Gokcc",
+    "title": "Синее смещение: оптимизация запуска на платформе iOS",
+    "year": 2018,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1752,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "yb_GKNYSfcw",
+    "url": "https://www.youtube.com/watch?v=yb_GKNYSfcw",
+    "title": "Texture",
+    "speakers": [
+      "Виктор Даньшин"
+    ],
+    "year": 2018,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1658,
+    "source": "youtube",
+    "curated": false
+  }
+]

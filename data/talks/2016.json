@@ -1,0 +1,574 @@
+[
+  {
+    "video_id": "1eiVirDvGEY",
+    "url": "https://www.youtube.com/watch?v=1eiVirDvGEY",
+    "title": "Определение качества сетевого соединения в iOS-почте",
+    "speakers": [
+      "Даниил Румянцев"
+    ],
+    "year": 2016,
+    "categories": [
+      "networking"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1501,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "2tZAz3SxIQ4",
+    "url": "https://www.youtube.com/watch?v=2tZAz3SxIQ4",
+    "title": "CI: автоматизация и технологизация процессов разработки и тестирования",
+    "speakers": [
+      "Денис Кудинов"
+    ],
+    "year": 2016,
+    "categories": [
+      "cicd"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "3XGYe4mM5lI",
+    "url": "https://www.youtube.com/watch?v=3XGYe4mM5lI",
+    "title": "Заботимся правильно: CareKit, HealthKit и ResearchKit",
+    "speakers": [
+      "Вадим Дробинин"
+    ],
+    "year": 2016,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2118,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "3jlG-SqV78E",
+    "url": "https://www.youtube.com/watch?v=3jlG-SqV78E",
+    "title": "Onboarding в мобильном приложении",
+    "speakers": [
+      "Александр Зимин"
+    ],
+    "year": 2016,
+    "categories": [
+      "design"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1142,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "6QjhzqWuzPo",
+    "url": "https://www.youtube.com/watch?v=6QjhzqWuzPo",
+    "title": "Прикладная мультипарадигменная разработка на Swift",
+    "speakers": [
+      "Евгений Можаровский"
+    ],
+    "year": 2016,
+    "categories": [
+      "swift"
+    ],
+    "channel_slug": "avitotech",
+    "channel_title": "AvitoTech",
+    "duration": 1869,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "6hVvstMEjoY",
+    "url": "https://www.youtube.com/watch?v=6hVvstMEjoY",
+    "title": "Реактивный MVVM",
+    "speakers": [
+      "Евгений Ртищев"
+    ],
+    "year": 2016,
+    "categories": [
+      "architecture"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "link_verified": true,
+    "channel_slug": "mobius",
+    "channel_title": "Mobius"
+  },
+  {
+    "video_id": "8OuGLz4HzB0",
+    "url": "https://www.youtube.com/watch?v=8OuGLz4HzB0",
+    "title": "Фриланс в сфере мобильных приложений: с чего начинать",
+    "speakers": [
+      "Вадим Дробинин"
+    ],
+    "year": 2016,
+    "categories": [
+      "growth"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2426,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "8nuANdNzzHg",
+    "url": "https://www.youtube.com/watch?v=8nuANdNzzHg",
+    "title": "Дискуссия в Яндексе: процессы и подходы к разработке iOS-приложений",
+    "year": 2016,
+    "categories": [
+      "roundtable",
+      "process"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 3509,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "AFLQCta5OKw",
+    "url": "https://www.youtube.com/watch?v=AFLQCta5OKw",
+    "title": "Мобильные хакатоны",
+    "speakers": [
+      "Александр Зимин"
+    ],
+    "year": 2016,
+    "categories": [
+      "growth"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1709,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "AWsVMtKz2Tg",
+    "url": "https://www.youtube.com/watch?v=AWsVMtKz2Tg",
+    "title": "Пишем свой плагин для Xcode",
+    "speakers": [
+      "Руслан Джафаров"
+    ],
+    "year": 2016,
+    "categories": [
+      "lowlevel"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "DXi9nHfTDQ4",
+    "url": "https://www.youtube.com/watch?v=DXi9nHfTDQ4",
+    "title": "Использование SpriteKit в неигровых приложениях",
+    "speakers": [
+      "Макс Грибов"
+    ],
+    "year": 2016,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2089,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "KIhKfRWM4rk",
+    "url": "https://www.youtube.com/watch?v=KIhKfRWM4rk",
+    "title": "Модульный подход к разработке приложений",
+    "speakers": [
+      "Андрей Зарембо"
+    ],
+    "year": 2016,
+    "categories": [
+      "project-structure"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1513,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Mq37G94kT5s",
+    "url": "https://www.youtube.com/watch?v=Mq37G94kT5s",
+    "title": "Решения и подходы, которые помогли нам сделать Яндекс.Браузер красивым",
+    "speakers": [
+      "Михаил Кольцов"
+    ],
+    "year": 2016,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1647,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "R6W3oytTw7U",
+    "url": "https://www.youtube.com/watch?v=R6W3oytTw7U",
+    "title": "Advanced Swift Generics — перейдём на T",
+    "speakers": [
+      "Максим Соколов"
+    ],
+    "year": 2016,
+    "categories": [
+      "swift"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2821,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Ti0PlN2b_ks",
+    "url": "https://www.youtube.com/watch?v=Ti0PlN2b_ks",
+    "title": "iMessage Apps: от стикеров до банковских приложений за 30 минут",
+    "speakers": [
+      "Вадим Дробинин"
+    ],
+    "year": 2016,
+    "categories": [
+      "widgets"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2519,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "V9xn63Y0cq8",
+    "url": "https://www.youtube.com/watch?v=V9xn63Y0cq8",
+    "title": "Измеряем потребление тока на iPhone… и везде",
+    "speakers": [
+      "Алексей Лавренюк"
+    ],
+    "year": 2016,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "avitotech",
+    "channel_title": "AvitoTech",
+    "duration": 823,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "WtlpRiN0_Uk",
+    "url": "https://www.youtube.com/watch?v=WtlpRiN0_Uk",
+    "title": "Оптимизация разработки",
+    "speakers": [
+      "Александр Зимин"
+    ],
+    "year": 2016,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2076,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "XH667U8uzuE",
+    "url": "https://www.youtube.com/watch?v=XH667U8uzuE",
+    "title": "Паттерн Schedulable Architecture как способ выделения бизнес-логики в отдельный поток",
+    "speakers": [
+      "Павел Осипов"
+    ],
+    "year": 2016,
+    "categories": [
+      "architecture",
+      "concurrency"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2622,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "ZwF3Y9ZZZ7U",
+    "url": "https://www.youtube.com/watch?v=ZwF3Y9ZZZ7U",
+    "title": "Как общаться и договариваться с заказчиками о проектной работе",
+    "speakers": [
+      "Валентин Шамардин"
+    ],
+    "year": 2016,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2333,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "c8NUE5lB8x8",
+    "url": "https://www.youtube.com/watch?v=c8NUE5lB8x8",
+    "title": "Promises, или почему обещания надо выполнять",
+    "speakers": [
+      "Михаил Рахманов"
+    ],
+    "year": 2016,
+    "categories": [
+      "concurrency"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2110,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "dRFOTMyVokg",
+    "url": "https://www.youtube.com/watch?v=dRFOTMyVokg",
+    "title": "Опыт разработки Cardboard-приложения для 3D-реконструкции медицинских данных",
+    "speakers": [
+      "Александр Коршак"
+    ],
+    "year": 2016,
+    "categories": [
+      "ar"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2242,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "gNsBnG6g7Ws",
+    "url": "https://www.youtube.com/watch?v=gNsBnG6g7Ws",
+    "title": "Typhoon Explained",
+    "speakers": [
+      "Егор Толстой"
+    ],
+    "year": 2016,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 1597,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "kyOm_dC038s",
+    "url": "https://www.youtube.com/watch?v=kyOm_dC038s",
+    "title": "Marshroute: удобный и расширяемый роутинг в iOS-приложении",
+    "speakers": [
+      "Тимур Юсипов"
+    ],
+    "year": 2016,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "avitotech",
+    "channel_title": "AvitoTech",
+    "duration": 2014,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "lS1ZeNvTz8o",
+    "url": "https://www.youtube.com/watch?v=lS1ZeNvTz8o",
+    "title": "Поиск в iOS 9",
+    "speakers": [
+      "Давид Лашхи"
+    ],
+    "year": 2016,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1498,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "mz-XLkUTMkE",
+    "url": "https://www.youtube.com/watch?v=mz-XLkUTMkE",
+    "title": "Управление логикой переходов между экранами с помощью координаторов",
+    "speakers": [
+      "Андрей Панов"
+    ],
+    "year": 2016,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1618,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "n45BnT3P1L8",
+    "url": "https://www.youtube.com/watch?v=n45BnT3P1L8",
+    "title": "MVVM в Swift",
+    "speakers": [
+      "Александр Зимин"
+    ],
+    "year": 2016,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2500,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "nRaQvWMqH-s",
+    "url": "https://www.youtube.com/watch?v=nRaQvWMqH-s",
+    "title": "UI/UX глазами разработчика",
+    "speakers": [
+      "Вадим Дробинин"
+    ],
+    "year": 2016,
+    "categories": [
+      "design"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 964,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "njtw5R5EYok",
+    "url": "https://www.youtube.com/watch?v=njtw5R5EYok",
+    "title": "Flight to a 1,000,000 users (App In The Air)",
+    "speakers": [
+      "Никита Кошолкин",
+      "Сергей Пронин"
+    ],
+    "year": 2016,
+    "categories": [
+      "stories"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2317,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "ptjyKlMy2gk",
+    "url": "https://www.youtube.com/watch?v=ptjyKlMy2gk",
+    "title": "Оптимизация работы с UITableView для достижения плавной прокрутки в сложных условиях",
+    "year": 2016,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1367,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "rc0jG-rKcek",
+    "url": "https://www.youtube.com/watch?v=rc0jG-rKcek",
+    "title": "Как обойтись без менеджера в своем проекте",
+    "speakers": [
+      "Алина Михайлова"
+    ],
+    "year": 2016,
+    "categories": [
+      "process"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "sOznw27uHik",
+    "url": "https://www.youtube.com/watch?v=sOznw27uHik",
+    "title": "Альтернативная монетизация: краудфандинг",
+    "speakers": [
+      "Игорь Каменев"
+    ],
+    "year": 2016,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1781,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "t3unc-im16o",
+    "url": "https://www.youtube.com/watch?v=t3unc-im16o",
+    "title": "UIViewController, откройся!",
+    "speakers": [
+      "Александр Зимин"
+    ],
+    "year": 2016,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2387,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "xEnTTn6cYMQ",
+    "url": "https://www.youtube.com/watch?v=xEnTTn6cYMQ",
+    "title": "Работа с крэшами библиотек",
+    "speakers": [
+      "Николай Волосатов"
+    ],
+    "year": 2016,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2517,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "yDPnSGsNk10",
+    "url": "https://www.youtube.com/watch?v=yDPnSGsNk10",
+    "title": "Пизанская башня мобильной разработки",
+    "speakers": [
+      "Игорь Кашкута"
+    ],
+    "year": 2016,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2505,
+    "source": "youtube",
+    "curated": false
+  }
+]

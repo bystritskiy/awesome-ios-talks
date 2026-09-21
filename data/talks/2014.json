@@ -1,0 +1,253 @@
+[
+  {
+    "video_id": "-kTTmHGIzqU",
+    "url": "https://www.youtube.com/watch?v=-kTTmHGIzqU",
+    "title": "Objective-C Runtime в примерах",
+    "speakers": [
+      "Алексей Сторожев"
+    ],
+    "year": 2014,
+    "categories": [
+      "objc"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1457,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "2GUm8DnZccQ",
+    "url": "https://www.youtube.com/watch?v=2GUm8DnZccQ",
+    "title": "CocoaHeads Moscow 31.10.14",
+    "speakers": [
+      "Егор Тафланиди",
+      "Константин Забелин",
+      "Александр Зимин"
+    ],
+    "year": 2014,
+    "categories": [
+      "uncategorized"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "40sOXNxjE4s",
+    "url": "https://www.youtube.com/watch?v=40sOXNxjE4s",
+    "title": "Core Data: особенности использования и синхронизация в iCloud",
+    "speakers": [
+      "Руслан Шевчук"
+    ],
+    "year": 2014,
+    "categories": [
+      "databases"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1623,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "9W9t10GIq2A",
+    "url": "https://www.youtube.com/watch?v=9W9t10GIq2A",
+    "title": "Опыт использования MVVM в реальных проектах",
+    "year": 2014,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1737,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "DgdISd1Qc48",
+    "url": "https://www.youtube.com/watch?v=DgdISd1Qc48",
+    "title": "Reactive Cocoa",
+    "speakers": [
+      "Дмитрий Обухов"
+    ],
+    "year": 2014,
+    "categories": [
+      "reactive"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "link_verified": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "QfEHnSiYsg4",
+    "url": "https://www.youtube.com/watch?v=QfEHnSiYsg4",
+    "title": "iOS Development Gems in AppCode",
+    "speakers": [
+      "Алексей Ушаков"
+    ],
+    "year": 2014,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1856,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "RQJJqqxGoIg",
+    "url": "https://www.youtube.com/watch?v=RQJJqqxGoIg",
+    "title": "Личная эффективность при разработке iOS приложений",
+    "speakers": [
+      "Олег Овечкин"
+    ],
+    "year": 2014,
+    "categories": [
+      "growth"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "SM9yicRXq_c",
+    "url": "https://www.youtube.com/watch?v=SM9yicRXq_c",
+    "title": "Отправка писем в OS X",
+    "speakers": [
+      "Александр Чёрный"
+    ],
+    "year": 2014,
+    "categories": [
+      "catalyst"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1241,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Yyyv5ddB0RE",
+    "url": "https://www.youtube.com/watch?v=Yyyv5ddB0RE",
+    "title": "ReactiveCocoa и MVVM",
+    "speakers": [
+      "Николай Касьянов"
+    ],
+    "year": 2014,
+    "categories": [
+      "reactive",
+      "architecture"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 2083,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "_RV-nMu9Wog",
+    "url": "https://www.youtube.com/watch?v=_RV-nMu9Wog",
+    "title": "Трилатерация с помощью iBeacon",
+    "speakers": [
+      "Александр Чёрный"
+    ],
+    "year": 2014,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 2300,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "buvqNADP8Gc",
+    "url": "https://www.youtube.com/watch?v=buvqNADP8Gc",
+    "title": "Практический пример переиспользования кода",
+    "year": 2014,
+    "categories": [
+      "project-structure"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1421,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "dYSaVWqDmZE",
+    "url": "https://www.youtube.com/watch?v=dYSaVWqDmZE",
+    "title": "Перегрузка операторов в Swift, Today Extension",
+    "speakers": [
+      "Александр Зимин"
+    ],
+    "year": 2014,
+    "categories": [
+      "swift",
+      "widgets"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2892,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "eJeWmfE57kg",
+    "url": "https://www.youtube.com/watch?v=eJeWmfE57kg",
+    "title": "Отладка приложений с помощью dtrace",
+    "speakers": [
+      "Станислав Краснояров"
+    ],
+    "year": 2014,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1563,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "h9Zpxucvtyg",
+    "url": "https://www.youtube.com/watch?v=h9Zpxucvtyg",
+    "title": "Безопасность iOS-устройств",
+    "speakers": [
+      "Андрей Беленко"
+    ],
+    "year": 2014,
+    "categories": [
+      "security"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 2578,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "nJiPM9OeCAU",
+    "url": "https://www.youtube.com/watch?v=nJiPM9OeCAU",
+    "title": "CocoaHeads Moscow 05.11.14",
+    "speakers": [
+      "Александр Чёрный",
+      "Александр Зимин"
+    ],
+    "year": 2014,
+    "categories": [
+      "uncategorized"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  }
+]

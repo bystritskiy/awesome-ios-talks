@@ -1,0 +1,1397 @@
+[
+  {
+    "video_id": "-JBBlB0uTsU",
+    "url": "https://www.youtube.com/watch?v=-JBBlB0uTsU",
+    "title": "Блеск и нищета key-value-базы данных LMDB в мобильной разработке",
+    "speakers": [
+      "Павел Осипов"
+    ],
+    "year": 2020,
+    "categories": [
+      "databases"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 3411,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "-h1ovoxf12c",
+    "url": "https://www.youtube.com/watch?v=-h1ovoxf12c",
+    "title": "Круглый стол: есть ли жизнь без Auto Layout",
+    "year": 2020,
+    "categories": [
+      "roundtable",
+      "ui"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 1669,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "0-unqIBCimU",
+    "url": "https://www.youtube.com/watch?v=0-unqIBCimU",
+    "title": "Lost in Translation",
+    "speakers": [
+      "Илья Лунькин"
+    ],
+    "year": 2020,
+    "categories": [
+      "project-structure"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3497,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "025Ar18iXp8",
+    "url": "https://www.youtube.com/watch?v=025Ar18iXp8",
+    "title": "Зачем разработчику преподавание?",
+    "speakers": [
+      "Екатерина Батеева"
+    ],
+    "year": 2020,
+    "categories": [
+      "growth"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2798,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "0uN2e5krEWM",
+    "url": "https://www.youtube.com/watch?v=0uN2e5krEWM",
+    "title": "Оптимизация работы приложения на медленной сети",
+    "speakers": [
+      "Анастасия Свириденко"
+    ],
+    "year": 2020,
+    "categories": [
+      "networking"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4443,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "1GsTLfAMa_w",
+    "url": "https://www.youtube.com/watch?v=1GsTLfAMa_w",
+    "title": "WWDC 2020: Что смотреть?",
+    "speakers": [
+      "Никита Майданов"
+    ],
+    "year": 2020,
+    "categories": [
+      "wwdc"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1509,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "1uDwOHL5bz4",
+    "url": "https://www.youtube.com/watch?v=1uDwOHL5bz4",
+    "title": "От идеи до макета в iOS за 60 минут",
+    "speakers": [
+      "Александр Катин",
+      "Денис Оздемир"
+    ],
+    "year": 2020,
+    "categories": [
+      "design"
+    ],
+    "channel_slug": "podlodka",
+    "channel_title": "Podlodka",
+    "duration": 6101,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "4hxNLaasBfI",
+    "url": "https://www.youtube.com/watch?v=4hxNLaasBfI",
+    "title": "One ring to rule them all: лучшие практики RxSwift",
+    "speakers": [
+      "Антон Назаров"
+    ],
+    "year": 2020,
+    "categories": [
+      "reactive"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2059,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "5uEuD96e7RU",
+    "url": "https://www.youtube.com/watch?v=5uEuD96e7RU",
+    "title": "Мобильная ферма 101",
+    "speakers": [
+      "Антон Малинский"
+    ],
+    "year": 2020,
+    "categories": [
+      "tests",
+      "cicd"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2752,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "6ZRfmU6Rf1g",
+    "url": "https://www.youtube.com/watch?v=6ZRfmU6Rf1g",
+    "title": "Как pet-проекты поднимают уровень и доход мобильного разработчика",
+    "speakers": [
+      "Вячеслав Слуцкер"
+    ],
+    "year": 2020,
+    "categories": [
+      "growth"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2993,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "6aShGOalAvU",
+    "url": "https://www.youtube.com/watch?v=6aShGOalAvU",
+    "title": "Flutter. Графика: от сложного к простому",
+    "speakers": [
+      "Андрей Смирнов"
+    ],
+    "year": 2020,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2934,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "6jDuPDlSzW4",
+    "url": "https://www.youtube.com/watch?v=6jDuPDlSzW4",
+    "title": "Круглый стол: проблемы подписок в мобильных приложениях",
+    "year": 2020,
+    "categories": [
+      "roundtable",
+      "services"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 3482,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "71tqrHkfw7A",
+    "url": "https://www.youtube.com/watch?v=71tqrHkfw7A",
+    "title": "Встреча CocoaHeads WWDC Club 20: Widgets, App Clips, UIKit, IaP, Privacy",
+    "year": 2020,
+    "categories": [
+      "wwdc"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 8152,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "7GGzqab48aM",
+    "url": "https://www.youtube.com/watch?v=7GGzqab48aM",
+    "title": "Круглый стол: удалёнка 2020, что же с нами стало?",
+    "year": 2020,
+    "categories": [
+      "roundtable",
+      "process"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4332,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "7O-IUpKsSYM",
+    "url": "https://www.youtube.com/watch?v=7O-IUpKsSYM",
+    "title": "Привет, Siri, добро пожаловать в Яндекс.Музыку!",
+    "speakers": [
+      "Иван Шевелев"
+    ],
+    "year": 2020,
+    "categories": [
+      "siri"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "7UE18EB0w04",
+    "url": "https://www.youtube.com/watch?v=7UE18EB0w04",
+    "title": "Как мы сделали виджеты для Welps",
+    "speakers": [
+      "Илья Чикмарёв"
+    ],
+    "year": 2020,
+    "categories": [
+      "widgets"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1370,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "8ftJ40TTvxQ",
+    "url": "https://www.youtube.com/watch?v=8ftJ40TTvxQ",
+    "title": "Unidirectional Data Flow c использованием состояний",
+    "speakers": [
+      "Дмитрий Игнатьев"
+    ],
+    "year": 2020,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2945,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "8r_1l6IOi3o",
+    "url": "https://www.youtube.com/watch?v=8r_1l6IOi3o",
+    "title": "Встреча CocoaHeads WWDC Club 20: SwiftUI",
+    "year": 2020,
+    "categories": [
+      "wwdc",
+      "swiftui"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 7263,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "9RfkX7Uf6hg",
+    "url": "https://www.youtube.com/watch?v=9RfkX7Uf6hg",
+    "title": "Кровь, пот и подписки",
+    "speakers": [
+      "Егор Петров",
+      "Алексей Андреев"
+    ],
+    "year": 2020,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2477,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "A7cjJJ70bvg",
+    "url": "https://www.youtube.com/watch?v=A7cjJJ70bvg",
+    "title": "gRPC в iOS-приложениях. REST in peace?",
+    "speakers": [
+      "Святослав Карасев"
+    ],
+    "year": 2020,
+    "categories": [
+      "networking"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4276,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "BApbUGI6eR8",
+    "url": "https://www.youtube.com/watch?v=BApbUGI6eR8",
+    "title": "Чем разработка под Apple TV отличается от разработки под iOS",
+    "speakers": [
+      "Алексей Сухов"
+    ],
+    "year": 2020,
+    "categories": [
+      "catalyst"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4329,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "DCsZWPMHv6s",
+    "url": "https://www.youtube.com/watch?v=DCsZWPMHv6s",
+    "title": "Мобильный поиск",
+    "speakers": [
+      "Владислав Фиц"
+    ],
+    "year": 2020,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4359,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "DHyKWd_8CEs",
+    "url": "https://www.youtube.com/watch?v=DHyKWd_8CEs",
+    "title": "Лайфхаки в работе с техподдержкой Google Play Store и App Store Connect",
+    "speakers": [
+      "Марина Плешкова"
+    ],
+    "year": 2020,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3009,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "DzOknH3o2aE",
+    "url": "https://www.youtube.com/watch?v=DzOknH3o2aE",
+    "title": "Очередная революция от Apple: SwiftUI, Combine и Catalyst",
+    "speakers": [
+      "Андрей Чевозеров"
+    ],
+    "year": 2020,
+    "categories": [
+      "swiftui",
+      "reactive",
+      "catalyst"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2835,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "E7W9nTzcmNs",
+    "url": "https://www.youtube.com/watch?v=E7W9nTzcmNs",
+    "title": "Механика скролла UIScrollView",
+    "speakers": [
+      "Илья Лобанов"
+    ],
+    "year": 2020,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3080,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "E9w1cZKoVHY",
+    "url": "https://www.youtube.com/watch?v=E9w1cZKoVHY",
+    "title": "Unidirectional Data Flow",
+    "speakers": [
+      "Антон Гончаров"
+    ],
+    "year": 2020,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1633,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Ei89_7Dtk8s",
+    "url": "https://www.youtube.com/watch?v=Ei89_7Dtk8s",
+    "title": "Flutter: опыт в продакшн-разработке",
+    "speakers": [
+      "Артём Зайцев"
+    ],
+    "year": 2020,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2829,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Fdov-eMpUSA",
+    "url": "https://www.youtube.com/watch?v=Fdov-eMpUSA",
+    "title": "iOS CI in da House",
+    "speakers": [
+      "Владислав Алексеев"
+    ],
+    "year": 2020,
+    "categories": [
+      "cicd"
+    ],
+    "channel_slug": "avitotech",
+    "channel_title": "AvitoTech",
+    "duration": 2311,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "GVXyrLB1tbk",
+    "url": "https://www.youtube.com/watch?v=GVXyrLB1tbk",
+    "title": "Устройство многопоточности в iOS",
+    "speakers": [
+      "Александр Андрюхин"
+    ],
+    "year": 2020,
+    "categories": [
+      "concurrency"
+    ],
+    "channel_slug": "podlodka",
+    "channel_title": "Podlodka",
+    "duration": 4500,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "H2-bbP_lFrs",
+    "url": "https://www.youtube.com/watch?v=H2-bbP_lFrs",
+    "title": "Изоляция инфраструктуры E2E-тестов",
+    "speakers": [
+      "Борис Бенгус"
+    ],
+    "year": 2020,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3162,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "HhpMewf5Ldk",
+    "url": "https://www.youtube.com/watch?v=HhpMewf5Ldk",
+    "title": "Мифы iOS-разработки",
+    "speakers": [
+      "Александр Сычев"
+    ],
+    "year": 2020,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2587,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "I1yN4IbtEf4",
+    "url": "https://www.youtube.com/watch?v=I1yN4IbtEf4",
+    "title": "Кросс-платформенная дизайн-система ivi: адаптивный лэйаут на сетках",
+    "speakers": [
+      "Евгений Киреев"
+    ],
+    "year": 2020,
+    "categories": [
+      "design"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 3270,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "IHQFpSnqi44",
+    "url": "https://www.youtube.com/watch?v=IHQFpSnqi44",
+    "title": "Круглый стол: карьера разработчика",
+    "year": 2020,
+    "categories": [
+      "roundtable",
+      "growth"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 7641,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Ix4QJOnjHWo",
+    "url": "https://www.youtube.com/watch?v=Ix4QJOnjHWo",
+    "title": "Встреча CocoaHeads WWDC Club 20: Swift 5.3, Xcode 12",
+    "year": 2020,
+    "categories": [
+      "wwdc",
+      "swift"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 8052,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "LP19gN01Buk",
+    "url": "https://www.youtube.com/watch?v=LP19gN01Buk",
+    "title": "Accessibility в iOS: невидимая сторона вашего приложения",
+    "speakers": [
+      "Антон Силюк"
+    ],
+    "year": 2020,
+    "categories": [
+      "design"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2661,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Lz-TEsmQx2I",
+    "url": "https://www.youtube.com/watch?v=Lz-TEsmQx2I",
+    "title": "Безвыходное приложение, или как писать программы для киосков",
+    "speakers": [
+      "Олег Годовых"
+    ],
+    "year": 2020,
+    "categories": [
+      "stories"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 3072,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "MODAgb9MO_U",
+    "url": "https://www.youtube.com/watch?v=MODAgb9MO_U",
+    "title": "Как реализовать тёмную тему за неделю",
+    "speakers": [
+      "Владислав Шипугин"
+    ],
+    "year": 2020,
+    "categories": [
+      "ui",
+      "design"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2532,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "NSR2psqFz9k",
+    "url": "https://www.youtube.com/watch?v=NSR2psqFz9k",
+    "title": "Как сделать E2E UI-тесты iOS-приложения зелёными, много и на PR",
+    "speakers": [
+      "Артём Разинов"
+    ],
+    "year": 2020,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2898,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "NbygMTsP1Ow",
+    "url": "https://www.youtube.com/watch?v=NbygMTsP1Ow",
+    "title": "Тёмные уголки iOS Auto Renewable Subscriptions",
+    "speakers": [
+      "Денис Кириллов"
+    ],
+    "year": 2020,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2965,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "O1XeTHb-Tvw",
+    "url": "https://www.youtube.com/watch?v=O1XeTHb-Tvw",
+    "title": "Оптимизация под Spotlight",
+    "speakers": [
+      "Иван Трофимов"
+    ],
+    "year": 2020,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1576,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "OmMtYdJNoAs",
+    "url": "https://www.youtube.com/watch?v=OmMtYdJNoAs",
+    "title": "GDG Live: декларативный UI сегодня",
+    "year": 2020,
+    "categories": [
+      "roundtable",
+      "ui"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4326,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Q5eImyCQF74",
+    "url": "https://www.youtube.com/watch?v=Q5eImyCQF74",
+    "title": "Разработка библиотеки для мобильных приложений",
+    "speakers": [
+      "Ольга Шкряба"
+    ],
+    "year": 2020,
+    "categories": [
+      "project-structure"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4180,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "QD2cA1aORH8",
+    "url": "https://www.youtube.com/watch?v=QD2cA1aORH8",
+    "title": "Разработка производительного чата",
+    "speakers": [
+      "Антон Щукин"
+    ],
+    "year": 2020,
+    "categories": [
+      "ui",
+      "lowlevel"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3416,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "QJKYyWdTwxg",
+    "url": "https://www.youtube.com/watch?v=QJKYyWdTwxg",
+    "title": "Gamedev state of mind",
+    "speakers": [
+      "Андрей Володин"
+    ],
+    "year": 2020,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2895,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "RTqm7q3NfiE",
+    "url": "https://www.youtube.com/watch?v=RTqm7q3NfiE",
+    "title": "ABI Stability наносит ответный удар",
+    "speakers": [
+      "Владислав Усачёв"
+    ],
+    "year": 2020,
+    "categories": [
+      "swift",
+      "project-structure"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2506,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "RtLUAz9UQnY",
+    "url": "https://www.youtube.com/watch?v=RtLUAz9UQnY",
+    "title": "Как завоёвывать друзей и оказывать влияние на людей в мобильных интерфейсах",
+    "speakers": [
+      "Виталий Фридман"
+    ],
+    "year": 2020,
+    "categories": [
+      "design"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3594,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "SVCMbPIuy8w",
+    "url": "https://www.youtube.com/watch?v=SVCMbPIuy8w",
+    "title": "Когда почта доставляет: боремся с потерями push-уведомлений в iOS",
+    "speakers": [
+      "Анастасия Свириденко"
+    ],
+    "year": 2020,
+    "categories": [
+      "widgets"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2859,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "TskbBnHrnFE",
+    "url": "https://www.youtube.com/watch?v=TskbBnHrnFE",
+    "title": "Первые шаги в offline first с Core Data и Managed Documents",
+    "speakers": [
+      "Валентин Чернов"
+    ],
+    "year": 2020,
+    "categories": [
+      "databases"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2176,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "ULK4IvUQlo8",
+    "url": "https://www.youtube.com/watch?v=ULK4IvUQlo8",
+    "title": "Error Handling and Recovery",
+    "speakers": [
+      "Андрей Ильский"
+    ],
+    "year": 2020,
+    "categories": [
+      "swift"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2786,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "VYTDvmxbwRk",
+    "url": "https://www.youtube.com/watch?v=VYTDvmxbwRk",
+    "title": "Не переставайте развиваться",
+    "speakers": [
+      "Александр Зимин"
+    ],
+    "year": 2020,
+    "categories": [
+      "growth"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "V_iMwiPCAJs",
+    "url": "https://www.youtube.com/watch?v=V_iMwiPCAJs",
+    "title": "Платформенная vs продуктовая команда",
+    "year": 2020,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 1765,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "VyB_uhpcTJ4",
+    "url": "https://www.youtube.com/watch?v=VyB_uhpcTJ4",
+    "title": "Оценка мобильных проектов: как не напугать клиента и не вылететь в трубу",
+    "speakers": [
+      "Максим Лейкин"
+    ],
+    "year": 2020,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4365,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "WaajrXzDq5g",
+    "url": "https://www.youtube.com/watch?v=WaajrXzDq5g",
+    "title": "Опыт выбора кроссплатформенной технологии для быстрой разработки приложения",
+    "speakers": [
+      "Геннадий Евстратов"
+    ],
+    "year": 2020,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3457,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "YHsaL631Kv4",
+    "url": "https://www.youtube.com/watch?v=YHsaL631Kv4",
+    "title": "COLOЯS: разбираемся раз и навсегда",
+    "speakers": [
+      "Андрей Володин"
+    ],
+    "year": 2020,
+    "categories": [
+      "ui",
+      "design"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2288,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "YjKUHjuL-GU",
+    "url": "https://www.youtube.com/watch?v=YjKUHjuL-GU",
+    "title": "Make your app talk",
+    "speakers": [
+      "Роман Волков"
+    ],
+    "year": 2020,
+    "categories": [
+      "audio"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4315,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "ZPF-H1mVwRI",
+    "url": "https://www.youtube.com/watch?v=ZPF-H1mVwRI",
+    "title": "UX-Research: сделай мне удобно",
+    "speakers": [
+      "Егор Петров"
+    ],
+    "year": 2020,
+    "categories": [
+      "design"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2486,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "ZisV5gA6iN8",
+    "url": "https://www.youtube.com/watch?v=ZisV5gA6iN8",
+    "title": "Как DI помогает писать меньше кода",
+    "speakers": [
+      "Богдан Маншилин"
+    ],
+    "year": 2020,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2217,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "_fO-vx6rm1M",
+    "url": "https://www.youtube.com/watch?v=_fO-vx6rm1M",
+    "title": "Лайвкодинг: реализуем макет на SwiftUI",
+    "speakers": [
+      "Вадим Булавин"
+    ],
+    "year": 2020,
+    "categories": [
+      "swiftui"
+    ],
+    "channel_slug": "podlodka",
+    "channel_title": "Podlodka",
+    "duration": 5540,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "aAvFsS73wmI",
+    "url": "https://www.youtube.com/watch?v=aAvFsS73wmI",
+    "title": "Круглый стол WWDC 2020: свежие вести с полей",
+    "year": 2020,
+    "categories": [
+      "wwdc",
+      "roundtable"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4447,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "b-v7TimtiPk",
+    "url": "https://www.youtube.com/watch?v=b-v7TimtiPk",
+    "title": "A/B тесты в мобильной разработке: быстрый старт",
+    "speakers": [
+      "Михаил Стеценко"
+    ],
+    "year": 2020,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2516,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "bRFP5AxPUCE",
+    "url": "https://www.youtube.com/watch?v=bRFP5AxPUCE",
+    "title": "Отладка без исходников",
+    "speakers": [
+      "Дмитрий Куркин"
+    ],
+    "year": 2020,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2375,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "beOxk71CB4c",
+    "url": "https://www.youtube.com/watch?v=beOxk71CB4c",
+    "title": "Путешествие с Catalyst",
+    "speakers": [
+      "Наталия Волкова"
+    ],
+    "year": 2020,
+    "categories": [
+      "catalyst"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1765,
+    "source": "youtube",
+    "curated": true
+  },
+  {
+    "video_id": "clFW1IvpQik",
+    "url": "https://www.youtube.com/watch?v=clFW1IvpQik",
+    "title": "Как мы добавили поддержку видео в мобильное приложение",
+    "speakers": [
+      "Виктория Сулейманова"
+    ],
+    "year": 2020,
+    "categories": [
+      "audio"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2289,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "gm8DTskY_2k",
+    "url": "https://www.youtube.com/watch?v=gm8DTskY_2k",
+    "title": "Сервисы без сервера. Используем Firebase на 100%",
+    "speakers": [
+      "Андрей Мухаметов"
+    ],
+    "year": 2020,
+    "categories": [
+      "services"
+    ],
+    "source": "readme-seed",
+    "curated": true
+  },
+  {
+    "video_id": "ic_2m9dK_j4",
+    "url": "https://www.youtube.com/watch?v=ic_2m9dK_j4",
+    "title": "Байтик к байтику, или как выжать из телефона всё и не расплавить его",
+    "speakers": [
+      "Андрей Володин"
+    ],
+    "year": 2020,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 3271,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "lzfhMop2zYU",
+    "url": "https://www.youtube.com/watch?v=lzfhMop2zYU",
+    "title": "Рефакторинг по правилам и без",
+    "speakers": [
+      "Анастасия Свириденко"
+    ],
+    "year": 2020,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 3043,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "miceNQIdZfw",
+    "url": "https://www.youtube.com/watch?v=miceNQIdZfw",
+    "title": "Flutter и миллион строк нативного кода",
+    "speakers": [
+      "Михаил Зинов"
+    ],
+    "year": 2020,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4377,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "mm_T1n8gmIU",
+    "url": "https://www.youtube.com/watch?v=mm_T1n8gmIU",
+    "title": "Круглый стол: возможности статического анализа кода в iOS",
+    "speakers": [
+      "Алексей Кудрявцев",
+      "Иван Вавилов"
+    ],
+    "year": 2020,
+    "categories": [
+      "roundtable",
+      "lowlevel"
+    ],
+    "channel_slug": "podlodka",
+    "channel_title": "Podlodka",
+    "duration": 4951,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "nN4z9VXlyhM",
+    "url": "https://www.youtube.com/watch?v=nN4z9VXlyhM",
+    "title": "Firebase — это не только push-сообщения",
+    "speakers": [
+      "Андрей Немцев"
+    ],
+    "year": 2020,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4471,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "o3gmPcFE7sY",
+    "url": "https://www.youtube.com/watch?v=o3gmPcFE7sY",
+    "title": "Независимые приложения для Apple Watch на SwiftUI и Flux",
+    "speakers": [
+      "Леонид Лядвейкин"
+    ],
+    "year": 2020,
+    "categories": [
+      "watch",
+      "swiftui"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2200,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "qrrZbXb_bAk",
+    "url": "https://www.youtube.com/watch?v=qrrZbXb_bAk",
+    "title": "AppCode под капотом",
+    "speakers": [
+      "Айдар Мухаметзянов"
+    ],
+    "year": 2020,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4388,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "uN6IocCyIF0",
+    "url": "https://www.youtube.com/watch?v=uN6IocCyIF0",
+    "title": "Как два пальца: локальные атаки на мобильные приложения",
+    "speakers": [
+      "Дмитрий Терёшин"
+    ],
+    "year": 2020,
+    "categories": [
+      "security"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3385,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "vgktxe3uXN4",
+    "url": "https://www.youtube.com/watch?v=vgktxe3uXN4",
+    "title": "iOS DevTalks",
+    "speakers": [
+      "Александр Чёрный",
+      "Алексей Кудрявцев",
+      "Андрей Володин",
+      "Илья Меркулов",
+      "Руслан Кавецкий"
+    ],
+    "year": 2020,
+    "categories": [
+      "roundtable"
+    ],
+    "source": "readme-seed",
+    "curated": true
+  },
+  {
+    "video_id": "wA_392H7JeU",
+    "url": "https://www.youtube.com/watch?v=wA_392H7JeU",
+    "title": "RunLoop на главном потоке",
+    "speakers": [
+      "Антон Сергеев"
+    ],
+    "year": 2020,
+    "categories": [
+      "concurrency",
+      "lowlevel"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2591,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "wPMoC_fWQ3A",
+    "url": "https://www.youtube.com/watch?v=wPMoC_fWQ3A",
+    "title": "Взлом и внедрение своего кода в чужое приложение",
+    "speakers": [
+      "Мурад Татаев"
+    ],
+    "year": 2020,
+    "categories": [
+      "security"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4439,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "xFeBIs5dRpc",
+    "url": "https://www.youtube.com/watch?v=xFeBIs5dRpc",
+    "title": "Встреча CocoaHeads WWDC Club 20: macOS, iPadOS, watchOS",
+    "year": 2020,
+    "categories": [
+      "wwdc",
+      "catalyst"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 4980,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "xJmh8GLWeGQ",
+    "url": "https://www.youtube.com/watch?v=xJmh8GLWeGQ",
+    "title": "Архитектура умного фоторедактора",
+    "speakers": [
+      "Андрей Володин"
+    ],
+    "year": 2020,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3352,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "xgPuEv9sfmc",
+    "url": "https://www.youtube.com/watch?v=xgPuEv9sfmc",
+    "title": "Пишем приложение для вибратора с Алиэкспресс",
+    "speakers": [
+      "Даниил Гончаров"
+    ],
+    "year": 2020,
+    "categories": [
+      "stories"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 2982,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "xknqmE1owag",
+    "url": "https://www.youtube.com/watch?v=xknqmE1owag",
+    "title": "Оптимизация для Spotlight, о которой многие забывают",
+    "speakers": [
+      "Иван Трофимов"
+    ],
+    "year": 2020,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 882,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "ywlifD3YNtA",
+    "url": "https://www.youtube.com/watch?v=ywlifD3YNtA",
+    "title": "За пределами канонических способов ускорения запуска приложения",
+    "speakers": [
+      "Тимур Юсипов"
+    ],
+    "year": 2020,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "appsconf",
+    "channel_title": "Mobile Channel (AppsConf)",
+    "duration": 3095,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "z35YdXK0TxE",
+    "url": "https://www.youtube.com/watch?v=z35YdXK0TxE",
+    "title": "Ускорение с Accelerate: опыт оптимизации C++ кода",
+    "speakers": [
+      "Алексей Алексеев"
+    ],
+    "year": 2020,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4338,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "zWqbzpJzPXA",
+    "url": "https://www.youtube.com/watch?v=zWqbzpJzPXA",
+    "title": "Готовимся к iOS собеседованию",
+    "speakers": [
+      "Илья Кузнецов"
+    ],
+    "year": 2020,
+    "categories": [
+      "hiring"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2944,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "zmkP8lI_uWQ",
+    "url": "https://www.youtube.com/watch?v=zmkP8lI_uWQ",
+    "title": "Дизайн система в Авито",
+    "speakers": [
+      "Александр Андрюхин"
+    ],
+    "year": 2020,
+    "categories": [
+      "design"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  }
+]

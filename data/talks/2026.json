@@ -1,0 +1,452 @@
+[
+  {
+    "video_id": "-VbPAn9b4rA",
+    "url": "https://www.youtube.com/watch?v=-VbPAn9b4rA",
+    "title": "Живая картинка: анимации и эффекты в кроссплатформенном BDUI-движке",
+    "speakers": [
+      "Алексей Телышев"
+    ],
+    "year": 2026,
+    "categories": [
+      "ui",
+      "crossplatform"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2422,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "6OarZd8J6gg",
+    "url": "https://www.youtube.com/watch?v=6OarZd8J6gg",
+    "title": "Зачем и как вам контрибьютить в open source",
+    "speakers": [
+      "Даниил Липаткин"
+    ],
+    "year": 2026,
+    "categories": [
+      "growth",
+      "process"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2736,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "6oY22XXuJFc",
+    "url": "https://www.youtube.com/watch?v=6oY22XXuJFc",
+    "title": "Как устроена мобильная разработка в Яндекс Картах",
+    "speakers": [
+      "Лев Бондаренко",
+      "Владимир Миллер"
+    ],
+    "year": 2026,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "yandex-mobile",
+    "channel_title": "Yandex for Mobile",
+    "duration": 6331,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "7lMoO9Q0FKk",
+    "url": "https://www.youtube.com/watch?v=7lMoO9Q0FKk",
+    "title": "yx_state + yx_scope + yx_navigation: единый стек Flutter-приложений",
+    "speakers": [
+      "Андрей Смирнов"
+    ],
+    "year": 2026,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "yandex-mobile",
+    "channel_title": "Yandex for Mobile",
+    "duration": 4979,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "8z1VFzqKdTY",
+    "url": "https://www.youtube.com/watch?v=8z1VFzqKdTY",
+    "title": "Фильтры для лица под капотом: Vision, сегментация и шейдеры в бою",
+    "speakers": [
+      "Владислав Марков"
+    ],
+    "year": 2026,
+    "categories": [
+      "ml",
+      "lowlevel"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2688,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "9nVZL9_zi5k",
+    "url": "https://www.youtube.com/watch?v=9nVZL9_zi5k",
+    "title": "Оживляем мобильное приложение с помощью LLM-агента",
+    "speakers": [
+      "Тамим Аттафи"
+    ],
+    "year": 2026,
+    "categories": [
+      "ml"
+    ],
+    "channel_slug": "yandex-mobile",
+    "channel_title": "Yandex for Mobile",
+    "duration": 4581,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "JIDoxJpgBTo",
+    "url": "https://www.youtube.com/watch?v=JIDoxJpgBTo",
+    "title": "AntiSOLID",
+    "speakers": [
+      "Данил Перевалов"
+    ],
+    "year": 2026,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2937,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "KHFR3balPw8",
+    "url": "https://www.youtube.com/watch?v=KHFR3balPw8",
+    "title": "Online Caller ID: секреты реализации Live Caller ID для iOS",
+    "speakers": [
+      "Глеб Фандеев"
+    ],
+    "year": 2026,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2313,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "KhHJC9XPS9g",
+    "url": "https://www.youtube.com/watch?v=KhHJC9XPS9g",
+    "title": "Тёмная сторона AI в мобильной разработке",
+    "speakers": [
+      "Roundtable Discussion"
+    ],
+    "year": 2026,
+    "categories": [
+      "roundtable",
+      "ml"
+    ],
+    "channel_slug": "yandex-mobile",
+    "channel_title": "Yandex for Mobile",
+    "duration": 3852,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "L9A4RdACzxc",
+    "url": "https://www.youtube.com/watch?v=L9A4RdACzxc",
+    "title": "SwiftSyntax: пишем свой DI-фреймворк",
+    "speakers": [
+      "Никита Никонов"
+    ],
+    "year": 2026,
+    "categories": [
+      "swift",
+      "architecture"
+    ],
+    "channel_slug": "yandex-mobile",
+    "channel_title": "Yandex for Mobile",
+    "duration": 3167,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "LyjG7-lq8UE",
+    "url": "https://www.youtube.com/watch?v=LyjG7-lq8UE",
+    "title": "Почему AI-агенты буксуют в больших кодовых базах из-за grep и как это починить",
+    "speakers": [
+      "Alexander Ivanov"
+    ],
+    "year": 2026,
+    "categories": [
+      "ml"
+    ],
+    "channel_slug": "yandex-mobile",
+    "channel_title": "Yandex for Mobile",
+    "duration": 4424,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "MSJOEwytqqo",
+    "url": "https://www.youtube.com/watch?v=MSJOEwytqqo",
+    "title": "SwiftUI: Scroll, Text и немного магии",
+    "speakers": [
+      "Татьяна Благообразова"
+    ],
+    "year": 2026,
+    "categories": [
+      "swiftui"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2753,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Twtw0b4XaHI",
+    "url": "https://www.youtube.com/watch?v=Twtw0b4XaHI",
+    "title": "Лента Мобиуса: качество, архитектура и ответственность в эпоху ИИ",
+    "speakers": [
+      "Екатерина Батеева"
+    ],
+    "year": 2026,
+    "categories": [
+      "roundtable"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3188,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "U2VMYfYrEuc",
+    "url": "https://www.youtube.com/watch?v=U2VMYfYrEuc",
+    "title": "T-Shaped мобильный разработчик",
+    "speakers": [
+      "Roundtable Discussion"
+    ],
+    "year": 2026,
+    "categories": [
+      "roundtable",
+      "growth"
+    ],
+    "channel_slug": "yandex-mobile",
+    "channel_title": "Yandex for Mobile",
+    "duration": 4182,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "UM7EY576gYI",
+    "url": "https://www.youtube.com/watch?v=UM7EY576gYI",
+    "title": "State of Mobile Dev 2025 Autumn от программного комитета Mobius",
+    "year": 2026,
+    "categories": [
+      "roundtable"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2784,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "W0WDdR1qCRg",
+    "url": "https://www.youtube.com/watch?v=W0WDdR1qCRg",
+    "title": "Путь инди-хакера",
+    "speakers": [
+      "Александр Гращенков"
+    ],
+    "year": 2026,
+    "categories": [
+      "growth"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2993,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "X5OhR8b4o9I",
+    "url": "https://www.youtube.com/watch?v=X5OhR8b4o9I",
+    "title": "Архитектура, производительность, отладка: как мы строили медиафид",
+    "speakers": [
+      "Лев Бондаренко"
+    ],
+    "year": 2026,
+    "categories": [
+      "architecture",
+      "lowlevel"
+    ],
+    "channel_slug": "yandex-mobile",
+    "channel_title": "Yandex for Mobile",
+    "duration": 2436,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "ZOcK0G_oHtY",
+    "url": "https://www.youtube.com/watch?v=ZOcK0G_oHtY",
+    "title": "Интеграция AI в инженерные команды",
+    "speakers": [
+      "Артур Василов"
+    ],
+    "year": 2026,
+    "categories": [
+      "ml",
+      "process"
+    ],
+    "channel_slug": "yandex-mobile",
+    "channel_title": "Yandex for Mobile",
+    "duration": 2464,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "csuJfbYrG4s",
+    "url": "https://www.youtube.com/watch?v=csuJfbYrG4s",
+    "title": "N приёмов, которые улучшат производительность видеоленты",
+    "speakers": [
+      "Рамиль Габдрахманов"
+    ],
+    "year": 2026,
+    "categories": [
+      "ui",
+      "lowlevel"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2748,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "dKvlv3V-tsI",
+    "url": "https://www.youtube.com/watch?v=dKvlv3V-tsI",
+    "title": "Эволюция скиллов в агентной разработке: кейсы и сравнение с MCP",
+    "speakers": [
+      "Егор Федяев"
+    ],
+    "year": 2026,
+    "categories": [
+      "ml"
+    ],
+    "channel_slug": "yandex-mobile",
+    "channel_title": "Yandex for Mobile",
+    "duration": 2502,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "jRiV_tOx3iQ",
+    "url": "https://www.youtube.com/watch?v=jRiV_tOx3iQ",
+    "title": "Когда структуры в Swift тебе не бро",
+    "speakers": [
+      "Сергей Черепанов"
+    ],
+    "year": 2026,
+    "categories": [
+      "swift"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2635,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "lgW6tqL1bnk",
+    "url": "https://www.youtube.com/watch?v=lgW6tqL1bnk",
+    "title": "Design-Code: на пути к экосистеме",
+    "speakers": [
+      "Дмитрий Строков",
+      "Александр Шовтюк"
+    ],
+    "year": 2026,
+    "categories": [
+      "design"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2957,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "n3n7f_i3d_A",
+    "url": "https://www.youtube.com/watch?v=n3n7f_i3d_A",
+    "title": "Wave Architecture на практике",
+    "speakers": [
+      "Юрий Дубовой"
+    ],
+    "year": 2026,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2785,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "oxkUtw65V4E",
+    "url": "https://www.youtube.com/watch?v=oxkUtw65V4E",
+    "title": "Заказываем кофе с помощью AI",
+    "speakers": [
+      "Максим Кочинкин"
+    ],
+    "year": 2026,
+    "categories": [
+      "ml"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2637,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "pw6J5LbNDck",
+    "url": "https://www.youtube.com/watch?v=pw6J5LbNDck",
+    "title": "Новая эра мобильной разработки: запускаем LLM локально на телефоне",
+    "speakers": [
+      "Самир Ахмедов"
+    ],
+    "year": 2026,
+    "categories": [
+      "ml"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2650,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "w7OHgqew04A",
+    "url": "https://www.youtube.com/watch?v=w7OHgqew04A",
+    "title": "Crash Reporting 101",
+    "speakers": [
+      "Виктория Длугопольская"
+    ],
+    "year": 2026,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2649,
+    "source": "youtube",
+    "curated": false
+  }
+]

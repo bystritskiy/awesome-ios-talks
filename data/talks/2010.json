@@ -1,0 +1,19 @@
+[
+  {
+    "video_id": "PZ_lmHzAWig",
+    "url": "https://www.youtube.com/watch?v=PZ_lmHzAWig",
+    "title": "Continuous integration для iOS",
+    "speakers": [
+      "Эльдар Марков"
+    ],
+    "year": 2010,
+    "categories": [
+      "cicd"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 899,
+    "source": "youtube",
+    "curated": false
+  }
+]

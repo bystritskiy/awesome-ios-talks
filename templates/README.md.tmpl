@@ -1,0 +1,53 @@
+# Awesome iOS Talks
+
+| Awesome | Докладов | Спикеров | Последнее обновление |
+| :-: | :-: | :-: | :-: |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | {{TALKS_COUNT}} | {{SPEAKERS_COUNT}} | {{UPDATED}} |
+
+## Мотивация
+
+Главная причина создания этого репозитория:
+- Собрать в одном месте **все русскоязычные** доклады про iOS разработку
+
+А также:
+
+- Разбивка по темам
+- Разбивка по спикерам
+- Разбивка по датам
+- Open Source концепция, где каждый сможет добавлять новые доклады и принимать участие в структуре репозитория
+- Статистика русскоязыного iOS сообщества в целом
+
+## Категории
+
+{{TALKS}}
+
+## По годам
+
+{{YEARS}}
+
+## Площадки
+
+Каналы, которые обходит краулер. Полный список с настройками — [sources/channels.json](sources/channels.json).
+
+{{CHANNELS}}
+
+## Как это собирается
+
+README генерируется из [data/talks/](data/talks/) (по файлу на год) — не редактируйте его напрямую.
+
+```bash
+python3 scripts/fetch.py        # обойти каналы, собрать пул видео
+python3 scripts/classify.py     # эвристический триаж: кандидаты / отсев
+python3 scripts/enrich.py       # добрать описания и даты у кандидатов
+python3 scripts/review.py       # выгрузить инбокс в data/review.md
+python3 scripts/promote.py ID --category swift   # забрать доклад в базу
+python3 scripts/build_readme.py # пересобрать README
+```
+
+Подробности — в [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Полезное
+
+- [awesome-ios](https://github.com/vsouza/awesome-ios)
+- [awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books)
+- [awesome-swift](https://github.com/matteocrippa/awesome-swift)

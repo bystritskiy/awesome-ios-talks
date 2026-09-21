@@ -1,0 +1,746 @@
+[
+  {
+    "video_id": "-sPtR03t_GI",
+    "url": "https://www.youtube.com/watch?v=-sPtR03t_GI",
+    "title": "Эффективность на рубеже Table View",
+    "speakers": [
+      "Александр Зимин"
+    ],
+    "year": 2015,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1680,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "4NaLDeXHwkE",
+    "url": "https://www.youtube.com/watch?v=4NaLDeXHwkE",
+    "title": "CocoaHeads Moscow 30.01.15",
+    "speakers": [
+      "Михаил Московченкр",
+      "Александр Зимин",
+      "Александр Золатырев"
+    ],
+    "year": 2015,
+    "categories": [
+      "uncategorized"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "58-Dfkt9HzU",
+    "url": "https://www.youtube.com/watch?v=58-Dfkt9HzU",
+    "title": "Dependency Injection с Blood Magic",
+    "speakers": [
+      "Владислав Дугнист"
+    ],
+    "year": 2015,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 728,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "6diWfNb-yXg",
+    "url": "https://www.youtube.com/watch?v=6diWfNb-yXg",
+    "title": "Комфортная разработка мобильных проектов",
+    "speakers": [
+      "Юрий Буянов"
+    ],
+    "year": 2015,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2572,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "6kcupzyHXwg",
+    "url": "https://www.youtube.com/watch?v=6kcupzyHXwg",
+    "title": "Мобильные угрозы: защищайся!",
+    "speakers": [
+      "Владимир Иванов"
+    ],
+    "year": 2015,
+    "categories": [
+      "security"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3503,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "6vUiMNUmGkw",
+    "url": "https://www.youtube.com/watch?v=6vUiMNUmGkw",
+    "title": "Разделяй и властвуй",
+    "speakers": [
+      "Юрий Леонычев"
+    ],
+    "year": 2015,
+    "categories": [
+      "project-structure"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3164,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "71AS4rMrAVk",
+    "url": "https://www.youtube.com/watch?v=71AS4rMrAVk",
+    "title": "Protocol-Oriented Programming",
+    "speakers": [
+      "Александр Зимин"
+    ],
+    "year": 2015,
+    "categories": [
+      "swift"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "8fBfsxwzxOY",
+    "url": "https://www.youtube.com/watch?v=8fBfsxwzxOY",
+    "title": "Что стоит и что не стоит делать для защиты данных iOS-приложений",
+    "speakers": [
+      "Андрей Беленко"
+    ],
+    "year": 2015,
+    "categories": [
+      "security"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2883,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "9hupqKYAtus",
+    "url": "https://www.youtube.com/watch?v=9hupqKYAtus",
+    "title": "Почему мы используем Cordova/PhoneGap?",
+    "speakers": [
+      "Антон Кекс"
+    ],
+    "year": 2015,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 4050,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "9tmjD531eto",
+    "url": "https://www.youtube.com/watch?v=9tmjD531eto",
+    "title": "Blur в iOS",
+    "speakers": [
+      "Владислав Дугнист"
+    ],
+    "year": 2015,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 685,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "ApPvP-h6LTQ",
+    "url": "https://www.youtube.com/watch?v=ApPvP-h6LTQ",
+    "title": "Знакомство с codesign",
+    "speakers": [
+      "Руслан Гуменный"
+    ],
+    "year": 2015,
+    "categories": [
+      "cicd"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1217,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "BJQPfL3kmP0",
+    "url": "https://www.youtube.com/watch?v=BJQPfL3kmP0",
+    "title": "Permissions in iOS",
+    "speakers": [
+      "Александр Зимин"
+    ],
+    "year": 2015,
+    "categories": [
+      "security"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1309,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "BbuTVS3jpjU",
+    "url": "https://www.youtube.com/watch?v=BbuTVS3jpjU",
+    "title": "Realm как замена CoreData и других SQLite ORM",
+    "speakers": [
+      "Алексей Бухтин"
+    ],
+    "year": 2015,
+    "categories": [
+      "databases"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2894,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Dw-IaLR3f2k",
+    "url": "https://www.youtube.com/watch?v=Dw-IaLR3f2k",
+    "title": "Как устроено банковское ПО",
+    "speakers": [
+      "Юрий Буянов"
+    ],
+    "year": 2015,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3619,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "GfpZ1fBHvxg",
+    "url": "https://www.youtube.com/watch?v=GfpZ1fBHvxg",
+    "title": "NSRunLoop",
+    "speakers": [
+      "Руслан Прокофьев"
+    ],
+    "year": 2015,
+    "categories": [
+      "objc"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "HjgEHWWVY7I",
+    "url": "https://www.youtube.com/watch?v=HjgEHWWVY7I",
+    "title": "Анимированные ресурсы в неигровых iOS-приложениях",
+    "speakers": [
+      "Александр Краснов"
+    ],
+    "year": 2015,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1592,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "HlAb-mD0FUE",
+    "url": "https://www.youtube.com/watch?v=HlAb-mD0FUE",
+    "title": "ARM64",
+    "speakers": [
+      "Олег Овечкин"
+    ],
+    "year": 2015,
+    "categories": [
+      "lowlevel"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "Hs28R1ZmkfY",
+    "url": "https://www.youtube.com/watch?v=Hs28R1ZmkfY",
+    "title": "CocoaHeads Moscow 27.02.15",
+    "speakers": [
+      "Влад Ковташ",
+      "Александр Зимин"
+    ],
+    "year": 2015,
+    "categories": [
+      "uncategorized"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "JXArXHprdzg",
+    "url": "https://www.youtube.com/watch?v=JXArXHprdzg",
+    "title": "Разработка кроссплатформенных приложений",
+    "speakers": [
+      "Владислав Дугнист"
+    ],
+    "year": 2015,
+    "categories": [
+      "crossplatform"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "Ou88AIWWxiY",
+    "url": "https://www.youtube.com/watch?v=Ou88AIWWxiY",
+    "title": "Преимущества использования Intel INDE для кросс-ОС разработки",
+    "year": 2015,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1575,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Q9NGqKp9JTk",
+    "url": "https://www.youtube.com/watch?v=Q9NGqKp9JTk",
+    "title": "История создания музыкального плеера",
+    "speakers": [
+      "Владислав Дугнист"
+    ],
+    "year": 2015,
+    "categories": [
+      "audio"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "SaVvfAIa5cY",
+    "url": "https://www.youtube.com/watch?v=SaVvfAIa5cY",
+    "title": "Growth Hacking для настольных и мобильных приложений",
+    "speakers": [
+      "Дмитрий Обухов"
+    ],
+    "year": 2015,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1647,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "SyTvss4EM5g",
+    "url": "https://www.youtube.com/watch?v=SyTvss4EM5g",
+    "title": "«Зоопарк» инструментария для мобильной разработки",
+    "speakers": [
+      "Никита Тимофеев"
+    ],
+    "year": 2015,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3237,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "TG1QVXUFJG4",
+    "url": "https://www.youtube.com/watch?v=TG1QVXUFJG4",
+    "title": "Проектирование кроссплатформенных игр",
+    "speakers": [
+      "Виктор Корсун"
+    ],
+    "year": 2015,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2358,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "TLTRHl3piaU",
+    "url": "https://www.youtube.com/watch?v=TLTRHl3piaU",
+    "title": "Диплинк в приложение через App Store",
+    "speakers": [
+      "Стас Жуковский"
+    ],
+    "year": 2015,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1032,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "V1hlJAk72lw",
+    "url": "https://www.youtube.com/watch?v=V1hlJAk72lw",
+    "title": "WWDC — Swift 2.0, StackView",
+    "speakers": [
+      "Александр Зимин"
+    ],
+    "year": 2015,
+    "categories": [
+      "swift"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "XmJl_0b1xbY",
+    "url": "https://www.youtube.com/watch?v=XmJl_0b1xbY",
+    "title": "Tестирование UI в Xcode",
+    "speakers": [
+      "Вадим Дробинин"
+    ],
+    "year": 2015,
+    "categories": [
+      "tests"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "YJTUbaPdHGM",
+    "url": "https://www.youtube.com/watch?v=YJTUbaPdHGM",
+    "title": "AppCode Demo",
+    "speakers": [
+      "Анастасия Казакова"
+    ],
+    "year": 2015,
+    "categories": [
+      "lowlevel"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "amF8Y_a3ApE",
+    "url": "https://www.youtube.com/watch?v=amF8Y_a3ApE",
+    "title": "Split View Controller (Multitasking iOS 9)",
+    "speakers": [
+      "Александр Зимин"
+    ],
+    "year": 2015,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 3070,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "bB--Hk_jXQk",
+    "url": "https://www.youtube.com/watch?v=bB--Hk_jXQk",
+    "title": "Как не стать заложником одной платформы",
+    "year": 2015,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1263,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "blRMTOAy76A",
+    "url": "https://www.youtube.com/watch?v=blRMTOAy76A",
+    "title": "Отладка приложений под iOS",
+    "speakers": [
+      "Роман Ермолов"
+    ],
+    "year": 2015,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 1654,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "cKtgvNFy5JQ",
+    "url": "https://www.youtube.com/watch?v=cKtgvNFy5JQ",
+    "title": "Управление мобильным продуктом: что, как и как не стОит?",
+    "speakers": [
+      "Байрам Аннаков"
+    ],
+    "year": 2015,
+    "categories": [
+      "process"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "d5YdHgZKZ_c",
+    "url": "https://www.youtube.com/watch?v=d5YdHgZKZ_c",
+    "title": "Bug shall not pass",
+    "speakers": [
+      "Александр Смирнов"
+    ],
+    "year": 2015,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3087,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "dneIRYELoyE",
+    "url": "https://www.youtube.com/watch?v=dneIRYELoyE",
+    "title": "Круглый стол по безопасности мобильных приложений",
+    "year": 2015,
+    "categories": [
+      "roundtable",
+      "security"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 6471,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "kXr53r2Wv_8",
+    "url": "https://www.youtube.com/watch?v=kXr53r2Wv_8",
+    "title": "Страхи и заблуждения о безопасности мобильных приложений",
+    "speakers": [
+      "Александра Сватикова"
+    ],
+    "year": 2015,
+    "categories": [
+      "security"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3403,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "kqHVzZEaTVY",
+    "url": "https://www.youtube.com/watch?v=kqHVzZEaTVY",
+    "title": "Запросы в CoreData с агрегатными функциями",
+    "speakers": [
+      "Азиз Латыпов"
+    ],
+    "year": 2015,
+    "categories": [
+      "databases"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "nFWdocugb7w",
+    "url": "https://www.youtube.com/watch?v=nFWdocugb7w",
+    "title": "Разработка мобильных приложений для мировых брендов",
+    "speakers": [
+      "Михаил Самарин"
+    ],
+    "year": 2015,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2811,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "o1w4QUuU6Ik",
+    "url": "https://www.youtube.com/watch?v=o1w4QUuU6Ik",
+    "title": "Аккаунт-менеджер: we've got it!",
+    "speakers": [
+      "Константин Чернухо"
+    ],
+    "year": 2015,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads",
+    "duration": 2190,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "owhIbRVJ1dg",
+    "url": "https://www.youtube.com/watch?v=owhIbRVJ1dg",
+    "title": "Кроссплатформенная разработка на C#/.NET с платформой Xamarin",
+    "speakers": [
+      "Станислав Сидристый"
+    ],
+    "year": 2015,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3497,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "r3t1eRtpXIs",
+    "url": "https://www.youtube.com/watch?v=r3t1eRtpXIs",
+    "title": "Apple Watch SDK Demo",
+    "speakers": [
+      "Александр Зимин"
+    ],
+    "year": 2015,
+    "categories": [
+      "watch"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "link_verified": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "sJsiIoj1uiI",
+    "url": "https://www.youtube.com/watch?v=sJsiIoj1uiI",
+    "title": "Advanced Core Data",
+    "speakers": [
+      "Сергей Пронин"
+    ],
+    "year": 2015,
+    "categories": [
+      "databases"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "szyVzYcoNLo",
+    "url": "https://www.youtube.com/watch?v=szyVzYcoNLo",
+    "title": "О технических интервью",
+    "speakers": [
+      "Олег Овечкин"
+    ],
+    "year": 2015,
+    "categories": [
+      "hiring"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "vWxsu7pHHJA",
+    "url": "https://www.youtube.com/watch?v=vWxsu7pHHJA",
+    "title": "Работа с текстом в iOS",
+    "speakers": [
+      "Ирина Дягилева"
+    ],
+    "year": 2015,
+    "categories": [
+      "ui"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  },
+  {
+    "video_id": "wwMHkht-wAo",
+    "url": "https://www.youtube.com/watch?v=wwMHkht-wAo",
+    "title": "Технология iBeacon в платёжных решениях",
+    "speakers": [
+      "Денис Кретов"
+    ],
+    "year": 2015,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 1775,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "xJCpBSbolMY",
+    "url": "https://www.youtube.com/watch?v=xJCpBSbolMY",
+    "title": "О взаимотношениях дизайнеров и разработчиков",
+    "speakers": [
+      "Евгения Малкова"
+    ],
+    "year": 2015,
+    "categories": [
+      "design"
+    ],
+    "source": "readme-seed",
+    "curated": true,
+    "channel_slug": "cocoaheads",
+    "channel_title": "CocoaHeads"
+  }
+]

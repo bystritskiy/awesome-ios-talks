@@ -1,0 +1,565 @@
+{
+  "_comment": "Категории README в порядке вывода. title должен совпадать с заголовком раздела. keywords/patterns используются авто-классификатором (регистронезависимо, по названию + описанию). speaker_column — подпись второй колонки таблицы.",
+  "categories": [
+    {
+      "slug": "swift",
+      "title": "Swift",
+      "keywords": [
+        "swift ",
+        "swift6",
+        "swift 5",
+        "swift 6",
+        "дженерик",
+        "generic",
+        "opaque",
+        "property wrapper",
+        "result builder",
+        "macro",
+        "макрос",
+        "memory layout",
+        "protocol-oriented",
+        "протокол",
+        "swiftlang",
+        "evolution",
+        "оптионал",
+        "optional"
+      ]
+    },
+    {
+      "slug": "swiftui",
+      "title": "SwiftUI",
+      "keywords": [
+        "swiftui",
+        "swift ui",
+        "@state",
+        "observable",
+        "view builder",
+        "viewbuilder",
+        "declarative ui",
+        "декларативн"
+      ]
+    },
+    {
+      "slug": "objc",
+      "title": "Obj-C",
+      "keywords": [
+        "objective-c",
+        "objective c",
+        "objc",
+        "obj-c",
+        "runtime obj",
+        "nsrunloop",
+        "nsobject",
+        "method swizzling",
+        "свизлинг"
+      ],
+      "aliases": [
+        "Obj c",
+        "Obj-C",
+        "Objective-C"
+      ]
+    },
+    {
+      "slug": "ui",
+      "title": "UI",
+      "keywords": [
+        "uikit",
+        "верстк",
+        "вёрстк",
+        "autolayout",
+        "auto layout",
+        "layout",
+        "анимац",
+        "animation",
+        "core animation",
+        "core graphics",
+        "текст в ios",
+        "textkit",
+        "collectionview",
+        "tableview",
+        "скролл",
+        "рендер",
+        "render",
+        "metal",
+        "core text"
+      ]
+    },
+    {
+      "slug": "concurrency",
+      "title": "Многопоточность",
+      "keywords": [
+        "многопоточ",
+        "concurrency",
+        "async",
+        "await",
+        "gcd",
+        "grand central",
+        "actor",
+        "актор",
+        "thread",
+        "поток",
+        "race condition",
+        "структурированн",
+        "operationqueue"
+      ]
+    },
+    {
+      "slug": "architecture",
+      "title": "Архитектура",
+      "keywords": [
+        "архитектур",
+        "viper",
+        "mvvm",
+        "mvp",
+        "mvc",
+        "clean architect",
+        "чист",
+        "redux",
+        "tca",
+        "composable",
+        "solid",
+        "di ",
+        "dependency injection",
+        "координатор",
+        "coordinator",
+        "модульн"
+      ]
+    },
+    {
+      "slug": "reactive",
+      "title": "Combine, Rx, Reactive",
+      "keywords": [
+        "combine",
+        "rxswift",
+        "reactivecocoa",
+        "reactive",
+        "реактивн",
+        "publisher",
+        "стрим"
+      ]
+    },
+    {
+      "slug": "project-structure",
+      "title": "Структура проекта",
+      "keywords": [
+        "модуляриз",
+        "monorepo",
+        "монорепо",
+        "spm",
+        "swift package",
+        "cocoapods",
+        "carthage",
+        "bazel",
+        "tuist",
+        "xcodegen",
+        "mergeable librar",
+        "линковк",
+        "сборк",
+        "build time",
+        "время сборки",
+        "зависимост"
+      ]
+    },
+    {
+      "slug": "tests",
+      "title": "Тесты",
+      "keywords": [
+        "тест",
+        "test",
+        "xctest",
+        "snapshot",
+        "mock",
+        "мок",
+        "tdd",
+        "покрыти",
+        "coverage",
+        "quality gate"
+      ]
+    },
+    {
+      "slug": "databases",
+      "title": "Базы данных",
+      "keywords": [
+        "core data",
+        "coredata",
+        "realm",
+        "sqlite",
+        "grdb",
+        "swiftdata",
+        "база данных",
+        "бд ",
+        "персистент",
+        "хранени",
+        "кэш",
+        "cache",
+        "keychain",
+        "userdefaults"
+      ]
+    },
+    {
+      "slug": "lowlevel",
+      "title": "Xcode / Instruments / Low level",
+      "keywords": [
+        "xcode",
+        "instruments",
+        "lldb",
+        "debug",
+        "дебаг",
+        "отладк",
+        "llvm",
+        "компилятор",
+        "compiler",
+        "assembly",
+        "arm64",
+        "mach-o",
+        "dyld",
+        "линкер",
+        "профилир",
+        "performance",
+        "производительн",
+        "память",
+        "memory leak",
+        "утечк",
+        "appcode",
+        "плагин для xcode"
+      ]
+    },
+    {
+      "slug": "cicd",
+      "title": "CI/CD",
+      "keywords": [
+        "ci/cd",
+        " ci ",
+        "continuous integration",
+        "fastlane",
+        "jenkins",
+        "teamcity",
+        "github actions",
+        "gitlab",
+        "автоматизац",
+        "релиз",
+        "release train",
+        "деплой",
+        "deploy",
+        "app store connect",
+        "testflight",
+        "подпис",
+        "codesign",
+        "provision"
+      ]
+    },
+    {
+      "slug": "networking",
+      "title": "Сеть / API",
+      "keywords": [
+        "network",
+        "сеть",
+        "сетев",
+        "http",
+        "rest",
+        "graphql",
+        "grpc",
+        "websocket",
+        "urlsession",
+        "alamofire",
+        "протокол обмена",
+        "offline",
+        "оффлайн",
+        "синхронизац"
+      ],
+      "aliases": [
+        "Сеть",
+        "API"
+      ]
+    },
+    {
+      "slug": "security",
+      "title": "Безопасность",
+      "keywords": [
+        "безопасн",
+        "security",
+        "шифрован",
+        "encrypt",
+        "обфускац",
+        "jailbreak",
+        "реверс",
+        "reverse engineer",
+        "ssl pinning",
+        "приватност",
+        "privacy",
+        "att ",
+        "уязвим"
+      ]
+    },
+    {
+      "slug": "audio",
+      "title": "Audio",
+      "keywords": [
+        "audio",
+        "аудио",
+        "звук",
+        "плеер",
+        "player",
+        "avfoundation",
+        "музык",
+        "avplayer",
+        "video",
+        "стриминг"
+      ]
+    },
+    {
+      "slug": "watch",
+      "title": "Apple Watch",
+      "keywords": [
+        "apple watch",
+        "watchos",
+        "watchkit",
+        "часы"
+      ]
+    },
+    {
+      "slug": "ar",
+      "title": "AR",
+      "keywords": [
+        "arkit",
+        "дополненная реальность",
+        "augmented reality",
+        "realitykit",
+        "vision pro",
+        "visionos"
+      ]
+    },
+    {
+      "slug": "ml",
+      "title": "ML / AI",
+      "keywords": [
+        "coreml",
+        "core ml",
+        "machine learning",
+        "машинное обучение",
+        "нейросет",
+        "neural",
+        "createml",
+        "llm",
+        "gpt",
+        "vision framework",
+        "on-device"
+      ],
+      "aliases": [
+        "ML",
+        "AI",
+        "ML/AI"
+      ]
+    },
+    {
+      "slug": "catalyst",
+      "title": "macOS / Catalyst / tvOS",
+      "keywords": [
+        "catalyst",
+        "macos",
+        "mac os",
+        "appkit",
+        "десктоп",
+        "apple tv",
+        "tvos"
+      ],
+      "aliases": [
+        "Catalyst",
+        "macOS"
+      ]
+    },
+    {
+      "slug": "siri",
+      "title": "Siri",
+      "keywords": [
+        "siri",
+        "сири",
+        "intents",
+        "app intents",
+        "голосов",
+        "shortcuts"
+      ]
+    },
+    {
+      "slug": "carplay",
+      "title": "CarPlay",
+      "keywords": [
+        "carplay",
+        "карплей",
+        "автомобил"
+      ]
+    },
+    {
+      "slug": "widgets",
+      "title": "Виджеты / Extensions",
+      "keywords": [
+        "виджет",
+        "widget",
+        "widgetkit",
+        "extension",
+        "расширени",
+        "live activity",
+        "app clip",
+        "пуш",
+        "push",
+        "notification",
+        "уведомлен"
+      ]
+    },
+    {
+      "slug": "services",
+      "title": "Сервисы",
+      "keywords": [
+        "firebase",
+        "сервис",
+        "аналитик",
+        "analytics",
+        "appmetrica",
+        "crashlytics",
+        "a/b",
+        "эксперимент",
+        "фича-флаг",
+        "feature flag",
+        "backend"
+      ]
+    },
+    {
+      "slug": "hiring",
+      "title": "Найм / Собеседования",
+      "keywords": [
+        "собеседован",
+        "интервью",
+        "найм",
+        "hiring",
+        "грейд",
+        "резюме",
+        "оффер",
+        "джун",
+        "мидл",
+        "синьор"
+      ]
+    },
+    {
+      "slug": "process",
+      "title": "Командные процессы / продукт / code review",
+      "keywords": [
+        "code review",
+        "код ревью",
+        "процесс",
+        "менеджмент",
+        "продукт",
+        "тимлид",
+        "teamlead",
+        "agile",
+        "scrum",
+        "планирован",
+        "онбординг"
+      ]
+    },
+    {
+      "slug": "design",
+      "title": "Дизайн / Интерфейсы / UX",
+      "keywords": [
+        "дизайн",
+        "design system",
+        "ux",
+        "ui/ux",
+        "интерфейс",
+        "доступност",
+        "accessibility",
+        "voiceover",
+        "типографик"
+      ]
+    },
+    {
+      "slug": "crossplatform",
+      "title": "Кроссплатформа",
+      "keywords": [
+        "кроссплатформ",
+        "cross-platform",
+        "flutter",
+        "react native",
+        "kotlin multiplatform",
+        "kmp",
+        "kmm",
+        "compose multiplatform",
+        "ионик",
+        "ionic"
+      ]
+    },
+    {
+      "slug": "wwdc",
+      "title": "WWDC / Обзоры платформы",
+      "keywords": [
+        "wwdc",
+        "keynote",
+        "что нового в ios",
+        "новинки ios",
+        "apple event",
+        "ios 14",
+        "ios 15",
+        "ios 16",
+        "ios 17",
+        "ios 18"
+      ]
+    },
+    {
+      "slug": "roundtable",
+      "title": "Круглые столы / DevTalks",
+      "keywords": [
+        "круглый стол",
+        "devtalks",
+        "дискусси",
+        "панельн",
+        "podcast",
+        "подкаст",
+        "q&a",
+        "ask me anything"
+      ]
+    },
+    {
+      "slug": "stories",
+      "title": "Истории о разработке",
+      "keywords": [
+        "история",
+        "как мы",
+        "опыт ",
+        "путь ",
+        "кейс",
+        "мигрирова",
+        "переписал",
+        "переезд"
+      ]
+    },
+    {
+      "slug": "growth",
+      "title": "Саморазвитие / личная эффективность разработчика",
+      "keywords": [
+        "саморазвити",
+        "личная эффективност",
+        "выгоран",
+        "карьер",
+        "мотивац",
+        "soft skill",
+        "софт скилл",
+        "развива"
+      ]
+    },
+    {
+      "slug": "interviews-public",
+      "title": "Публичные собеседования",
+      "keywords": [
+        "публичное собеседование",
+        "мок-интервью",
+        "mock interview",
+        "разбор собеседован"
+      ],
+      "speaker_column": "Интервьюер"
+    },
+    {
+      "slug": "uncategorized",
+      "title": "Uncategorized",
+      "keywords": []
+    }
+  ]
+}

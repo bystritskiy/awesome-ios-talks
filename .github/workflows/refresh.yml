@@ -1,0 +1,46 @@
+name: Обновление пула докладов
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # каждый понедельник, 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Установить yt-dlp
+        run: pipx install yt-dlp
+
+      - name: Обойти каналы и пересчитать триаж
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          python3 scripts/fetch.py
+          python3 scripts/classify.py
+          python3 scripts/enrich.py
+          python3 scripts/classify.py
+          python3 scripts/review.py
+          python3 scripts/build_readme.py
+          python3 scripts/stats.py | tee /tmp/stats.txt
+
+      - name: Открыть PR с новыми кандидатами
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: bot/refresh
+          title: "Новые кандидаты в подборку"
+          commit-message: "data: еженедельный обход каналов"
+          body-path: /tmp/stats.txt
+          add-paths: |
+            data/
+            README.md

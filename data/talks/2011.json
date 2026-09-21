@@ -1,0 +1,200 @@
+[
+  {
+    "video_id": "Ade8EdBSC5c",
+    "url": "https://www.youtube.com/watch?v=Ade8EdBSC5c",
+    "title": "Создание и продвижение приложений от iBearSoft",
+    "year": 2011,
+    "categories": [
+      "services",
+      "stories"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 2083,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "I3wU_CM7gNc",
+    "url": "https://www.youtube.com/watch?v=I3wU_CM7gNc",
+    "title": "Continuous integration for iOS applications",
+    "speakers": [
+      "Александр Додатко"
+    ],
+    "year": 2011,
+    "categories": [
+      "cicd"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1917,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "NEDQoU_Zd9w",
+    "url": "https://www.youtube.com/watch?v=NEDQoU_Zd9w",
+    "title": "Продвижение в App Store: 10 шагов к успеху",
+    "year": 2011,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 2550,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "P9o-D7PHt0I",
+    "url": "https://www.youtube.com/watch?v=P9o-D7PHt0I",
+    "title": "Cocos2D for iPhone",
+    "speakers": [
+      "Станислав Краснояров"
+    ],
+    "year": 2011,
+    "categories": [
+      "ui"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1518,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "QAq30-dukmc",
+    "url": "https://www.youtube.com/watch?v=QAq30-dukmc",
+    "title": "Особенности разработки enterprise-приложения",
+    "year": 2011,
+    "categories": [
+      "process"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 2367,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "XcXdhjmGkY4",
+    "url": "https://www.youtube.com/watch?v=XcXdhjmGkY4",
+    "title": "MonoTouch — программирование для iPhone на C#",
+    "year": 2011,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1351,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "_2f0Ax2AdMw",
+    "url": "https://www.youtube.com/watch?v=_2f0Ax2AdMw",
+    "title": "Автоматизируем тестирование UI iPhone-приложений",
+    "year": 2011,
+    "categories": [
+      "tests"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 2598,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "ahiApc3tOkI",
+    "url": "https://www.youtube.com/watch?v=ahiApc3tOkI",
+    "title": "Поиск утечек памяти с помощью Instruments в GameDev",
+    "year": 2011,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1505,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "hus7U_AMqGE",
+    "url": "https://www.youtube.com/watch?v=hus7U_AMqGE",
+    "title": "Работа с памятью без использования Instruments",
+    "year": 2011,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1431,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "hy9qvFmRsMw",
+    "url": "https://www.youtube.com/watch?v=hy9qvFmRsMw",
+    "title": "Использование блоков в Objective-C",
+    "speakers": [
+      "Владимир Горбенко"
+    ],
+    "year": 2011,
+    "categories": [
+      "objc"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1985,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "ioUIEFUOoWk",
+    "url": "https://www.youtube.com/watch?v=ioUIEFUOoWk",
+    "title": "Продвижение приложений от indie-разработчика",
+    "year": 2011,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 2392,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "lDqvrZWdMpE",
+    "url": "https://www.youtube.com/watch?v=lDqvrZWdMpE",
+    "title": "PostPC world",
+    "speakers": [
+      "Денис Марголин"
+    ],
+    "year": 2011,
+    "categories": [
+      "stories"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 2142,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "sMb_4XqvatQ",
+    "url": "https://www.youtube.com/watch?v=sMb_4XqvatQ",
+    "title": "Новый Xcode 4 от Apple: штуки и муки",
+    "speakers": [
+      "Александр Чёрный"
+    ],
+    "year": 2011,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "elegion",
+    "channel_title": "e-legion IT ",
+    "duration": 1586,
+    "source": "youtube",
+    "curated": false
+  }
+]
