@@ -1,8 +1,20 @@
-# Awesome iOS Ru Talks
+# Awesome iOS Talks
 
 | Awesome | Докладов | Спикеров | Последнее обновление |
 | :-: | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 780 | 497 | сентябрь 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 780 | 497 | октябрь 2026 |
+
+## Мотивация
+
+Главная причина создания этого репозитория:
+- Собрать в одном месте **все русскоязычные** доклады про iOS разработку
+
+А также:
+
+- Разбивка по темам
+- Разбивка по датам
+- Open Source концепция, где каждый сможет добавлять новые доклады и принимать участие в структуре репозитория
+- Статистика русскоязыного iOS сообщества в целом
 
 ## Категории
 
@@ -1132,31 +1144,31 @@
 | :-- | :-: | :-: |
 | [CocoaHeads](https://www.youtube.com/channel/UCPZtkJkHv_3pPC0veurLQ6Q) | 235 | 186 |
 | [Mobile Channel (AppsConf)](https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g) | 236 | 71 |
-| [Mobius](https://www.youtube.com/channel/UCG70q1HRspLdd93HW94WS-A) | 779 | 300 |
+| [Mobius](https://www.youtube.com/channel/UCG70q1HRspLdd93HW94WS-A) | 809 | 300 |
 | [Yandex for Mobile](https://www.youtube.com/channel/UCkwbP2Mg1Hnlu66D6x-UxXg) | 129 | 55 |
 | [Young&&Yandex: мобильная разработка](https://www.youtube.com/channel/UC-355nTVRMSYdPI8HpoRUrA) | 56 | 19 |
-| [Podlodka](https://www.youtube.com/channel/UCOei1E1Vqq10S913OEqTWGw) | 587 | 10 |
+| [Podlodka](https://www.youtube.com/channel/UCOei1E1Vqq10S913OEqTWGw) | 593 | 10 |
 | [Podlodka Deep Dive](https://www.youtube.com/channel/UCA0ZvfuUY3i_YTVjxibEcyg) | 4 | — |
-| [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) | 851 | 19 |
+| [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) | 866 | 19 |
 | [Команда ВКонтакте](https://www.youtube.com/channel/UCcDIhc6mz8EtmxRSvgYYrzg) | 256 | 7 |
 | [Redmadrobot](https://www.youtube.com/channel/UCNsKb10vKvLCx3C0Yijmp0w) | 6 | 2 |
 | [Dodo Engineering](https://www.youtube.com/channel/UCVRaec6UUYJWU2l3tGGifGA) | 3 | — |
 | [e-legion IT](https://www.youtube.com/channel/UCM3TgJ2rmwcnD_xKMdEeOtQ) | 361 | 44 |
 | [MobiFest](https://www.youtube.com/channel/UCS1F6CEGqbPlOUO0DNxE9bQ) | 13 | — |
 | [Alfa Mobile](https://www.youtube.com/channel/UCHAtoB-7ngdKJ6MJkpwEcBg) | 21 | 3 |
-| [TechTrain](https://www.youtube.com/channel/UCJoerW5eDOz5qu7I2CYi7xg) | 179 | 1 |
+| [TechTrain](https://www.youtube.com/channel/UCJoerW5eDOz5qu7I2CYi7xg) | 180 | 1 |
 | [Surf Tech](https://www.youtube.com/channel/UCI0Qiyom32EUrdqrgXK83lg) | 127 | 9 |
 | [CocoaHeads Kazakhstan](https://www.youtube.com/channel/UCJgIPYp-XKY2NM8sEOPu7OQ) | 18 | 15 |
 | [iOS Dev Meetup](https://www.youtube.com/channel/UC3cz46lUpyz-YUqMBddUM_w) | 16 | 11 |
-| [Heisenbug](https://www.youtube.com/channel/UCX6fjZa167tSy_4ryTLcOBw) | 727 | 13 |
-| [hh.ru](https://www.youtube.com/channel/UCWAh9osqTtIDurSTvHVz-bQ) | 763 | 2 |
-| [Kaspersky Tech Russia](https://www.youtube.com/channel/UCSVFz1xIEyOrpbowJjCxdvQ) | 605 | 2 |
+| [Heisenbug](https://www.youtube.com/channel/UCX6fjZa167tSy_4ryTLcOBw) | 750 | 13 |
+| [hh.ru](https://www.youtube.com/channel/UCWAh9osqTtIDurSTvHVz-bQ) | 773 | 2 |
+| [Kaspersky Tech Russia](https://www.youtube.com/channel/UCSVFz1xIEyOrpbowJjCxdvQ) | 608 | 2 |
 | [Koshelek Team](https://www.youtube.com/channel/UCYaM-s5T7nCL2qnO3Z5ArsA) | 25 | 2 |
 | [SberMarket Tech](https://www.youtube.com/channel/UCQikj3QCbci5DZbfvdHBGjQ) | 10 | — |
-| [WB Tech](https://www.youtube.com/channel/UCZIuGN7Ydd1aNoxkF68YTRA) | 87 | 1 |
+| [WB Tech](https://www.youtube.com/channel/UCZIuGN7Ydd1aNoxkF68YTRA) | 99 | 1 |
 | [Lamoda Tech](https://www.youtube.com/channel/UClbSBNMPj9epKsXTsD92YPA) | 107 | — |
-| [Ozon Tech](https://www.youtube.com/channel/UCCqNFXg3NRbRA6qNKFRecdw) | 262 | — |
-| [Мобильный разработчик (Алексей Гладков)](https://www.youtube.com/channel/UCxGXkPks1Ykbx2Plt4DgZlA) | 282 | 5 |
+| [Ozon Tech](https://www.youtube.com/channel/UCCqNFXg3NRbRA6qNKFRecdw) | 263 | — |
+| [Мобильный разработчик (Алексей Гладков)](https://www.youtube.com/channel/UCxGXkPks1Ykbx2Plt4DgZlA) | 285 | 5 |
 
 ## Как это собирается
 
