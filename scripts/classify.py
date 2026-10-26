@@ -36,6 +36,7 @@ IOS_STRONG = [
     "uiview", "uiviewcontroller", "swiftpm", "fastlane", "testflight", "mach-o", "dyld",
     "instruments", "lldb", "keychain", "userdefaults", "realm", "alamofire", "tuist",
     "xcodegen", "bitcode", "widgetkit", "app clip", "live activity", "core animation",
+    "metal",
 ]
 IOS_WEAK = ["мобильн", "mobile", "кроссплатформ", "cross-platform", "kmp", "kmm",
             "multiplatform", "flutter", "react native", "app clip", "мобил"]
@@ -45,7 +46,7 @@ BACKEND_OFF = ["backend", "бэкенд", "devops", "kubernetes", "postgres", "j
                "frontend", "фронтенд", "react ", "vue", "golang", " go ", "1c", "sql server",
                "data science", "аналитик данных", "ml-инженер"]
 JUNK = ["вакансия", "мы нанимаем", "реклама", "подкаст #", "анонс", "трейлер", "тизер",
-        "поздравля", "корпоратив", "новогодн", "розыгрыш", "приглашаем", "открытие набора",
+        "поздравля", "корпоратив ", "корпоратива", "корпоративе", "новогодн", "розыгрыш", "приглашаем", "открытие набора",
         "промо", "интро", "shorts", "#shorts", "нарезка", "тайм-код"]
 TALK_HINTS = ["доклад", "митап", "meetup", "конференц", "cocoaheads", "talk", "лекция",
               "воркшоп", "workshop", "круглый стол", "devtalks", "секция"]
@@ -139,6 +140,8 @@ def split_speaker(title):
 
 
 def suggest_categories(text, cats):
+    # ссылки в описаниях (https://t.me/...) иначе дают «Сеть / API» почти каждому видео
+    text = re.sub(r"\S+://\S+", " ", text)
     hits = []
     for c in cats:
         score = sum(1 for kw in c.get("keywords", []) if kw in text)

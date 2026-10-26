@@ -71,6 +71,24 @@
     "curated": false
   },
   {
+    "video_id": "8HjYo4V0sH4",
+    "url": "https://www.youtube.com/watch?v=8HjYo4V0sH4",
+    "title": "Как и зачем писать игровой движок на Swift",
+    "speakers": [
+      "Владислав Прусаков"
+    ],
+    "year": 2026,
+    "categories": [
+      "swift",
+      "lowlevel"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2783,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "8z1VFzqKdTY",
     "url": "https://www.youtube.com/watch?v=8z1VFzqKdTY",
     "title": "Фильтры для лица под капотом: Vision, сегментация и шейдеры в бою",
@@ -89,6 +107,24 @@
     "curated": false
   },
   {
+    "video_id": "9VKmEozTeDE",
+    "url": "https://www.youtube.com/watch?v=9VKmEozTeDE",
+    "title": "Metal без магии — когда GPU ускоряет, а не мешает",
+    "speakers": [
+      "Максим Ломакин"
+    ],
+    "year": 2026,
+    "categories": [
+      "ui",
+      "lowlevel"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2761,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "9nVZL9_zi5k",
     "url": "https://www.youtube.com/watch?v=9nVZL9_zi5k",
     "title": "Оживляем мобильное приложение с помощью LLM-агента",
@@ -102,6 +138,59 @@
     "channel_slug": "yandex-mobile",
     "channel_title": "Yandex for Mobile",
     "duration": 4581,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "BLY4Q2sqzk8",
+    "url": "https://www.youtube.com/watch?v=BLY4Q2sqzk8",
+    "title": "Как разобрать macOS на части: от исследования процессов к изменению логики",
+    "speakers": [
+      "Игорь Белов"
+    ],
+    "year": 2026,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2816,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "D3mMnYqbEv8",
+    "url": "https://www.youtube.com/watch?v=D3mMnYqbEv8",
+    "title": "Разделяй и властвуй: распил мобильного приложения на микросервисы",
+    "speakers": [
+      "Никита Шумский"
+    ],
+    "year": 2026,
+    "categories": [
+      "architecture"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2679,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Gt1rMl-dAhE",
+    "url": "https://www.youtube.com/watch?v=Gt1rMl-dAhE",
+    "title": "Первый бескомпромиссный SDUI",
+    "speakers": [
+      "Кирилл Володин",
+      "Александр Евтухов"
+    ],
+    "year": 2026,
+    "categories": [
+      "ui",
+      "crossplatform"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2639,
     "source": "youtube",
     "curated": false
   },
@@ -210,6 +299,24 @@
     "curated": false
   },
   {
+    "video_id": "NV0hK8HwzTM",
+    "url": "https://www.youtube.com/watch?v=NV0hK8HwzTM",
+    "title": "PWA вместо App Store: замена нативного iOS-приложения и технические ограничения",
+    "speakers": [
+      "Константин Шкурко"
+    ],
+    "year": 2026,
+    "categories": [
+      "services",
+      "crossplatform"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2745,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "QdNEyUnM2ro",
     "url": "https://www.youtube.com/watch?v=QdNEyUnM2ro",
     "title": "Перезагрузка мобильной аналитики: объединяем подходы в iOS и Android",
@@ -223,6 +330,23 @@
     "channel_slug": "hh",
     "channel_title": "hh_ru",
     "duration": 1479,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "QplNC1iljSc",
+    "url": "https://www.youtube.com/watch?v=QplNC1iljSc",
+    "title": "Влияние температурного режима на UX в iOS-приложениях",
+    "speakers": [
+      "Игорь Науменко"
+    ],
+    "year": 2026,
+    "categories": [
+      "lowlevel"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 3153,
     "source": "youtube",
     "curated": false
   },
@@ -324,6 +448,58 @@
     "channel_slug": "yandex-mobile",
     "channel_title": "Yandex for Mobile",
     "duration": 2436,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Z72KIS2rN2A",
+    "url": "https://www.youtube.com/watch?v=Z72KIS2rN2A",
+    "title": "Swift для Android и кроссплатформы. Разбираем на практике",
+    "speakers": [
+      "Анна Жаркова"
+    ],
+    "year": 2026,
+    "categories": [
+      "swift",
+      "crossplatform"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2665,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Z8B1NZEwJ64",
+    "url": "https://www.youtube.com/watch?v=Z8B1NZEwJ64",
+    "title": "Rust в мобильной разработке",
+    "speakers": [
+      "Александр Власюк"
+    ],
+    "year": 2026,
+    "categories": [
+      "crossplatform"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2399,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "Z8y0TeViOQc",
+    "url": "https://www.youtube.com/watch?v=Z8y0TeViOQc",
+    "title": "Ускоряем Codable, или Как мой код попал в Apple",
+    "speakers": [
+      "Кристиан Бенуа"
+    ],
+    "year": 2026,
+    "categories": [
+      "swift"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2611,
     "source": "youtube",
     "curated": false
   },
@@ -481,6 +657,25 @@
     "curated": false
   },
   {
+    "video_id": "px_-oAU4Hxo",
+    "url": "https://www.youtube.com/watch?v=px_-oAU4Hxo",
+    "title": "Как подружить мобильное приложение с JS и прокачать свой SDUI",
+    "speakers": [
+      "Тимур Валиев",
+      "Максим Вакула"
+    ],
+    "year": 2026,
+    "categories": [
+      "ui",
+      "crossplatform"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2910,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "qxdxOocnQHg",
     "url": "https://www.youtube.com/watch?v=qxdxOocnQHg",
     "title": "От коммита до релиза: как устроена iOS-инфраструктура hh.ru",
@@ -498,6 +693,57 @@
     "curated": false
   },
   {
+    "video_id": "rnpCvvw6-Gs",
+    "url": "https://www.youtube.com/watch?v=rnpCvvw6-Gs",
+    "title": "Как легально опубликоваться вне App Store",
+    "speakers": [
+      "Сергей Вихляев"
+    ],
+    "year": 2026,
+    "categories": [
+      "services"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2673,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "sYUv2Kte87I",
+    "url": "https://www.youtube.com/watch?v=sYUv2Kte87I",
+    "title": "Анатомия LazyVStack. Проблемы, скрытые возможности, оптимизации",
+    "speakers": [
+      "Алексей Таран"
+    ],
+    "year": 2026,
+    "categories": [
+      "swiftui"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2700,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "tb-fU-VVhw4",
+    "url": "https://www.youtube.com/watch?v=tb-fU-VVhw4",
+    "title": "CI/CD не работает, и я знаю почему: карта точек отказа мобильного конвейера",
+    "speakers": [
+      "Вадим Некипелов"
+    ],
+    "year": 2026,
+    "categories": [
+      "cicd"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2739,
+    "source": "youtube",
+    "curated": false
+  },
+  {
     "video_id": "w7OHgqew04A",
     "url": "https://www.youtube.com/watch?v=w7OHgqew04A",
     "title": "Crash Reporting 101",
@@ -511,6 +757,24 @@
     "channel_slug": "mobius",
     "channel_title": "Mobius — конференция по мобильной разработке",
     "duration": 2649,
+    "source": "youtube",
+    "curated": false
+  },
+  {
+    "video_id": "x7HY2blfXQg",
+    "url": "https://www.youtube.com/watch?v=x7HY2blfXQg",
+    "title": "Метрики плавности мобильных приложений",
+    "speakers": [
+      "Данил Кристалев"
+    ],
+    "year": 2026,
+    "categories": [
+      "lowlevel",
+      "ui"
+    ],
+    "channel_slug": "mobius",
+    "channel_title": "Mobius — конференция по мобильной разработке",
+    "duration": 2745,
     "source": "youtube",
     "curated": false
   }
